@@ -1,0 +1,119 @@
+# Regras locais do Planalto Direto (SPEC §14.6). Rodam sem rede:
+#   semgrep scan --config testes/semgrep.yml --error --metrics=off
+rules:
+  # ------------------------------------------------------------------ JavaScript
+  - id: js-eval
+    languages: [javascript]
+    severity: ERROR
+    message: eval e new Function são proibidos.
+    pattern-either:
+      - pattern: eval(...)
+      - pattern: new Function(...)
+      - pattern: Function(...)
+
+  - id: js-html-cru
+    languages: [javascript]
+    severity: ERROR
+    message: HTML cru no DOM é proibido; use createElement/textContent.
+    pattern-either:
+      - pattern: document.write(...)
+      - pattern: document.writeln(...)
+      - pattern: $X.innerHTML = $Y
+      - pattern: $X.outerHTML = $Y
+      - pattern: $X.insertAdjacentHTML(...)
+
+  - id: js-navegacao-fora-de-pd-ir
+    languages: [javascript]
+    severity: ERROR
+    message: Navegação só pelas funções PD.ir e redirecionarRota.
+    patterns:
+      - pattern-either:
+          - pattern: location.href = $Y
+          - pattern: window.location.href = $Y
+          - pattern: location = $Y
+          - pattern: window.location = $Y
+          - pattern: location.assign(...)
+          - pattern: location.replace(...)
+          - pattern: window.location.assign(...)
+          - pattern: window.location.replace(...)
+      - pattern-not-inside: |
+          function redirecionarRota(...) { ... }
+      - pattern-not-inside: |
+          function ir(...) { ... }
+      - pattern-not-inside: |
+          $PD.ir = function (...) { ... }
+      - pattern-not-inside: |
+          $PD.ir = (...) => { ... }
+      - pattern-not-inside: |
+          ir: function (...) { ... }
+      - pattern-not-inside: |
+          ir(...) { ... }
+      - pattern-not-inside: |
+          redirecionarRota: function (...) { ... }
+      - pattern-not-inside: |
+          $PD.redirecionarRota = function (...) { ... }
+
+  - id: js-fetch-absoluto
+    languages: [javascript]
+    severity: ERROR
+    message: fetch só para o próprio site (caminho relativo).
+    pattern-regex: fetch\(\s*["'`]https?://
+
+  # ------------------------------------------------------------------ Python
+  - id: py-shell-true
+    languages: [python]
+    severity: ERROR
+    message: subprocess com shell=True é proibido.
+    pattern-either:
+      - pattern: subprocess.$F(..., shell=True, ...)
+      - pattern: os.system(...)
+      - pattern: os.popen(...)
+
+  - id: py-eval-exec
+    languages: [python]
+    severity: ERROR
+    message: eval/exec são proibidos.
+    pattern-either:
+      - pattern: eval(...)
+      - pattern: exec(...)
+
+  - id: py-pickle-yaml
+    languages: [python]
+    severity: ERROR
+    message: pickle e yaml.load são proibidos.
+    pattern-either:
+      - pattern: import pickle
+      - pattern: pickle.$F(...)
+      - pattern: yaml.load(...)
+
+  - id: py-rede-fora-do-atualizador
+    languages: [python]
+    severity: ERROR
+    message: urllib.request só em atualizador/rede.py.
+    paths:
+      exclude:
+        - "atualizador/rede.py"
+    pattern-either:
+      - pattern: import urllib.request
+      - pattern: from urllib.request import $X
+      - pattern: from urllib import request
+      - pattern: urllib.request.$F(...)
+
+  - id: py-caminho-de-disco
+    languages: [python]
+    severity: ERROR
+    message: Literal de caminho de disco no código (I8, I9).
+    pattern-regex: '["''][A-Za-z]:\\'
+
+  # ------------------------------------------------------------------ Workflow do GitHub
+  - id: workflow-entrada-em-run
+    languages: [generic]
+    severity: ERROR
+    message: Entradas do workflow vão por env, nunca interpoladas dentro de run.
+    paths:
+      include:
+        - ".github/workflows/*.yml"
+        - ".github/workflows/*.yaml"
+    pattern-either:
+      - pattern-regex: '(?m)^[ \t]*(?:-[ \t]+)?run:[ \t]*[^|>\s][^\n]*\$\{\{\s*(?:inputs|github\.event)\.'
+      - pattern-regex: '(?m)^([ \t]*)(?:-[ \t]+)?run:[ \t]*[|>][^\n]*\n(?:\1[ \t]+[^\n]*\n|[ \t]*\n)*?\1[ \t]+[^\n]*\$\{\{\s*(?:inputs|github\.event)\.'

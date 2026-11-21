@@ -1,0 +1,1000 @@
+{
+ "apelidos": [
+  {
+   "alvo": "lei-605-1949",
+   "nome": "Lei do Repouso Semanal Remunerado",
+   "nota": "",
+   "sigla": "Repouso Semanal",
+   "termos": [
+    "lei do repouso semanal",
+    "repouso semanal remunerado",
+    "dsr"
+   ]
+  },
+  {
+   "alvo": "lei-1060-1950",
+   "nome": "Lei da Assistência Judiciária",
+   "nota": "",
+   "sigla": "Gratuidade",
+   "termos": [
+    "lei da assistência judiciária"
+   ]
+  },
+  {
+   "alvo": "lei-4090-1962",
+   "nome": "Lei da Gratificação de Natal (13º salário)",
+   "nota": "",
+   "sigla": "13º salário",
+   "termos": [
+    "décimo terceiro",
+    "13º salário",
+    "gratificação natalina"
+   ]
+  },
+  {
+   "alvo": "lei-4717-1965",
+   "nome": "Lei da Ação Popular",
+   "nota": "",
+   "sigla": "Lei da Ação Popular",
+   "termos": [
+    "lei da ação popular",
+    "ação popular"
+   ]
+  },
+  {
+   "alvo": "lei-4737-1965",
+   "nome": "Código Eleitoral",
+   "nota": "",
+   "sigla": "Código Eleitoral",
+   "termos": [
+    "código eleitoral"
+   ]
+  },
+  {
+   "alvo": "lei-5172-1966",
+   "nome": "Código Tributário Nacional",
+   "nota": "",
+   "sigla": "CTN",
+   "termos": [
+    "ctn",
+    "código tributário nacional"
+   ]
+  },
+  {
+   "alvo": "lei-5869-1973",
+   "nome": "Código de Processo Civil de 1973",
+   "nota": "",
+   "sigla": "CPC/1973",
+   "termos": [
+    "cpc/73",
+    "cpc/1973",
+    "código de processo civil de 1973"
+   ]
+  },
+  {
+   "alvo": "lei-5889-1973",
+   "nome": "Lei do Trabalho Rural",
+   "nota": "",
+   "sigla": "Trabalho Rural",
+   "termos": [
+    "lei do trabalho rural",
+    "trabalhador rural"
+   ]
+  },
+  {
+   "alvo": "lei-6015-1973",
+   "nome": "Lei de Registros Públicos",
+   "nota": "",
+   "sigla": "Registros Públicos",
+   "termos": [
+    "lei de registros públicos",
+    "lrp"
+   ]
+  },
+  {
+   "alvo": "lei-6019-1974",
+   "nome": "Lei do Trabalho Temporário",
+   "nota": "",
+   "sigla": "Lei do Trabalho Temporário",
+   "termos": [
+    "trabalho temporário",
+    "lei do trabalho temporário"
+   ]
+  },
+  {
+   "alvo": "lei-6830-1980",
+   "nome": "Lei de Execução Fiscal",
+   "nota": "",
+   "sigla": "LEF",
+   "termos": [
+    "lef",
+    "lei de execução fiscal",
+    "lei de execuções fiscais"
+   ]
+  },
+  {
+   "alvo": "lei-7210-1984",
+   "nome": "Lei de Execução Penal",
+   "nota": "",
+   "sigla": "LEP",
+   "termos": [
+    "lep",
+    "lei de execução penal"
+   ]
+  },
+  {
+   "alvo": "lei-7347-1985",
+   "nome": "Lei da Ação Civil Pública",
+   "nota": "",
+   "sigla": "LACP",
+   "termos": [
+    "lacp",
+    "lei da ação civil pública",
+    "ação civil pública"
+   ]
+  },
+  {
+   "alvo": "lei-7418-1985",
+   "nome": "Lei do Vale-Transporte",
+   "nota": "",
+   "sigla": "Vale-Transporte",
+   "termos": [
+    "vale-transporte",
+    "vale transporte"
+   ]
+  },
+  {
+   "alvo": "lei-7783-1989",
+   "nome": "Lei de Greve",
+   "nota": "",
+   "sigla": "Lei de Greve",
+   "termos": [
+    "lei de greve"
+   ]
+  },
+  {
+   "alvo": "lei-7960-1989",
+   "nome": "Lei da Prisão Temporária",
+   "nota": "",
+   "sigla": "Prisão Temporária",
+   "termos": [
+    "lei da prisão temporária"
+   ]
+  },
+  {
+   "alvo": "lei-7998-1990",
+   "nome": "Lei do Seguro-Desemprego",
+   "nota": "",
+   "sigla": "Seguro-Desemprego",
+   "termos": [
+    "seguro-desemprego",
+    "seguro desemprego"
+   ]
+  },
+  {
+   "alvo": "lei-8009-1990",
+   "nome": "Lei do Bem de Família",
+   "nota": "",
+   "sigla": "Bem de Família",
+   "termos": [
+    "lei do bem de família"
+   ]
+  },
+  {
+   "alvo": "lei-8036-1990",
+   "nome": "Lei do FGTS",
+   "nota": "",
+   "sigla": "FGTS",
+   "termos": [
+    "fgts",
+    "lei do fgts"
+   ]
+  },
+  {
+   "alvo": "lei-8069-1990",
+   "nome": "Estatuto da Criança e do Adolescente",
+   "nota": "",
+   "sigla": "ECA",
+   "termos": [
+    "eca",
+    "estatuto da criança e do adolescente"
+   ]
+  },
+  {
+   "alvo": "lei-8072-1990",
+   "nome": "Lei dos Crimes Hediondos",
+   "nota": "",
+   "sigla": "Crimes Hediondos",
+   "termos": [
+    "lei dos crimes hediondos",
+    "crimes hediondos"
+   ]
+  },
+  {
+   "alvo": "lei-8078-1990",
+   "nome": "Código de Defesa do Consumidor",
+   "nota": "",
+   "sigla": "CDC",
+   "termos": [
+    "cdc",
+    "código de defesa do consumidor"
+   ]
+  },
+  {
+   "alvo": "lei-8112-1990",
+   "nome": "Regime Jurídico dos Servidores Públicos Civis da União",
+   "nota": "",
+   "sigla": "Estatuto do Servidor",
+   "termos": [
+    "rju",
+    "estatuto do servidor",
+    "regime jurídico único"
+   ]
+  },
+  {
+   "alvo": "lei-8212-1991",
+   "nome": "Lei de Custeio da Seguridade Social",
+   "nota": "",
+   "sigla": "Lei de Custeio",
+   "termos": [
+    "lei de custeio",
+    "plano de custeio"
+   ]
+  },
+  {
+   "alvo": "lei-8213-1991",
+   "nome": "Lei de Benefícios da Previdência Social",
+   "nota": "",
+   "sigla": "Lei de Benefícios",
+   "termos": [
+    "lei de benefícios",
+    "plano de benefícios"
+   ]
+  },
+  {
+   "alvo": "lei-8245-1991",
+   "nome": "Lei do Inquilinato",
+   "nota": "",
+   "sigla": "Lei do Inquilinato",
+   "termos": [
+    "lei do inquilinato",
+    "lei de locações"
+   ]
+  },
+  {
+   "alvo": "lei-8429-1992",
+   "nome": "Lei de Improbidade Administrativa",
+   "nota": "",
+   "sigla": "LIA",
+   "termos": [
+    "lia",
+    "lei de improbidade",
+    "lei de improbidade administrativa"
+   ]
+  },
+  {
+   "alvo": "lei-8742-1993",
+   "nome": "Lei Orgânica da Assistência Social",
+   "nota": "",
+   "sigla": "LOAS",
+   "termos": [
+    "loas",
+    "lei orgânica da assistência social"
+   ]
+  },
+  {
+   "alvo": "lei-8906-1994",
+   "nome": "Estatuto da Advocacia e da OAB",
+   "nota": "",
+   "sigla": "Estatuto da OAB",
+   "termos": [
+    "estatuto da oab",
+    "estatuto da advocacia"
+   ]
+  },
+  {
+   "alvo": "lei-8987-1995",
+   "nome": "Lei das Concessões",
+   "nota": "",
+   "sigla": "Lei das Concessões",
+   "termos": [
+    "lei das concessões"
+   ]
+  },
+  {
+   "alvo": "lei-9096-1995",
+   "nome": "Lei dos Partidos Políticos",
+   "nota": "",
+   "sigla": "Lei dos Partidos",
+   "termos": [
+    "lei dos partidos políticos"
+   ]
+  },
+  {
+   "alvo": "lei-9099-1995",
+   "nome": "Lei dos Juizados Especiais",
+   "nota": "",
+   "sigla": "Juizados Especiais",
+   "termos": [
+    "lei dos juizados",
+    "juizados especiais",
+    "jecrim"
+   ]
+  },
+  {
+   "alvo": "lei-9296-1996",
+   "nome": "Lei de Interceptação Telefônica",
+   "nota": "",
+   "sigla": "Interceptação",
+   "termos": [
+    "lei de interceptação telefônica"
+   ]
+  },
+  {
+   "alvo": "lei-9307-1996",
+   "nome": "Lei de Arbitragem",
+   "nota": "",
+   "sigla": "Arbitragem",
+   "termos": [
+    "lei de arbitragem"
+   ]
+  },
+  {
+   "alvo": "lei-9503-1997",
+   "nome": "Código de Trânsito Brasileiro",
+   "nota": "",
+   "sigla": "CTB",
+   "termos": [
+    "ctb",
+    "código de trânsito",
+    "código de trânsito brasileiro"
+   ]
+  },
+  {
+   "alvo": "lei-9504-1997",
+   "nome": "Lei das Eleições",
+   "nota": "",
+   "sigla": "Lei das Eleições",
+   "termos": [
+    "lei das eleições",
+    "lei eleitoral"
+   ]
+  },
+  {
+   "alvo": "lei-9605-1998",
+   "nome": "Lei de Crimes Ambientais",
+   "nota": "",
+   "sigla": "Crimes Ambientais",
+   "termos": [
+    "lei de crimes ambientais"
+   ]
+  },
+  {
+   "alvo": "lei-9610-1998",
+   "nome": "Lei de Direitos Autorais",
+   "nota": "",
+   "sigla": "Direitos Autorais",
+   "termos": [
+    "lei de direitos autorais",
+    "lda"
+   ]
+  },
+  {
+   "alvo": "lei-9613-1998",
+   "nome": "Lei de Lavagem de Dinheiro",
+   "nota": "",
+   "sigla": "Lavagem de Dinheiro",
+   "termos": [
+    "lei de lavagem",
+    "lavagem de dinheiro"
+   ]
+  },
+  {
+   "alvo": "lei-9784-1999",
+   "nome": "Lei do Processo Administrativo Federal",
+   "nota": "",
+   "sigla": "Processo Administrativo",
+   "termos": [
+    "lei do processo administrativo",
+    "lpa"
+   ]
+  },
+  {
+   "alvo": "lei-9868-1999",
+   "nome": "Lei da ADI e da ADC",
+   "nota": "",
+   "sigla": "Lei da ADI",
+   "termos": [
+    "lei da adi"
+   ]
+  },
+  {
+   "alvo": "lei-9882-1999",
+   "nome": "Lei da ADPF",
+   "nota": "",
+   "sigla": "Lei da ADPF",
+   "termos": [
+    "lei da adpf"
+   ]
+  },
+  {
+   "alvo": "lei-10101-2000",
+   "nome": "Lei da Participação nos Lucros ou Resultados",
+   "nota": "",
+   "sigla": "PLR",
+   "termos": [
+    "plr",
+    "participação nos lucros"
+   ]
+  },
+  {
+   "alvo": "lei-10257-2001",
+   "nome": "Estatuto da Cidade",
+   "nota": "",
+   "sigla": "Estatuto da Cidade",
+   "termos": [
+    "estatuto da cidade"
+   ]
+  },
+  {
+   "alvo": "lei-10259-2001",
+   "nome": "Lei dos Juizados Especiais Federais",
+   "nota": "",
+   "sigla": "JEF",
+   "termos": [
+    "jef",
+    "juizados especiais federais"
+   ]
+  },
+  {
+   "alvo": "lei-10406-2002",
+   "nome": "Código Civil",
+   "nota": "",
+   "sigla": "CC",
+   "termos": [
+    "cc",
+    "ccb",
+    "código civil",
+    "cc/02",
+    "cc/2002"
+   ]
+  },
+  {
+   "alvo": "lei-10741-2003",
+   "nome": "Estatuto da Pessoa Idosa",
+   "nota": "",
+   "sigla": "Estatuto do Idoso",
+   "termos": [
+    "estatuto do idoso",
+    "estatuto da pessoa idosa"
+   ]
+  },
+  {
+   "alvo": "lei-10826-2003",
+   "nome": "Estatuto do Desarmamento",
+   "nota": "",
+   "sigla": "Estatuto do Desarmamento",
+   "termos": [
+    "estatuto do desarmamento"
+   ]
+  },
+  {
+   "alvo": "lei-11079-2004",
+   "nome": "Lei das Parcerias Público-Privadas",
+   "nota": "",
+   "sigla": "Lei das PPPs",
+   "termos": [
+    "lei das ppps",
+    "ppp"
+   ]
+  },
+  {
+   "alvo": "lei-11101-2005",
+   "nome": "Lei de Falências e Recuperação Judicial",
+   "nota": "",
+   "sigla": "Lei de Falências",
+   "termos": [
+    "lei de falências",
+    "lei de recuperação judicial"
+   ]
+  },
+  {
+   "alvo": "lei-11196-2005",
+   "nome": "Lei do Bem",
+   "nota": "",
+   "sigla": "Lei do Bem",
+   "termos": [
+    "lei do bem"
+   ]
+  },
+  {
+   "alvo": "lei-11340-2006",
+   "nome": "Lei Maria da Penha",
+   "nota": "",
+   "sigla": "Maria da Penha",
+   "termos": [
+    "lei maria da penha",
+    "maria da penha"
+   ]
+  },
+  {
+   "alvo": "lei-11343-2006",
+   "nome": "Lei de Drogas",
+   "nota": "",
+   "sigla": "Lei de Drogas",
+   "termos": [
+    "lei de drogas",
+    "lei antidrogas"
+   ]
+  },
+  {
+   "alvo": "lei-11419-2006",
+   "nome": "Lei do Processo Eletrônico",
+   "nota": "",
+   "sigla": "Processo Eletrônico",
+   "termos": [
+    "lei do processo eletrônico"
+   ]
+  },
+  {
+   "alvo": "lei-11788-2008",
+   "nome": "Lei do Estágio",
+   "nota": "",
+   "sigla": "Lei do Estágio",
+   "termos": [
+    "lei do estágio",
+    "estágio"
+   ]
+  },
+  {
+   "alvo": "lei-12016-2009",
+   "nome": "Lei do Mandado de Segurança",
+   "nota": "",
+   "sigla": "LMS",
+   "termos": [
+    "lms",
+    "lei do mandado de segurança",
+    "mandado de segurança"
+   ]
+  },
+  {
+   "alvo": "lei-12153-2009",
+   "nome": "Lei dos Juizados Especiais da Fazenda Pública",
+   "nota": "",
+   "sigla": "JEFP",
+   "termos": [
+    "juizados da fazenda pública"
+   ]
+  },
+  {
+   "alvo": "lei-12527-2011",
+   "nome": "Lei de Acesso à Informação",
+   "nota": "",
+   "sigla": "LAI",
+   "termos": [
+    "lai",
+    "lei de acesso à informação"
+   ]
+  },
+  {
+   "alvo": "lei-12846-2013",
+   "nome": "Lei Anticorrupção",
+   "nota": "",
+   "sigla": "Lei Anticorrupção",
+   "termos": [
+    "lei anticorrupção"
+   ]
+  },
+  {
+   "alvo": "lei-12850-2013",
+   "nome": "Lei das Organizações Criminosas",
+   "nota": "",
+   "sigla": "Organização Criminosa",
+   "termos": [
+    "lei de organizações criminosas",
+    "lei das organizações criminosas"
+   ]
+  },
+  {
+   "alvo": "lei-12965-2014",
+   "nome": "Marco Civil da Internet",
+   "nota": "",
+   "sigla": "Marco Civil",
+   "termos": [
+    "marco civil da internet",
+    "marco civil"
+   ]
+  },
+  {
+   "alvo": "lei-13103-2015",
+   "nome": "Lei do Motorista",
+   "nota": "",
+   "sigla": "Lei do Motorista",
+   "termos": [
+    "lei do motorista"
+   ]
+  },
+  {
+   "alvo": "lei-13105-2015",
+   "nome": "Código de Processo Civil",
+   "nota": "",
+   "sigla": "CPC",
+   "termos": [
+    "cpc",
+    "cpc/15",
+    "cpc/2015",
+    "código de processo civil",
+    "novo cpc"
+   ]
+  },
+  {
+   "alvo": "lei-13146-2015",
+   "nome": "Lei Brasileira de Inclusão da Pessoa com Deficiência",
+   "nota": "",
+   "sigla": "LBI",
+   "termos": [
+    "lbi",
+    "estatuto da pessoa com deficiência",
+    "lei brasileira de inclusão"
+   ]
+  },
+  {
+   "alvo": "lei-13429-2017",
+   "nome": "Lei da Terceirização",
+   "nota": "Ela altera a Lei 6.019/1974.",
+   "sigla": "Lei da Terceirização",
+   "termos": [
+    "lei da terceirização",
+    "terceirização"
+   ]
+  },
+  {
+   "alvo": "lei-13467-2017",
+   "nome": "Reforma Trabalhista",
+   "nota": "Os artigos alterados estão na CLT.",
+   "sigla": "Reforma Trabalhista",
+   "termos": [
+    "reforma trabalhista",
+    "lei da reforma trabalhista"
+   ]
+  },
+  {
+   "alvo": "lei-13709-2018",
+   "nome": "Lei Geral de Proteção de Dados Pessoais",
+   "nota": "",
+   "sigla": "LGPD",
+   "termos": [
+    "lgpd",
+    "lei geral de proteção de dados"
+   ]
+  },
+  {
+   "alvo": "lei-13869-2019",
+   "nome": "Lei de Abuso de Autoridade",
+   "nota": "",
+   "sigla": "Abuso de Autoridade",
+   "termos": [
+    "lei de abuso de autoridade",
+    "abuso de autoridade"
+   ]
+  },
+  {
+   "alvo": "lei-13874-2019",
+   "nome": "Lei da Liberdade Econômica",
+   "nota": "",
+   "sigla": "Liberdade Econômica",
+   "termos": [
+    "lei da liberdade econômica"
+   ]
+  },
+  {
+   "alvo": "lei-13964-2019",
+   "nome": "Pacote Anticrime",
+   "nota": "",
+   "sigla": "Pacote Anticrime",
+   "termos": [
+    "pacote anticrime",
+    "lei anticrime"
+   ]
+  },
+  {
+   "alvo": "lei-14181-2021",
+   "nome": "Lei do Superendividamento",
+   "nota": "",
+   "sigla": "Superendividamento",
+   "termos": [
+    "lei do superendividamento"
+   ]
+  },
+  {
+   "alvo": "lei-14344-2022",
+   "nome": "Lei Henry Borel",
+   "nota": "",
+   "sigla": "Henry Borel",
+   "termos": [
+    "lei henry borel"
+   ]
+  },
+  {
+   "alvo": "lc-64-1990",
+   "nome": "Lei de Inelegibilidade",
+   "nota": "",
+   "sigla": "Lei de Inelegibilidade",
+   "termos": [
+    "lei de inelegibilidade",
+    "lei das inelegibilidades"
+   ]
+  },
+  {
+   "alvo": "lc-87-1996",
+   "nome": "Lei Kandir (ICMS)",
+   "nota": "",
+   "sigla": "Lei Kandir",
+   "termos": [
+    "lei kandir"
+   ]
+  },
+  {
+   "alvo": "lc-101-2000",
+   "nome": "Lei de Responsabilidade Fiscal",
+   "nota": "",
+   "sigla": "LRF",
+   "termos": [
+    "lrf",
+    "lei de responsabilidade fiscal"
+   ]
+  },
+  {
+   "alvo": "lc-116-2003",
+   "nome": "Lei do ISS",
+   "nota": "",
+   "sigla": "Lei do ISS",
+   "termos": [
+    "lei do iss"
+   ]
+  },
+  {
+   "alvo": "lc-123-2006",
+   "nome": "Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte",
+   "nota": "",
+   "sigla": "Simples Nacional",
+   "termos": [
+    "simples nacional",
+    "lei do simples",
+    "estatuto da microempresa"
+   ]
+  },
+  {
+   "alvo": "lc-135-2010",
+   "nome": "Lei da Ficha Limpa",
+   "nota": "",
+   "sigla": "Ficha Limpa",
+   "termos": [
+    "ficha limpa",
+    "lei da ficha limpa"
+   ]
+  },
+  {
+   "alvo": "lc-150-2015",
+   "nome": "Lei do Trabalho Doméstico",
+   "nota": "",
+   "sigla": "LC 150",
+   "termos": [
+    "doméstico",
+    "lei do doméstico",
+    "lei dos domésticos",
+    "trabalho doméstico"
+   ]
+  },
+  {
+   "alvo": "dl-1001-1969",
+   "nome": "Código Penal Militar",
+   "nota": "",
+   "sigla": "CPM",
+   "termos": [
+    "cpm",
+    "código penal militar"
+   ]
+  },
+  {
+   "alvo": "dl-1002-1969",
+   "nome": "Código de Processo Penal Militar",
+   "nota": "",
+   "sigla": "CPPM",
+   "termos": [
+    "cppm",
+    "código de processo penal militar"
+   ]
+  },
+  {
+   "alvo": "dl-2848-1940",
+   "nome": "Código Penal",
+   "nota": "",
+   "sigla": "CP",
+   "termos": [
+    "cp",
+    "código penal"
+   ]
+  },
+  {
+   "alvo": "dl-3688-1941",
+   "nome": "Lei das Contravenções Penais",
+   "nota": "",
+   "sigla": "Contravenções Penais",
+   "termos": [
+    "lcp",
+    "lei das contravenções penais",
+    "contravenções penais"
+   ]
+  },
+  {
+   "alvo": "dl-3689-1941",
+   "nome": "Código de Processo Penal",
+   "nota": "",
+   "sigla": "CPP",
+   "termos": [
+    "cpp",
+    "código de processo penal"
+   ]
+  },
+  {
+   "alvo": "dl-4657-1942",
+   "nome": "Lei de Introdução às Normas do Direito Brasileiro",
+   "nota": "",
+   "sigla": "LINDB",
+   "termos": [
+    "lindb",
+    "lei de introdução",
+    "licc"
+   ]
+  },
+  {
+   "alvo": "dl-5452-1943",
+   "nome": "Consolidação das Leis do Trabalho",
+   "nota": "",
+   "sigla": "CLT",
+   "termos": [
+    "clt",
+    "consolidação das leis do trabalho"
+   ]
+  },
+  {
+   "alvo": "ec-103-2019",
+   "nome": "Reforma da Previdência",
+   "nota": "",
+   "sigla": "Reforma da Previdência",
+   "termos": [
+    "reforma da previdência"
+   ]
+  },
+  {
+   "alvo": "cf-1988",
+   "nome": "Constituição Federal",
+   "nota": "",
+   "sigla": "CF",
+   "termos": [
+    "cf",
+    "cf/88",
+    "crfb",
+    "crfb/88",
+    "constituição",
+    "constituição federal"
+   ]
+  }
+ ],
+ "assuntos": [
+  {
+   "alvos": [
+    "lei-9029-1995"
+   ],
+   "termos": [
+    "discriminação gravidez"
+   ]
+  },
+  {
+   "alvos": [
+    "lei-10820-2003"
+   ],
+   "termos": [
+    "consignado",
+    "desconto em folha"
+   ]
+  },
+  {
+   "alvos": [
+    "lei-11770-2008"
+   ],
+   "termos": [
+    "licença-maternidade estendida",
+    "empresa cidadã"
+   ]
+  },
+  {
+   "alvos": [
+    "lei-12506-2011"
+   ],
+   "termos": [
+    "aviso prévio proporcional",
+    "aviso prévio"
+   ]
+  },
+  {
+   "alvos": [
+    "lei-13876-2019"
+   ],
+   "termos": [
+    "honorários periciais inss"
+   ]
+  },
+  {
+   "alvos": [
+    "lei-14611-2023"
+   ],
+   "termos": [
+    "igualdade salarial"
+   ]
+  }
+ ],
+ "fora_escopo": [
+  {
+   "mensagem": "OJ é jurisprudência do TST, não lei do Planalto.",
+   "padrao": "\\b(oj|orientacao jurisprudencial)\\b"
+  },
+  {
+   "mensagem": "Portarias, resoluções e instruções normativas não estão no Planalto Direto.",
+   "padrao": "\\b(portaria|resolucao|instrucao normativa)\\b"
+  },
+  {
+   "mensagem": "Regimento interno não é lei do Planalto.",
+   "padrao": "\\b(ri|regimento interno)\\b"
+  },
+  {
+   "mensagem": "Súmula é jurisprudência, não lei do Planalto.",
+   "padrao": "\\b(sum|sumula|enunciado)\\b"
+  },
+  {
+   "mensagem": "Decretos ainda não estão no índice do Planalto Direto.",
+   "padrao": "\\bdecreto\\b(?!\\s*-?\\s*lei)"
+  },
+  {
+   "mensagem": "NR é norma do Ministério do Trabalho, não lei do Planalto.",
+   "padrao": "^(nr|norma regulamentadora)\\s*-?\\s*\\d*$"
+  }
+ ],
+ "listas": [
+  {
+   "alvos": [
+    "lei-10097-2000",
+    "dl-5452-1943"
+   ],
+   "nota": "A aprendizagem está nos arts. 428 a 433 da CLT.",
+   "termos": [
+    "lei do aprendiz",
+    "aprendizagem"
+   ]
+  },
+  {
+   "alvos": [
+    "lei-14133-2021",
+    "lei-8666-1993"
+   ],
+   "nota": "A Lei 14.133/2021 substituiu a Lei 8.666/1993; veja o aviso na página da Lei 8.666/1993.",
+   "termos": [
+    "lei de licitações",
+    "licitações",
+    "lei de licitações e contratos"
+   ]
+  },
+  {
+   "alvos": [
+    "ec-132-2023",
+    "lc-214-2025"
+   ],
+   "nota": "A reforma tributária está na EC 132/2023 e na LC 214/2025.",
+   "termos": [
+    "reforma tributária"
+   ]
+  }
+ ],
+ "versao": 1
+}

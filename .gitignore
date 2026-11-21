@@ -1,0 +1,27 @@
+.estado/
+__pycache__/
+*.pyc
+testes/.saida/
+node_modules/
+*.sqlite3
+*.jsonl.bak
+relatorio*
+
+# Site gerado pelo estágio B (build/gerar_site.py): não vai para o git.
+# O GitHub Actions gera e publica o Pages (.github/workflows/pages.yml).
+# As fontes de docs/ continuam versionadas: config.js, assets/, .nojekyll, favicon.svg.
+/docs/index.html
+/docs/404.html
+/docs/opensearch.xml
+/docs/robots.txt
+/docs/sitemap*.xml
+/docs/.gerado
+/docs/dados/
+/docs/lei/
+/docs/lc/
+/docs/dl/
+/docs/mp/
+/docs/ec/
+/docs/ld/
+/docs/ecr/
+/docs/cf/

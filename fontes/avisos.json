@@ -1,0 +1,149 @@
+{
+ "avisos": [
+  {
+   "alvo": {
+    "disp": "39",
+    "k": "lei-8177-1991",
+    "parte": "corpo"
+   },
+   "conferido_em": "",
+   "estado": "atencao",
+   "fonte": "Nota no texto do Planalto sobre a ADC 58",
+   "id": "adc58-8177",
+   "ir_para": "",
+   "prova": {
+    "ancora": "art39",
+    "arquivo": "leis/l8177.htm",
+    "contem": "ADC\\s*58"
+   },
+   "texto": "O STF (ADC 58) tratou da atualização dos créditos trabalhistas ligada a este artigo. Confira na fonte."
+  },
+  {
+   "alvo": {
+    "disp": "879|§7",
+    "k": "dl-5452-1943",
+    "parte": "corpo"
+   },
+   "conferido_em": "2026-11-21",
+   "estado": "atencao",
+   "fonte": "Nota no texto do Planalto: \"Vide ADC 58\"",
+   "id": "adc58-879",
+   "ir_para": "",
+   "prova": {
+    "ancora": "art879",
+    "arquivo": "decreto-lei/del5452compilado.htm",
+    "contem": "ADC\\s*58"
+   },
+   "texto": "O STF (ADC 58) decidiu sobre a atualização dos créditos trabalhistas tratada neste parágrafo. Leia a nota no próprio texto do Planalto."
+  },
+  {
+   "alvo": {
+    "disp": "790-B",
+    "k": "dl-5452-1943",
+    "parte": "corpo"
+   },
+   "conferido_em": "2026-11-21",
+   "estado": "atencao",
+   "fonte": "Nota no texto do Planalto sobre a ADI 5766",
+   "id": "adi5766-790b",
+   "ir_para": "",
+   "prova": {
+    "ancora": "art790b.",
+    "arquivo": "decreto-lei/del5452compilado.htm",
+    "contem": "ADI\\s*5\\.?766"
+   },
+   "texto": "O STF (ADI 5.766) declarou inconstitucional parte deste artigo. Leia a nota no próprio texto do Planalto."
+  },
+  {
+   "alvo": {
+    "disp": "791-A|§4",
+    "k": "dl-5452-1943",
+    "parte": "corpo"
+   },
+   "conferido_em": "2026-11-21",
+   "estado": "atencao",
+   "fonte": "Nota no texto do Planalto sobre a ADI 5766",
+   "id": "adi5766-791a4",
+   "ir_para": "",
+   "prova": {
+    "ancora": "art791a",
+    "arquivo": "decreto-lei/del5452compilado.htm",
+    "contem": "ADI\\s*5\\.?766"
+   },
+   "texto": "O STF (ADI 5.766) declarou inconstitucional parte deste parágrafo. Leia a nota no próprio texto do Planalto."
+  },
+  {
+   "alvo": {
+    "disp": "8|pu",
+    "k": "dl-5452-1943",
+    "parte": "corpo"
+   },
+   "conferido_em": "2026-11-21",
+   "estado": "atencao",
+   "fonte": "Nota no texto do Planalto: \"Redação dada pela Lei nº 13.467, de 2017\"",
+   "id": "clt8-pu",
+   "ir_para": "8|§1",
+   "prova": {
+    "ancora": "art8§1",
+    "arquivo": "decreto-lei/del5452.htm",
+    "contem": "13\\.467"
+   },
+   "texto": "O parágrafo único foi renumerado para § 1º (Lei 13.467/2017)."
+  },
+  {
+   "alvo": {
+    "disp": "406",
+    "k": "lei-10406-2002",
+    "parte": "corpo"
+   },
+   "conferido_em": "2026-11-21",
+   "estado": "atencao",
+   "fonte": "Nota no texto do Planalto: \"Redação dada pela Lei nº 14.905, de 2024\"",
+   "id": "lei14905",
+   "ir_para": "",
+   "prova": {
+    "ancora": "art406",
+    "arquivo": "leis/2002/l10406.htm",
+    "contem": "14\\.905"
+   },
+   "texto": "Redação dada pela Lei 14.905/2024 (juros)."
+  },
+  {
+   "alvo": {
+    "disp": "",
+    "k": "lei-8666-1993",
+    "parte": "corpo"
+   },
+   "conferido_em": "2026-11-21",
+   "estado": "atencao",
+   "fonte": "Lei 14.133/2021, art. 193",
+   "id": "lei8666",
+   "ir_para": "",
+   "prova": {
+    "ancora": "art193",
+    "arquivo": "_ato2019-2022/2021/lei/l14133.htm",
+    "contem": "8\\.666"
+   },
+   "texto": "A Lei 14.133/2021 (art. 193) trata do fim da vigência desta lei. Para contratações novas, use a Lei 14.133/2021. Confira na fonte."
+  },
+  {
+   "alvo": {
+    "disp": "",
+    "k": "lei-13467-2017",
+    "parte": "corpo"
+   },
+   "conferido_em": "2026-11-21",
+   "estado": "atencao",
+   "fonte": "Lei 13.467/2017, art. 1º (altera a CLT, Decreto-Lei nº 5.452/1943)",
+   "id": "reforma",
+   "ir_para": "",
+   "prova": {
+    "ancora": "art1",
+    "arquivo": "_ato2015-2018/2017/lei/l13467.htm",
+    "contem": "5\\.452"
+   },
+   "texto": "Os artigos alterados estão na CLT; abra a CLT para o texto vigente."
+  }
+ ],
+ "versao": 1
+}

@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="strict-origin">
+<meta http-equiv="Content-Security-Policy" content="${csp}">
+<title>Planalto Direto — atalho para leis no planalto.gov.br</title>
+<meta name="description" content="Digite a citação (clt 477, lei 8.036/90, Del5452) e vá direto ao artigo da lei no planalto.gov.br. Ferramenta não oficial.">
+<link rel="canonical" href="${site_url}">
+<meta property="og:title" content="Planalto Direto"><meta property="og:description" content="Atalho não oficial para leis no planalto.gov.br.">
+<meta property="og:url" content="${site_url}"><meta property="og:type" content="website">
+${google_meta}
+<meta name="pd-raiz" content="./">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/estilo.css">
+<link rel="search" type="application/opensearchdescription+xml" title="Planalto Direto" href="opensearch.xml">
+</head>
+<body class="pg-home">
+<header class="topo"><h1 class="marca" aria-label="Planalto Direto">${marca_html}</h1></header>
+<main>
+<form class="busca" role="search" action="./" method="get">
+<label class="sr" for="q">Buscar lei</label>
+<input id="q" name="q" type="search" autocomplete="off" enterkeyhint="search" placeholder="clt 477 · lei 8.036/90 · Del5452 · aviso prévio">
+<button type="submit">Buscar lei</button>
+<button type="submit" name="pressa" value="1">Estou com pressa</button>
+</form>
+<section id="resultado" aria-live="polite"></section>
+<noscript><p>A busca precisa de JavaScript. Use as áreas abaixo para chegar às páginas das normas.</p></noscript>
+<section class="areas" aria-labelledby="t-areas">
+<h2 id="t-areas">Leis por área</h2>
+${areas_html}
+</section>
+<section class="como-usar" aria-labelledby="t-como">
+<h2 id="t-como">Como usar</h2>
+<p>Digite a citação como você escreveria numa peça. Exemplos:</p>
+<ul>
+${exemplos_html}
+</ul>
+</section>
+<section class="atalho" aria-labelledby="t-atalho">
+<h2 id="t-atalho">Atalho <code>pl</code> no navegador</h2>
+<p><strong>Chrome:</strong> Configurações → Mecanismo de pesquisa → Gerenciar mecanismos de pesquisa e pesquisa no site → em “Pesquisa no site”, <strong>Adicionar</strong>. Nome: <code>Planalto Direto</code>; Atalho: <code>pl</code>; URL: <code>${site_url}?q=%s</code>. Para usar, digite <code>pl</code>, aperte espaço ou Tab e escreva <code>clt 477</code>.</p>
+<p><strong>Edge:</strong> Configurações → Privacidade, pesquisa e serviços → Pesquisar e experiências conectadas → Barra de endereços e pesquisa → Gerenciar mecanismos de pesquisa → <strong>Adicionar</strong>, com os mesmos dados.</p>
+<p><strong>Firefox:</strong> a página oferece o mecanismo de pesquisa; no menu de pesquisa, escolha “Adicionar Planalto Direto”.</p>
+</section>
+<section class="sobre" aria-labelledby="t-sobre">
+<h2 id="t-sobre">Sobre</h2>
+<p>O Planalto Direto só guarda o índice e os nomes das âncoras; quem abre a lei é o seu navegador, direto no planalto.gov.br.</p>
+<p>Não coletamos nada: sem cookies, sem analytics.</p>
+<p>Situação de vigência não é verificada, salvo aviso.</p>
+<p>${sugestao_html}</p>
+</section>
+</main>
+<footer class="rodape">Ferramenta não oficial, sem vínculo com a Presidência da República. Sempre confira na fonte.</footer>
+<script src="config.js"></script><script src="assets/ui.js"></script>
+</body>
+</html>

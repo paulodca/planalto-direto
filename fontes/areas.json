@@ -1,0 +1,573 @@
+{
+ "areas": [
+  {
+   "id": "trabalho",
+   "itens": [
+    {
+     "dica": "Decreto-Lei 5.452/1943",
+     "k": "dl-5452-1943",
+     "rotulo": "CLT"
+    },
+    {
+     "dica": "Lei 13.467/2017",
+     "k": "lei-13467-2017",
+     "rotulo": "Reforma Trabalhista"
+    },
+    {
+     "dica": "LC 150/2015",
+     "k": "lc-150-2015",
+     "rotulo": "Trabalho doméstico"
+    },
+    {
+     "dica": "Lei 8.036/1990",
+     "k": "lei-8036-1990",
+     "rotulo": "FGTS"
+    },
+    {
+     "dica": "Lei 12.506/2011",
+     "k": "lei-12506-2011",
+     "rotulo": "Aviso prévio proporcional"
+    },
+    {
+     "dica": "Lei 605/1949",
+     "k": "lei-605-1949",
+     "rotulo": "Repouso semanal"
+    },
+    {
+     "dica": "Lei 4.090/1962",
+     "k": "lei-4090-1962",
+     "rotulo": "13º salário"
+    },
+    {
+     "dica": "Lei 7.418/1985",
+     "k": "lei-7418-1985",
+     "rotulo": "Vale-transporte"
+    },
+    {
+     "dica": "Lei 6.019/1974",
+     "k": "lei-6019-1974",
+     "rotulo": "Trabalho temporário e terceirização"
+    },
+    {
+     "dica": "Lei 7.783/1989",
+     "k": "lei-7783-1989",
+     "rotulo": "Greve"
+    },
+    {
+     "dica": "Lei 5.889/1973",
+     "k": "lei-5889-1973",
+     "rotulo": "Trabalho rural"
+    },
+    {
+     "dica": "Lei 10.101/2000",
+     "k": "lei-10101-2000",
+     "rotulo": "PLR"
+    },
+    {
+     "dica": "Lei 9.029/1995",
+     "k": "lei-9029-1995",
+     "rotulo": "Discriminação no trabalho"
+    },
+    {
+     "dica": "Lei 14.611/2023",
+     "k": "lei-14611-2023",
+     "rotulo": "Igualdade salarial"
+    },
+    {
+     "dica": "Lei 11.788/2008",
+     "k": "lei-11788-2008",
+     "rotulo": "Estágio"
+    },
+    {
+     "dica": "Lei 7.998/1990",
+     "k": "lei-7998-1990",
+     "rotulo": "Seguro-desemprego"
+    }
+   ],
+   "nome": "Trabalho"
+  },
+  {
+   "id": "processo-trabalho",
+   "itens": [
+    {
+     "dica": "Decreto-Lei 5.452/1943 (arts. 643 a 910)",
+     "k": "dl-5452-1943",
+     "rotulo": "CLT"
+    },
+    {
+     "dica": "Lei 5.584/1970",
+     "k": "lei-5584-1970",
+     "rotulo": "Normas de processo do trabalho"
+    },
+    {
+     "dica": "Lei 7.701/1988",
+     "k": "lei-7701-1988",
+     "rotulo": "Turmas do TST"
+    },
+    {
+     "dica": "Decreto-Lei 779/1969",
+     "k": "dl-779-1969",
+     "rotulo": "Entes públicos no processo do trabalho"
+    },
+    {
+     "dica": "Lei 6.830/1980 (art. 889 da CLT)",
+     "k": "lei-6830-1980",
+     "rotulo": "Execução fiscal"
+    },
+    {
+     "dica": "Lei 8.177/1991 (art. 39)",
+     "k": "lei-8177-1991",
+     "rotulo": "Juros e correção"
+    },
+    {
+     "dica": "EC 45/2004",
+     "k": "ec-45-2004",
+     "rotulo": "Reforma do Judiciário"
+    },
+    {
+     "dica": "Lei 13.105/2015 (aplicação supletiva)",
+     "k": "lei-13105-2015",
+     "rotulo": "CPC"
+    }
+   ],
+   "nome": "Processo do Trabalho"
+  },
+  {
+   "id": "constitucional",
+   "itens": [
+    {
+     "dica": "Constituição Federal de 1988",
+     "k": "cf-1988",
+     "rotulo": "Constituição"
+    },
+    {
+     "dica": "Lei 9.868/1999",
+     "k": "lei-9868-1999",
+     "rotulo": "ADI e ADC"
+    },
+    {
+     "dica": "Lei 9.882/1999",
+     "k": "lei-9882-1999",
+     "rotulo": "ADPF"
+    },
+    {
+     "dica": "Lei 12.016/2009",
+     "k": "lei-12016-2009",
+     "rotulo": "Mandado de segurança"
+    },
+    {
+     "dica": "Lei 13.300/2016",
+     "k": "lei-13300-2016",
+     "rotulo": "Mandado de injunção"
+    },
+    {
+     "dica": "Lei 9.507/1997",
+     "k": "lei-9507-1997",
+     "rotulo": "Habeas data"
+    },
+    {
+     "dica": "Lei 4.717/1965",
+     "k": "lei-4717-1965",
+     "rotulo": "Ação popular"
+    }
+   ],
+   "nome": "Constitucional"
+  },
+  {
+   "id": "civil",
+   "itens": [
+    {
+     "dica": "Lei 10.406/2002",
+     "k": "lei-10406-2002",
+     "rotulo": "Código Civil"
+    },
+    {
+     "dica": "Decreto-Lei 4.657/1942",
+     "k": "dl-4657-1942",
+     "rotulo": "LINDB"
+    },
+    {
+     "dica": "Lei 14.905/2024",
+     "k": "lei-14905-2024",
+     "rotulo": "Juros e correção no Código Civil"
+    },
+    {
+     "dica": "Lei 8.245/1991",
+     "k": "lei-8245-1991",
+     "rotulo": "Inquilinato"
+    },
+    {
+     "dica": "Lei 6.015/1973",
+     "k": "lei-6015-1973",
+     "rotulo": "Registros públicos"
+    },
+    {
+     "dica": "Lei 8.009/1990",
+     "k": "lei-8009-1990",
+     "rotulo": "Bem de família"
+    },
+    {
+     "dica": "Lei 9.610/1998",
+     "k": "lei-9610-1998",
+     "rotulo": "Direitos autorais"
+    },
+    {
+     "dica": "Lei 13.709/2018",
+     "k": "lei-13709-2018",
+     "rotulo": "LGPD"
+    }
+   ],
+   "nome": "Civil"
+  },
+  {
+   "id": "processo-civil",
+   "itens": [
+    {
+     "dica": "Lei 13.105/2015",
+     "k": "lei-13105-2015",
+     "rotulo": "CPC"
+    },
+    {
+     "dica": "Lei 9.099/1995",
+     "k": "lei-9099-1995",
+     "rotulo": "Juizados especiais"
+    },
+    {
+     "dica": "Lei 10.259/2001",
+     "k": "lei-10259-2001",
+     "rotulo": "JEF"
+    },
+    {
+     "dica": "Lei 12.153/2009",
+     "k": "lei-12153-2009",
+     "rotulo": "JEFP"
+    },
+    {
+     "dica": "Lei 7.347/1985",
+     "k": "lei-7347-1985",
+     "rotulo": "Ação civil pública"
+    },
+    {
+     "dica": "Lei 6.830/1980",
+     "k": "lei-6830-1980",
+     "rotulo": "LEF"
+    },
+    {
+     "dica": "Lei 9.307/1996",
+     "k": "lei-9307-1996",
+     "rotulo": "Arbitragem"
+    },
+    {
+     "dica": "Lei 11.419/2006",
+     "k": "lei-11419-2006",
+     "rotulo": "Processo eletrônico"
+    },
+    {
+     "dica": "Lei 1.060/1950",
+     "k": "lei-1060-1950",
+     "rotulo": "Assistência judiciária"
+    }
+   ],
+   "nome": "Processo Civil"
+  },
+  {
+   "id": "penal",
+   "itens": [
+    {
+     "dica": "Decreto-Lei 2.848/1940",
+     "k": "dl-2848-1940",
+     "rotulo": "Código Penal"
+    },
+    {
+     "dica": "Decreto-Lei 3.688/1941",
+     "k": "dl-3688-1941",
+     "rotulo": "Contravenções"
+    },
+    {
+     "dica": "Lei 11.343/2006",
+     "k": "lei-11343-2006",
+     "rotulo": "Drogas"
+    },
+    {
+     "dica": "Lei 8.072/1990",
+     "k": "lei-8072-1990",
+     "rotulo": "Crimes hediondos"
+    },
+    {
+     "dica": "Lei 11.340/2006",
+     "k": "lei-11340-2006",
+     "rotulo": "Maria da Penha"
+    },
+    {
+     "dica": "Lei 10.826/2003",
+     "k": "lei-10826-2003",
+     "rotulo": "Desarmamento"
+    },
+    {
+     "dica": "Lei 13.869/2019",
+     "k": "lei-13869-2019",
+     "rotulo": "Abuso de autoridade"
+    },
+    {
+     "dica": "Lei 12.850/2013",
+     "k": "lei-12850-2013",
+     "rotulo": "Organização criminosa"
+    },
+    {
+     "dica": "Lei 9.613/1998",
+     "k": "lei-9613-1998",
+     "rotulo": "Lavagem"
+    },
+    {
+     "dica": "Lei 9.605/1998",
+     "k": "lei-9605-1998",
+     "rotulo": "Crimes ambientais"
+    }
+   ],
+   "nome": "Penal"
+  },
+  {
+   "id": "processo-penal",
+   "itens": [
+    {
+     "dica": "Decreto-Lei 3.689/1941",
+     "k": "dl-3689-1941",
+     "rotulo": "CPP"
+    },
+    {
+     "dica": "Lei 7.210/1984",
+     "k": "lei-7210-1984",
+     "rotulo": "LEP"
+    },
+    {
+     "dica": "Lei 13.964/2019",
+     "k": "lei-13964-2019",
+     "rotulo": "Pacote anticrime"
+    },
+    {
+     "dica": "Lei 7.960/1989",
+     "k": "lei-7960-1989",
+     "rotulo": "Prisão temporária"
+    },
+    {
+     "dica": "Lei 9.296/1996",
+     "k": "lei-9296-1996",
+     "rotulo": "Interceptação telefônica"
+    }
+   ],
+   "nome": "Processo Penal"
+  },
+  {
+   "id": "administrativo",
+   "itens": [
+    {
+     "dica": "Lei 14.133/2021",
+     "k": "lei-14133-2021",
+     "rotulo": "Licitações e contratos"
+    },
+    {
+     "dica": "Lei 8.112/1990",
+     "k": "lei-8112-1990",
+     "rotulo": "Servidores federais"
+    },
+    {
+     "dica": "Lei 9.784/1999",
+     "k": "lei-9784-1999",
+     "rotulo": "Processo administrativo"
+    },
+    {
+     "dica": "Lei 8.429/1992",
+     "k": "lei-8429-1992",
+     "rotulo": "Improbidade"
+    },
+    {
+     "dica": "Lei 12.527/2011",
+     "k": "lei-12527-2011",
+     "rotulo": "Acesso à informação"
+    },
+    {
+     "dica": "Lei 12.846/2013",
+     "k": "lei-12846-2013",
+     "rotulo": "Anticorrupção"
+    },
+    {
+     "dica": "Lei 8.987/1995",
+     "k": "lei-8987-1995",
+     "rotulo": "Concessões"
+    },
+    {
+     "dica": "Lei 11.079/2004",
+     "k": "lei-11079-2004",
+     "rotulo": "PPPs"
+    },
+    {
+     "dica": "LC 101/2000",
+     "k": "lc-101-2000",
+     "rotulo": "LRF"
+    }
+   ],
+   "nome": "Administrativo"
+  },
+  {
+   "id": "tributario",
+   "itens": [
+    {
+     "dica": "Lei 5.172/1966",
+     "k": "lei-5172-1966",
+     "rotulo": "CTN"
+    },
+    {
+     "dica": "EC 132/2023",
+     "k": "ec-132-2023",
+     "rotulo": "Reforma tributária"
+    },
+    {
+     "dica": "LC 214/2025",
+     "k": "lc-214-2025",
+     "rotulo": "IBS e CBS"
+    },
+    {
+     "dica": "LC 87/1996 (Lei Kandir)",
+     "k": "lc-87-1996",
+     "rotulo": "ICMS"
+    },
+    {
+     "dica": "LC 116/2003",
+     "k": "lc-116-2003",
+     "rotulo": "ISS"
+    },
+    {
+     "dica": "LC 123/2006",
+     "k": "lc-123-2006",
+     "rotulo": "Simples Nacional"
+    },
+    {
+     "dica": "Lei 8.137/1990",
+     "k": "lei-8137-1990",
+     "rotulo": "Crimes contra a ordem tributária"
+    }
+   ],
+   "nome": "Tributário"
+  },
+  {
+   "id": "previdenciario",
+   "itens": [
+    {
+     "dica": "Lei 8.213/1991",
+     "k": "lei-8213-1991",
+     "rotulo": "Benefícios"
+    },
+    {
+     "dica": "Lei 8.212/1991",
+     "k": "lei-8212-1991",
+     "rotulo": "Custeio"
+    },
+    {
+     "dica": "EC 103/2019",
+     "k": "ec-103-2019",
+     "rotulo": "Reforma da Previdência"
+    },
+    {
+     "dica": "LC 142/2013",
+     "k": "lc-142-2013",
+     "rotulo": "Aposentadoria da pessoa com deficiência"
+    },
+    {
+     "dica": "Lei 8.742/1993",
+     "k": "lei-8742-1993",
+     "rotulo": "LOAS"
+    },
+    {
+     "dica": "LC 109/2001",
+     "k": "lc-109-2001",
+     "rotulo": "Previdência complementar"
+    }
+   ],
+   "nome": "Previdenciário"
+  },
+  {
+   "id": "consumidor",
+   "itens": [
+    {
+     "dica": "Lei 8.078/1990",
+     "k": "lei-8078-1990",
+     "rotulo": "CDC"
+    },
+    {
+     "dica": "Lei 14.181/2021",
+     "k": "lei-14181-2021",
+     "rotulo": "Superendividamento"
+    },
+    {
+     "dica": "Lei 12.965/2014",
+     "k": "lei-12965-2014",
+     "rotulo": "Marco Civil da Internet"
+    }
+   ],
+   "nome": "Consumidor"
+  },
+  {
+   "id": "crianca",
+   "itens": [
+    {
+     "dica": "Lei 8.069/1990",
+     "k": "lei-8069-1990",
+     "rotulo": "ECA"
+    },
+    {
+     "dica": "Lei 13.257/2016",
+     "k": "lei-13257-2016",
+     "rotulo": "Primeira infância"
+    },
+    {
+     "dica": "Lei 12.594/2012",
+     "k": "lei-12594-2012",
+     "rotulo": "SINASE"
+    },
+    {
+     "dica": "Lei 13.431/2017",
+     "k": "lei-13431-2017",
+     "rotulo": "Escuta protegida"
+    },
+    {
+     "dica": "Lei 14.344/2022",
+     "k": "lei-14344-2022",
+     "rotulo": "Lei Henry Borel"
+    }
+   ],
+   "nome": "Criança e Adolescente"
+  },
+  {
+   "id": "eleitoral",
+   "itens": [
+    {
+     "dica": "Lei 4.737/1965",
+     "k": "lei-4737-1965",
+     "rotulo": "Código Eleitoral"
+    },
+    {
+     "dica": "Lei 9.504/1997",
+     "k": "lei-9504-1997",
+     "rotulo": "Lei das Eleições"
+    },
+    {
+     "dica": "Lei 9.096/1995",
+     "k": "lei-9096-1995",
+     "rotulo": "Partidos políticos"
+    },
+    {
+     "dica": "LC 64/1990",
+     "k": "lc-64-1990",
+     "rotulo": "Inelegibilidade"
+    },
+    {
+     "dica": "LC 135/2010",
+     "k": "lc-135-2010",
+     "rotulo": "Ficha Limpa"
+    }
+   ],
+   "nome": "Eleitoral"
+  }
+ ],
+ "versao": 1
+}

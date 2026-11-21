@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="strict-origin">
+<meta http-equiv="Content-Security-Policy" content="${csp}">
+<title>${titulo}</title>
+<meta name="description" content="${descricao}">
+<link rel="canonical" href="${canonical}">
+<meta property="og:title" content="${titulo}"><meta property="og:description" content="${descricao}">
+<meta property="og:url" content="${canonical}"><meta property="og:type" content="website">
+<meta name="pd-raiz" content="../../">
+<link rel="icon" href="../../favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../assets/estilo.css">
+<link rel="search" type="application/opensearchdescription+xml" title="Planalto Direto" href="../../opensearch.xml">
+</head>
+<body class="pg-norma">
+<header class="topo"><a class="marca-mini" href="../../" aria-label="Planalto Direto: página inicial">${marca_html}</a>
+<form class="busca-mini" action="../../" method="get" role="search"><label class="sr" for="q">Buscar lei</label>
+<input id="q" name="q" type="search" autocomplete="off" enterkeyhint="search" placeholder="clt 477, lei 8.036/90…"><button type="submit">Buscar</button></form></header>
+<main>
+<h1>${nome_norma}</h1>
+${apelidos_html}
+<p class="ementa">${ementa}</p>
+${avisos_html}
+<p><a class="botao-grande" href="${url_principal}" rel="noopener">Abrir no Planalto — ${rotulo_principal}</a></p>
+${alternativo_html}
+<dl class="ficha">
+${data_html}
+<dt>Arquivo no Planalto</dt><dd><code>${arquivo}</code></dd>
+${compilado_html}
+<dt>Situação</dt><dd>${situacao}</dd>
+</dl>
+<form class="ir-artigo" hidden data-consulta-base="${consulta_base}"><label for="art">Ir ao artigo</label>
+<input id="art" inputmode="text" autocomplete="off" placeholder="477 § 2º"><button type="submit">Ir</button></form>
+${mesmo_numero_html}
+</main>
+<footer class="rodape">Ferramenta não oficial, sem vínculo com a Presidência da República. Sempre confira na fonte.</footer>
+<script src="../../config.js"></script><script src="../../assets/nucleo.js"></script><script src="../../assets/ui.js"></script>
+</body>
+</html>

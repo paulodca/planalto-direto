@@ -1,0 +1,13 @@
+{
+ "substituicoes": [
+  {
+   "campo": "caminho_compilado",
+   "conferido_em": "2026-11-21",
+   "de": "leis/l8666consimpressao.htm",
+   "justificativa": "Versão de impressão, não compilado: no cache, o texto antigo aparece sem riscado (256 riscados contra 1.124 em l8666cons.htm) e todas as âncoras de l8666cons.htm são so_riscada. Fica só a página do índice, sem fragmento, com a dica Ctrl+F.",
+   "k": "lei-8666-1993",
+   "para": ""
+  }
+ ],
+ "versao": 1
+}

@@ -1,0 +1,74 @@
+name: Atualizar índice (manual)
+# Só disparo manual (Actions → "Atualizar índice (manual)" → Run workflow). Sem agendamento.
+# O Planalto provavelmente barra IPs fora do Brasil (TSPD): nesse caso o passo "Atualizar"
+# sai com código 2 e nada é publicado. Veja atualizador/LEIAME.md para rodar numa máquina no Brasil.
+# O site gerado (docs/) não vai para o git: com "publicar", este workflow faz o commit só de base/
+# e depois chama .github/workflows/pages.yml (job "pages"), porque um push feito com o GITHUB_TOKEN
+# padrão não dispara o gatilho "push" de outros workflows.
+on:
+  workflow_dispatch:
+    inputs:
+      modo:
+        description: "Quais índices ler"
+        type: choice
+        options: [ano-corrente, todos]
+        default: ano-corrente
+      publicar:
+        description: "Fazer commit e push do resultado"
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: atualizador
+  cancel-in-progress: false
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    outputs:
+      commit: ${{ steps.publicar.outputs.commit }}
+    env:
+      MODO: ${{ inputs.modo }}
+      PUBLICAR: ${{ inputs.publicar }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - uses: actions/setup-node@v4
+        with: { node-version: '22' }
+      - name: Atualizar
+        run: python -P atualizador/atualizar.py --estado "$RUNNER_TEMP/pd" --modo "$MODO"
+      - name: Testes rápidos
+        run: python -P testes/rodar_tudo.py --rapido
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: relatorio
+          path: ${{ runner.temp }}/pd/relatorios/
+      - name: Publicar
+        id: publicar
+        if: ${{ inputs.publicar }}
+        run: |
+          git config user.name "Planalto Direto"
+          git config user.email ""
+          git config user.useConfigOnly true
+          git add base atualizador/lista_branca.json
+          if git diff --cached --quiet; then
+            echo "Nada novo para publicar."
+          else
+            git commit -m "Atualização do índice ($MODO)"
+            git push
+            echo "commit=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+          fi
+  pages:
+    # Só roda quando houve commit novo; publica exatamente esse commit.
+    needs: atualizar
+    if: ${{ needs.atualizar.outputs.commit != '' }}
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    uses: ./.github/workflows/pages.yml
+    with:
+      ref: ${{ needs.atualizar.outputs.commit }}

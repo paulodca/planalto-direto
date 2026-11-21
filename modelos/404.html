@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="strict-origin">
+<meta http-equiv="Content-Security-Policy" content="${csp}">
+<meta name="robots" content="noindex">
+<title>Página não encontrada — Planalto Direto</title>
+<meta name="pd-raiz" content="${site_path}">
+<link rel="icon" href="${site_path}favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="${site_path}assets/estilo.css">
+<link rel="search" type="application/opensearchdescription+xml" title="Planalto Direto" href="${site_path}opensearch.xml">
+</head>
+<body class="pg-404">
+<header class="topo"><a class="marca-mini" href="${site_path}" aria-label="Planalto Direto: página inicial">${marca_html}</a></header>
+<main>
+<h1>Página não encontrada</h1>
+<p>Busque a lei pela citação, como <code>clt 477</code> ou <code>lei 8.036/90 art 3</code>.</p>
+<form class="busca" role="search" action="${site_path}" method="get">
+<label class="sr" for="q">Buscar lei</label>
+<input id="q" name="q" type="search" autocomplete="off" enterkeyhint="search" placeholder="clt 477 · lei 8.036/90 · Del5452 · aviso prévio">
+<button type="submit">Buscar lei</button>
+<button type="submit" name="pressa" value="1">Estou com pressa</button>
+</form>
+<section id="resultado" aria-live="polite"></section>
+<p><a href="${site_path}">Ir para a página inicial</a></p>
+</main>
+<footer class="rodape">Ferramenta não oficial, sem vínculo com a Presidência da República. Sempre confira na fonte.</footer>
+<script src="${site_path}config.js"></script><script src="${site_path}assets/nucleo.js"></script><script src="${site_path}assets/ui.js"></script>
+</body>
+</html>

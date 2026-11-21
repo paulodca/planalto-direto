@@ -1,0 +1,8525 @@
+{
+ "adct": {
+  "1": {
+   "c": "sadctart1",
+   "h": "art1adct"
+  },
+  "10": {
+   "c": "sadctart10",
+   "h": "adctart10"
+  },
+  "100": {
+   "h": "adctart100"
+  },
+  "101": {
+   "h": "sadctart101.0"
+  },
+  "101|§1": {
+   "h": "adctart101§1"
+  },
+  "101|§1|I": {
+   "h": "adctart101§1i"
+  },
+  "101|§1|II": {
+   "h": "adctart101§1ii"
+  },
+  "101|§2": {
+   "h": "adctart101§2."
+  },
+  "101|§2|I": {
+   "h": "adctart101§2i."
+  },
+  "101|§2|II": {
+   "h": "adctart101§2ii."
+  },
+  "101|§2|III": {
+   "h": "adctart101§2iii."
+  },
+  "101|§2|II|a": {
+   "h": "adctart101§2iia"
+  },
+  "101|§2|II|b": {
+   "h": "adctart101§2iib."
+  },
+  "101|§2|IV": {
+   "h": "adctart101§2iv"
+  },
+  "101|§3": {
+   "h": "adctart101§3"
+  },
+  "101|§4": {
+   "h": "adctart101§4.0"
+  },
+  "101|§4|I": {
+   "h": "adctart101§4i.0"
+  },
+  "101|§4|II": {
+   "h": "adctart101§4ii.0"
+  },
+  "101|§4|III": {
+   "h": "adctart101§4iii.0"
+  },
+  "101|§4|IV": {
+   "h": "adctart101§4iv.0"
+  },
+  "101|§5": {
+   "h": "adctart101§5"
+  },
+  "101|§6": {
+   "h": "adctart101§6"
+  },
+  "102": {
+   "h": "adctart102"
+  },
+  "102|§1": {
+   "h": "adctart102§1"
+  },
+  "102|§2": {
+   "h": "adctart102§2"
+  },
+  "103": {
+   "c": "sadctart103",
+   "h": "adctart103"
+  },
+  "103|pu": {
+   "h": "adctart103p"
+  },
+  "104": {
+   "c": "sadctart104",
+   "h": "adctart104"
+  },
+  "104|I": {
+   "h": "adctart104i"
+  },
+  "104|II": {
+   "h": "adctart104ii"
+  },
+  "104|III": {
+   "h": "adctart104iii"
+  },
+  "104|pu": {
+   "h": "adctart104p"
+  },
+  "105": {
+   "c": "sadctart105",
+   "h": "adctart105"
+  },
+  "105|§1": {
+   "h": "adctart105§1"
+  },
+  "105|§2": {
+   "h": "adctart105§2"
+  },
+  "105|§3": {
+   "h": "adctart105§3"
+  },
+  "107-A": {
+   "h": "adctart107a.0"
+  },
+  "107-A|I": {
+   "h": "adctart107ai"
+  },
+  "107-A|II": {
+   "h": "adctart107aii"
+  },
+  "107-A|III": {
+   "h": "adctart107aiii"
+  },
+  "107-A|§1": {
+   "h": "adctart107a§1"
+  },
+  "107-A|§2": {
+   "h": "adctart107a§2"
+  },
+  "107-A|§3": {
+   "h": "adctart107a§3"
+  },
+  "107-A|§4": {
+   "h": "adctart107a§4"
+  },
+  "107-A|§5": {
+   "h": "adctart107a§5"
+  },
+  "107-A|§6": {
+   "h": "adctart107a§6"
+  },
+  "107-A|§7": {
+   "h": "adctart107a§7"
+  },
+  "107-A|§8": {
+   "h": "adctart107a§8"
+  },
+  "107-A|§8|I": {
+   "h": "adctart107a§8i"
+  },
+  "107-A|§8|II": {
+   "h": "adctart107a§8ii"
+  },
+  "107-A|§8|III": {
+   "h": "adctart107a§8iii"
+  },
+  "107-A|§8|IV": {
+   "h": "adctart107a§8iv"
+  },
+  "107-A|§8|V": {
+   "h": "adctart107a§8v"
+  },
+  "109": {
+   "h": "adctart109"
+  },
+  "10|I": {
+   "h": "adctart10i"
+  },
+  "10|II": {
+   "h": "adctart10ii"
+  },
+  "10|II|a": {
+   "h": "adctart10iia"
+  },
+  "10|II|b": {
+   "h": "adctart10iib"
+  },
+  "10|§1": {
+   "h": "adctart10§1"
+  },
+  "10|§2": {
+   "h": "adctart10§2"
+  },
+  "10|§3": {
+   "h": "adctart10§3"
+  },
+  "11": {
+   "c": "sadctart11"
+  },
+  "110": {
+   "c": "sadctart110"
+  },
+  "113": {
+   "h": "adctart113"
+  },
+  "115": {
+   "h": "adctart115.0"
+  },
+  "115|I": {
+   "h": "adctart115i"
+  },
+  "115|II": {
+   "h": "adctart115ii"
+  },
+  "115|III": {
+   "h": "adctart115iii"
+  },
+  "115|IV": {
+   "h": "adctart115iv"
+  },
+  "115|§1": {
+   "h": "adctart115§1"
+  },
+  "115|§2": {
+   "h": "adctart115§2"
+  },
+  "115|§3": {
+   "h": "adctart115§3"
+  },
+  "116": {
+   "h": "adctart116.0"
+  },
+  "116-A": {
+   "h": "adctart116a"
+  },
+  "116|§1": {
+   "h": "adctart116§1.0"
+  },
+  "116|§2": {
+   "h": "adctart116§2"
+  },
+  "116|§3": {
+   "h": "adctart116§3.0"
+  },
+  "116|§4": {
+   "h": "adctart116§4"
+  },
+  "116|§5": {
+   "h": "adctart116§5"
+  },
+  "116|§6": {
+   "h": "adctart116§6"
+  },
+  "117": {
+   "h": "adctart117.0"
+  },
+  "117|I": {
+   "h": "adctart117i"
+  },
+  "117|II": {
+   "h": "adctart117ii"
+  },
+  "117|III": {
+   "h": "adctart117iii"
+  },
+  "118": {
+   "h": "adctart118"
+  },
+  "119": {
+   "h": "adctart119"
+  },
+  "12": {
+   "c": "sadctart12",
+   "h": "adctart12"
+  },
+  "120": {
+   "h": "adctart120"
+  },
+  "121": {
+   "h": "adctart121"
+  },
+  "121|pu": {
+   "h": "adctart121p"
+  },
+  "122": {
+   "h": "adctart122"
+  },
+  "123": {
+   "h": "adctart123"
+  },
+  "124": {
+   "h": "adctart124"
+  },
+  "125": {
+   "h": "adctart125"
+  },
+  "125|§3": {
+   "h": "adctart125§3"
+  },
+  "126": {
+   "h": "adctart126"
+  },
+  "127": {
+   "h": "adctart127"
+  },
+  "128": {
+   "h": "adctart128"
+  },
+  "128|§1": {
+   "h": "adctart128§1"
+  },
+  "129": {
+   "h": "adctart129"
+  },
+  "12|§1": {
+   "h": "adctart12§1"
+  },
+  "12|§2": {
+   "h": "adctart12§2"
+  },
+  "12|§3": {
+   "h": "adctart12§3"
+  },
+  "12|§4": {
+   "h": "adctart12§4"
+  },
+  "12|§5": {
+   "h": "adctart12§5"
+  },
+  "13": {
+   "c": "sadctart13",
+   "h": "adctart13"
+  },
+  "130": {
+   "h": "adctart130"
+  },
+  "131": {
+   "h": "adctart131"
+  },
+  "132": {
+   "h": "adctart132"
+  },
+  "132|§1": {
+   "h": "adctart132§1"
+  },
+  "133": {
+   "h": "adctart133"
+  },
+  "134": {
+   "h": "adctart134"
+  },
+  "134|§3": {
+   "h": "adctart134§3"
+  },
+  "135": {
+   "h": "adctart135"
+  },
+  "136": {
+   "h": "adctart136"
+  },
+  "137": {
+   "h": "adctart137"
+  },
+  "138": {
+   "h": "adctart138"
+  },
+  "13|I": {
+   "h": "adctart13i"
+  },
+  "13|II": {
+   "h": "adctart13ii"
+  },
+  "13|III": {
+   "h": "adctart13iii"
+  },
+  "13|IV": {
+   "h": "adctart13iv"
+  },
+  "14": {
+   "c": "sadctart14",
+   "h": "adctart14"
+  },
+  "14|§1": {
+   "h": "adctart14§1"
+  },
+  "14|§2": {
+   "h": "adctart14§2"
+  },
+  "14|§3": {
+   "h": "adctart14§3"
+  },
+  "14|§4": {
+   "h": "adctart14§4"
+  },
+  "15": {
+   "c": "sadctart15",
+   "h": "adctart15"
+  },
+  "16": {
+   "c": "sadctart16",
+   "h": "adctart16"
+  },
+  "16|§1": {
+   "h": "adctart16§1"
+  },
+  "16|§2": {
+   "h": "adctart16§2"
+  },
+  "16|§3": {
+   "h": "adctart16§3"
+  },
+  "17": {
+   "c": "sadctart17",
+   "h": "adctart17"
+  },
+  "18": {
+   "c": "sadctart18",
+   "h": "adctart18"
+  },
+  "18-A": {
+   "c": "adctart18a",
+   "h": "adctart18a"
+  },
+  "19": {
+   "c": "sadctart19",
+   "h": "adctart19"
+  },
+  "19|§1": {
+   "h": "adctart19§1"
+  },
+  "19|§2": {
+   "h": "adctart19§2"
+  },
+  "19|§3": {
+   "h": "adctart19§3"
+  },
+  "2": {
+   "c": "sadctart2",
+   "h": "adctart2"
+  },
+  "20": {
+   "c": "sadctart20",
+   "h": "adctart20"
+  },
+  "21": {
+   "c": "sadctart21",
+   "h": "adctart21"
+  },
+  "22": {
+   "c": "sadctart22",
+   "h": "adctart22"
+  },
+  "23": {
+   "c": "sadctart23",
+   "h": "adctart23"
+  },
+  "23|pu": {
+   "h": "adctart23p"
+  },
+  "24": {
+   "c": "sadctart24",
+   "h": "adctart24"
+  },
+  "25": {
+   "c": "sadctart25",
+   "h": "adctart25"
+  },
+  "25|I": {
+   "h": "adctart25i"
+  },
+  "25|II": {
+   "h": "adctart25ii"
+  },
+  "25|§1": {
+   "h": "adctart25§1"
+  },
+  "25|§1|I": {
+   "h": "adctart25§1i"
+  },
+  "25|§1|II": {
+   "h": "adctart25§1ii"
+  },
+  "25|§1|III": {
+   "h": "adctart25§1iii"
+  },
+  "25|§2": {
+   "h": "adctart25§2"
+  },
+  "26": {
+   "c": "sadctart26",
+   "h": "adctart26"
+  },
+  "26|§1": {
+   "h": "adctart26§1"
+  },
+  "26|§2": {
+   "h": "adctart26§2"
+  },
+  "27": {
+   "c": "sadctart27",
+   "h": "adctart27"
+  },
+  "27|§1": {
+   "h": "adctart27§1"
+  },
+  "27|§10": {
+   "h": "adctart27§10"
+  },
+  "27|§11": {
+   "h": "adctart27§11"
+  },
+  "27|§2": {
+   "h": "art27§2adct"
+  },
+  "27|§2|I": {
+   "h": "adctart27§2i"
+  },
+  "27|§2|II": {
+   "h": "adctart27§2ii"
+  },
+  "27|§3": {
+   "h": "adctart27§3"
+  },
+  "27|§4": {
+   "h": "adctart27§4"
+  },
+  "27|§5": {
+   "h": "adctart27§5"
+  },
+  "27|§6": {
+   "h": "adctart27§6"
+  },
+  "27|§7": {
+   "h": "adctart27§7"
+  },
+  "27|§8": {
+   "h": "adctart27§8"
+  },
+  "27|§9": {
+   "h": "art27§9adct"
+  },
+  "28": {
+   "c": "sadctart28",
+   "h": "adctart28"
+  },
+  "28|pu": {
+   "h": "adctart28p"
+  },
+  "29": {
+   "c": "sadctart29",
+   "h": "adctart29"
+  },
+  "29|§1": {
+   "h": "adctart29§1"
+  },
+  "29|§2": {
+   "h": "adctart29§2"
+  },
+  "29|§3": {
+   "h": "adctart29§3"
+  },
+  "29|§4": {
+   "h": "adctart29§4"
+  },
+  "29|§5": {
+   "h": "adctart29§5"
+  },
+  "2|§1": {
+   "h": "adctart2§1"
+  },
+  "2|§2": {
+   "h": "adctart2§2"
+  },
+  "3": {
+   "c": "sadctart3",
+   "h": "adctart3"
+  },
+  "30": {
+   "c": "sadctart30",
+   "h": "sadctart30"
+  },
+  "31": {
+   "c": "sadctart31",
+   "h": "sadctart31"
+  },
+  "32": {
+   "c": "sadctart32",
+   "h": "sadctart32"
+  },
+  "33": {
+   "c": "sadctart33",
+   "h": "art33adct"
+  },
+  "33|pu": {
+   "h": "adctart33p"
+  },
+  "34": {
+   "c": "sadctart34",
+   "h": "adctart34"
+  },
+  "34|§1": {
+   "h": "adctart34§1"
+  },
+  "34|§10": {
+   "h": "adctart34§10"
+  },
+  "34|§10|I": {
+   "h": "adctart34§10i"
+  },
+  "34|§10|II": {
+   "h": "adctart34§10ii"
+  },
+  "34|§10|III": {
+   "h": "adctart34§10iii"
+  },
+  "34|§11": {
+   "h": "adctart34§11"
+  },
+  "34|§12": {
+   "h": "adctart34§12"
+  },
+  "34|§2": {
+   "h": "adctart34§2"
+  },
+  "34|§2|I": {
+   "h": "adctart34§2i"
+  },
+  "34|§2|II": {
+   "h": "adctart34§2ii"
+  },
+  "34|§2|III": {
+   "h": "adctart34§2iii"
+  },
+  "34|§3": {
+   "h": "adctart34§3"
+  },
+  "34|§4": {
+   "h": "adctart34§4"
+  },
+  "34|§5": {
+   "h": "adctart34§5"
+  },
+  "34|§6": {
+   "h": "adctart34§6"
+  },
+  "34|§7": {
+   "h": "adctart34§7"
+  },
+  "34|§8": {
+   "h": "adctart34§8"
+  },
+  "34|§9": {
+   "h": "adctart34§9"
+  },
+  "35": {
+   "c": "sadctart35",
+   "h": "adctart35"
+  },
+  "35|§1": {
+   "h": "art35§1adct"
+  },
+  "35|§1|I": {
+   "h": "adctart35§1i"
+  },
+  "35|§1|II": {
+   "h": "adctart35§1ii"
+  },
+  "35|§1|III": {
+   "h": "adctart35§1iii"
+  },
+  "35|§1|IV": {
+   "h": "adctart35§1iv"
+  },
+  "35|§1|V": {
+   "h": "adctart35§1v"
+  },
+  "35|§2": {
+   "h": "adctart35§2"
+  },
+  "35|§2|I": {
+   "h": "adctart35§2i"
+  },
+  "35|§2|II": {
+   "h": "adctart35§2ii"
+  },
+  "35|§2|III": {
+   "h": "adctart35§2iii"
+  },
+  "36": {
+   "c": "sadctart36",
+   "h": "adctart36"
+  },
+  "37": {
+   "c": "sadctart37",
+   "h": "adctart37"
+  },
+  "38": {
+   "c": "sadctart38",
+   "h": "adctart38"
+  },
+  "38|§1": {
+   "c": "adctart38§1",
+   "h": "adctart38§1"
+  },
+  "38|§2": {
+   "c": "adctart38§2",
+   "h": "adctart38§2"
+  },
+  "39": {
+   "c": "sadctart39",
+   "h": "adctart39"
+  },
+  "39|pu": {
+   "h": "adctart39p"
+  },
+  "3|§2": {
+   "h": "adctart3§2"
+  },
+  "4": {
+   "c": "sadctart4",
+   "h": "adctart4"
+  },
+  "40": {
+   "c": "sadctart40",
+   "h": "art40adct"
+  },
+  "40|pu": {
+   "h": "adctart40p"
+  },
+  "41": {
+   "c": "sadctart41",
+   "h": "adctart41"
+  },
+  "41|§1": {
+   "h": "adctart41§1"
+  },
+  "41|§2": {
+   "h": "adctart41§2"
+  },
+  "41|§3": {
+   "h": "adctart41§3"
+  },
+  "42": {
+   "c": "sadctart42",
+   "h": "adctart42.."
+  },
+  "42|I": {
+   "h": "adctart42i."
+  },
+  "42|II": {
+   "h": "adctart42ii."
+  },
+  "42|pu": {
+   "h": "adctart42p"
+  },
+  "43": {
+   "c": "sadctart43",
+   "h": "adctart43"
+  },
+  "44": {
+   "c": "sadctart44",
+   "h": "adctart44"
+  },
+  "44|§1": {
+   "h": "adctart44§1"
+  },
+  "44|§2": {
+   "h": "adctart44§2"
+  },
+  "44|§3": {
+   "h": "adctart44§3"
+  },
+  "45": {
+   "c": "sadctart45",
+   "h": "adctart45"
+  },
+  "45|pu": {
+   "h": "adctart45p"
+  },
+  "46": {
+   "c": "sadctart46",
+   "h": "adctart46"
+  },
+  "46|pu": {
+   "h": "adctart46p"
+  },
+  "46|pu|I": {
+   "h": "adctart46pi"
+  },
+  "46|pu|II": {
+   "h": "adctart46pii"
+  },
+  "46|pu|III": {
+   "h": "adctart46piii"
+  },
+  "46|pu|IV": {
+   "h": "adctart46piv"
+  },
+  "47": {
+   "c": "sadctart47",
+   "h": "adctart47"
+  },
+  "47|I": {
+   "h": "adctart47i"
+  },
+  "47|II": {
+   "h": "adctart47ii"
+  },
+  "47|§1": {
+   "h": "adctart47§1"
+  },
+  "47|§2": {
+   "h": "adctart47§2"
+  },
+  "47|§3": {
+   "h": "adctart47§3"
+  },
+  "47|§3|II": {
+   "h": "adctart47§3ii"
+  },
+  "47|§3|III": {
+   "h": "adctart47§3iii"
+  },
+  "47|§3|IV": {
+   "h": "adctart47§3iv"
+  },
+  "47|§3|V": {
+   "h": "adctart47§3v"
+  },
+  "47|§4": {
+   "h": "adctart47§4"
+  },
+  "47|§5": {
+   "h": "adctart47§5"
+  },
+  "47|§6": {
+   "h": "adctart47§6"
+  },
+  "47|§7": {
+   "h": "adctart47§7"
+  },
+  "48": {
+   "c": "sadctart48",
+   "h": "adctart48"
+  },
+  "49": {
+   "c": "sadctart49",
+   "h": "adctart49"
+  },
+  "49|§1": {
+   "h": "adctart49§1"
+  },
+  "49|§2": {
+   "h": "adctart49§2"
+  },
+  "49|§3": {
+   "h": "adctart49§3"
+  },
+  "49|§4": {
+   "h": "adctart49§4"
+  },
+  "4|§1": {
+   "h": "adctart4§1"
+  },
+  "4|§3": {
+   "h": "adctart4§3"
+  },
+  "4|§4": {
+   "h": "adctart4§4"
+  },
+  "5": {
+   "c": "sadctart5",
+   "h": "adctart5"
+  },
+  "50": {
+   "c": "sadctart50",
+   "h": "adctart50"
+  },
+  "51": {
+   "c": "sadctart51",
+   "h": "adctart51"
+  },
+  "51|§1": {
+   "h": "adctart51§1"
+  },
+  "51|§2": {
+   "h": "adctart51§2"
+  },
+  "51|§3": {
+   "h": "adctart51§3"
+  },
+  "52": {
+   "h": "adctart52"
+  },
+  "52|I": {
+   "h": "adctart52i"
+  },
+  "52|II": {
+   "h": "adctart52ii"
+  },
+  "52|pu": {
+   "h": "adctart52p"
+  },
+  "53": {
+   "c": "sadctart53",
+   "h": "adctart53"
+  },
+  "53|I": {
+   "h": "adctart53i"
+  },
+  "53|II": {
+   "h": "adctart53ii"
+  },
+  "53|III": {
+   "h": "adctart53iii"
+  },
+  "53|IV": {
+   "h": "adctart53iv"
+  },
+  "53|V": {
+   "h": "adctart53v"
+  },
+  "53|VI": {
+   "h": "adctart53vi"
+  },
+  "53|pu": {
+   "h": "adctart53p"
+  },
+  "54": {
+   "c": "sadctart54",
+   "h": "adctart54"
+  },
+  "54-A": {
+   "c": "sadctart54a",
+   "h": "adctart54a"
+  },
+  "54|§1": {
+   "h": "adctart54§1"
+  },
+  "54|§2": {
+   "h": "adctart54§2"
+  },
+  "54|§3": {
+   "h": "adctart54§3"
+  },
+  "55": {
+   "c": "sadctart55",
+   "h": "adctart55"
+  },
+  "56": {
+   "c": "sadctart56",
+   "h": "adctart56"
+  },
+  "57": {
+   "c": "sadctart57",
+   "h": "adctart57"
+  },
+  "57|§1": {
+   "h": "adctart57§1"
+  },
+  "57|§2": {
+   "h": "adctart57§2"
+  },
+  "57|§3": {
+   "h": "adctart57§3"
+  },
+  "57|§4": {
+   "h": "adctart57§4"
+  },
+  "58": {
+   "c": "sadctart58",
+   "h": "adctart58"
+  },
+  "58|pu": {
+   "h": "adctart58p"
+  },
+  "59": {
+   "c": "sadctart59",
+   "h": "adctart59"
+  },
+  "59|pu": {
+   "h": "adctart59p"
+  },
+  "5|§1": {
+   "h": "adctart5§1"
+  },
+  "5|§2": {
+   "h": "adctart5§2"
+  },
+  "5|§4": {
+   "h": "adctart5§4"
+  },
+  "5|§5": {
+   "h": "adctart5§5"
+  },
+  "6": {
+   "c": "sadctart6",
+   "h": "adctart6"
+  },
+  "60": {
+   "h": "adctart60.0"
+  },
+  "60-A": {
+   "h": "sadctart60a"
+  },
+  "60|I": {
+   "h": "adctart60i.0"
+  },
+  "60|II": {
+   "h": "adctart60ii.0"
+  },
+  "60|III": {
+   "h": "adctart60iii.0"
+  },
+  "60|IV": {
+   "h": "adctart60iv.0"
+  },
+  "60|V": {
+   "h": "adctart60v.0"
+  },
+  "60|VI": {
+   "h": "adctart60vi.0"
+  },
+  "60|§1": {
+   "h": "adctart60§1.0"
+  },
+  "60|§1|I": {
+   "h": "adctart60§1i"
+  },
+  "60|§1|II": {
+   "h": "adctart60§1ii"
+  },
+  "60|§1|III": {
+   "h": "adctart60§1iii"
+  },
+  "60|§1|IV": {
+   "h": "adctart60§1iv"
+  },
+  "60|§1|V": {
+   "h": "adctart60§1v"
+  },
+  "60|§1|VI": {
+   "h": "adctart60§1vi"
+  },
+  "60|§2": {
+   "h": "adctart60§2.0"
+  },
+  "60|§2|I": {
+   "h": "adctart60§2i"
+  },
+  "60|§2|II": {
+   "h": "adctart60§2ii"
+  },
+  "60|§2|III": {
+   "h": "adctart60§2iii"
+  },
+  "60|§2|IV": {
+   "h": "adctart60§2iv"
+  },
+  "61": {
+   "c": "sadctart61",
+   "h": "art61adct"
+  },
+  "62": {
+   "c": "sadctart62",
+   "h": "adctart62"
+  },
+  "63": {
+   "c": "sadctart63",
+   "h": "adctart63"
+  },
+  "64": {
+   "c": "sadctart64",
+   "h": "adctart64"
+  },
+  "65": {
+   "c": "sadctart65",
+   "h": "adctart65"
+  },
+  "66": {
+   "c": "sadctart66",
+   "h": "art66adct"
+  },
+  "67": {
+   "c": "sadctart67",
+   "h": "adctart67"
+  },
+  "68": {
+   "c": "sadctart68",
+   "h": "art68adct"
+  },
+  "69": {
+   "c": "sadctart69",
+   "h": "adctart69"
+  },
+  "6|§1": {
+   "h": "adctart6§1"
+  },
+  "6|§2": {
+   "h": "adctart6§2"
+  },
+  "7": {
+   "c": "sadctart7",
+   "h": "adctart7"
+  },
+  "70": {
+   "c": "sadctart70",
+   "h": "adctart70"
+  },
+  "71": {
+   "c": "sadctart71",
+   "h": "adctart71.."
+  },
+  "71|§1": {
+   "h": "adctart71§1"
+  },
+  "71|§2": {
+   "h": "adctart71§2"
+  },
+  "71|§3": {
+   "h": "adctart71§3"
+  },
+  "72": {
+   "c": "sadctart72",
+   "h": "adctart72"
+  },
+  "72|I": {
+   "h": "adctart72i"
+  },
+  "72|II": {
+   "h": "adctart72ii"
+  },
+  "72|III": {
+   "h": "adctart72iii."
+  },
+  "72|IV": {
+   "h": "adctart72iv."
+  },
+  "72|V": {
+   "h": "adctart72v"
+  },
+  "72|VI": {
+   "h": "adctart72vi"
+  },
+  "72|§1": {
+   "h": "adctart72§1"
+  },
+  "72|§2": {
+   "h": "adctart72§2"
+  },
+  "72|§3": {
+   "h": "adctart72§3."
+  },
+  "72|§4": {
+   "h": "adctart72§4."
+  },
+  "72|§5": {
+   "h": "adctart72§5."
+  },
+  "73": {
+   "c": "sadctart73",
+   "h": "adctart73"
+  },
+  "74": {
+   "c": "sadctart74",
+   "h": "adctart74"
+  },
+  "74|§1": {
+   "h": "adctart74§1"
+  },
+  "74|§2": {
+   "h": "adctart74§2"
+  },
+  "74|§3": {
+   "h": "adctart74§3"
+  },
+  "74|§4": {
+   "h": "adctart74§4"
+  },
+  "75": {
+   "c": "sadctart75",
+   "h": "adctart75."
+  },
+  "75|§1": {
+   "h": "adctart75§1"
+  },
+  "75|§2": {
+   "h": "adctart75§2"
+  },
+  "75|§3": {
+   "h": "adctart75§3"
+  },
+  "76": {
+   "h": "adctart76.2"
+  },
+  "76-A": {
+   "h": "adctart76a.0"
+  },
+  "76-A|pu": {
+   "h": "adctart76ap"
+  },
+  "76-A|pu|I": {
+   "h": "adctart76api"
+  },
+  "76-A|pu|II": {
+   "h": "adctart76apii"
+  },
+  "76-A|pu|III": {
+   "h": "adctart76apiii"
+  },
+  "76-A|pu|IV": {
+   "h": "adctart76apiv"
+  },
+  "76-A|pu|V": {
+   "h": "adctart76apv"
+  },
+  "76-B": {
+   "h": "adctart76b.1"
+  },
+  "76-B|pu|II": {
+   "h": "adctart76bpii"
+  },
+  "76-B|pu|III": {
+   "h": "adctart76bpiii"
+  },
+  "76-B|pu|IV": {
+   "h": "adctart76bpiv"
+  },
+  "76-B|§1": {
+   "h": "adctart76b§1"
+  },
+  "76-B|§2": {
+   "h": "adctart76b§2"
+  },
+  "76|§2": {
+   "h": "adctart76§2."
+  },
+  "76|§4": {
+   "h": "adctart76§4"
+  },
+  "76|§5": {
+   "h": "adctart76§5"
+  },
+  "76|§6": {
+   "h": "adctart76§6"
+  },
+  "77": {
+   "c": "sadctart77",
+   "h": "adctart77"
+  },
+  "77|I": {
+   "h": "adctart77i"
+  },
+  "77|II": {
+   "h": "adctart77ii"
+  },
+  "77|III": {
+   "h": "adctart77iii"
+  },
+  "77|I|a": {
+   "h": "adctart77ia"
+  },
+  "77|I|b": {
+   "h": "adctart77ib"
+  },
+  "77|§1": {
+   "h": "adctart77§1"
+  },
+  "77|§2": {
+   "h": "adctart77§2"
+  },
+  "77|§3": {
+   "h": "adctart77§3"
+  },
+  "77|§4": {
+   "h": "adctart77§4"
+  },
+  "78": {
+   "c": "sadctart78",
+   "h": "adctart78"
+  },
+  "78|§1": {
+   "h": "adctart78§1"
+  },
+  "78|§2": {
+   "h": "art78§2adct"
+  },
+  "78|§3": {
+   "h": "adctart78§3"
+  },
+  "78|§4": {
+   "h": "adctart78§4"
+  },
+  "79": {
+   "c": "sadctart79",
+   "h": "adctart79"
+  },
+  "79|pu": {
+   "h": "adctart79p"
+  },
+  "8": {
+   "c": "sadctart8",
+   "h": "adctart8"
+  },
+  "80": {
+   "c": "sadctart80",
+   "h": "adctart80"
+  },
+  "80|I": {
+   "h": "adctart80i"
+  },
+  "80|II": {
+   "h": "adctart80ii"
+  },
+  "80|III": {
+   "h": "adctart80iii"
+  },
+  "80|IV": {
+   "h": "adctart80iv"
+  },
+  "80|V": {
+   "h": "adctart80v"
+  },
+  "80|VI": {
+   "h": "adctart80vi"
+  },
+  "80|§1": {
+   "h": "adctart80§1"
+  },
+  "80|§2": {
+   "h": "adctart80§2"
+  },
+  "81": {
+   "c": "sadctart81",
+   "h": "adctart81"
+  },
+  "81|§1": {
+   "h": "adctart81§1"
+  },
+  "81|§2": {
+   "h": "adctart81§2"
+  },
+  "81|§3": {
+   "h": "adctart81§3"
+  },
+  "82": {
+   "c": "sadctart82",
+   "h": "adctart82"
+  },
+  "82|§1": {
+   "h": "adctart82§1"
+  },
+  "82|§2": {
+   "h": "adctart82§2"
+  },
+  "83": {
+   "c": "sadctart83",
+   "h": "adctart83."
+  },
+  "84": {
+   "c": "sadctart84",
+   "h": "adctart84"
+  },
+  "84|§1": {
+   "h": "adctart84§1"
+  },
+  "84|§2": {
+   "h": "art84§2adct"
+  },
+  "84|§2|I": {
+   "h": "adctart84§2i"
+  },
+  "84|§2|II": {
+   "h": "adctart84§2ii"
+  },
+  "84|§2|III": {
+   "h": "adctart84§2iii"
+  },
+  "84|§3": {
+   "h": "adctart84§3"
+  },
+  "84|§3|I": {
+   "h": "adctart84§3i"
+  },
+  "85": {
+   "c": "sadctart85",
+   "h": "adctart85"
+  },
+  "85|I": {
+   "h": "adctart85i"
+  },
+  "85|II": {
+   "h": "adctart85ii"
+  },
+  "85|III": {
+   "h": "adctart85iii"
+  },
+  "85|II|a": {
+   "h": "adctart85iia"
+  },
+  "85|II|b": {
+   "h": "adctart85iib"
+  },
+  "85|I|a": {
+   "h": "adctart85ia"
+  },
+  "85|I|b": {
+   "h": "adctart85ib"
+  },
+  "85|I|c": {
+   "h": "adctart85ic"
+  },
+  "85|§1": {
+   "h": "adctart85§1"
+  },
+  "85|§2": {
+   "h": "adctart85§2"
+  },
+  "85|§3": {
+   "h": "adctart85§3"
+  },
+  "86": {
+   "c": "sadctart86",
+   "h": "adctart86"
+  },
+  "86|I": {
+   "h": "adctart86i"
+  },
+  "86|II": {
+   "h": "adctart86ii"
+  },
+  "86|III": {
+   "h": "adctart86iii"
+  },
+  "86|§1": {
+   "h": "adctart86§1"
+  },
+  "86|§2": {
+   "h": "adctart86§2"
+  },
+  "86|§3": {
+   "h": "adctart86§3"
+  },
+  "87": {
+   "c": "sadctart87",
+   "h": "adctart87"
+  },
+  "87|I": {
+   "h": "adctart87i"
+  },
+  "87|II": {
+   "h": "adctart87ii"
+  },
+  "87|pu": {
+   "h": "adctart87p"
+  },
+  "88": {
+   "c": "sadctart88",
+   "h": "adctart88"
+  },
+  "88|I": {
+   "h": "adctart88i"
+  },
+  "88|II": {
+   "h": "adctart88ii"
+  },
+  "89": {
+   "c": "sadctart89",
+   "h": "art89.adct"
+  },
+  "89|§1": {
+   "h": "adctart89§1"
+  },
+  "89|§2": {
+   "h": "adctart89§2"
+  },
+  "8|§1": {
+   "h": "adctart8§1"
+  },
+  "8|§2": {
+   "h": "adctart8§2"
+  },
+  "8|§3": {
+   "h": "adctart8§3"
+  },
+  "8|§4": {
+   "h": "adctart8§4"
+  },
+  "8|§5": {
+   "h": "adctart8§5"
+  },
+  "9": {
+   "c": "sadctart9",
+   "h": "adctart9"
+  },
+  "90": {
+   "c": "sadctart90",
+   "h": "adctart90"
+  },
+  "90|§1": {
+   "h": "adctart90§1"
+  },
+  "90|§2": {
+   "h": "art90§2adct"
+  },
+  "91": {
+   "c": "sadctart91"
+  },
+  "92": {
+   "c": "sadctart92",
+   "h": "adctart92"
+  },
+  "92-A": {
+   "c": "sadctart92a",
+   "h": "adctart92a"
+  },
+  "92-B": {
+   "h": "adctart92b"
+  },
+  "92-B|§2": {
+   "h": "adctart92b§2"
+  },
+  "92-B|§6": {
+   "h": "adctart92b§6"
+  },
+  "93": {
+   "c": "sadctart93",
+   "h": "adctart93"
+  },
+  "94": {
+   "c": "sadctart94",
+   "h": "adctart94"
+  },
+  "95": {
+   "c": "sadctart95",
+   "h": "adctart95"
+  },
+  "96": {
+   "c": "sadctart96",
+   "h": "art96adct"
+  },
+  "97": {
+   "c": "sadctart97",
+   "h": "art97adct"
+  },
+  "97|§1": {
+   "h": "adctart97§1"
+  },
+  "97|§10": {
+   "h": "adctart97§10"
+  },
+  "97|§10|I": {
+   "h": "adctart97§10i"
+  },
+  "97|§10|II": {
+   "h": "adctart97§10ii"
+  },
+  "97|§10|III": {
+   "h": "adctart97§10iii"
+  },
+  "97|§10|IV": {
+   "h": "adctart97§10iv"
+  },
+  "97|§10|IV|a": {
+   "h": "adctart97§10iva"
+  },
+  "97|§10|IV|b": {
+   "h": "adctart97§10ivb"
+  },
+  "97|§10|V": {
+   "h": "adctart97§10v"
+  },
+  "97|§11": {
+   "h": "adctart97§11"
+  },
+  "97|§12": {
+   "h": "adctart97§12"
+  },
+  "97|§12|I": {
+   "h": "adctart97§12i"
+  },
+  "97|§12|II": {
+   "h": "adctart97§12ii"
+  },
+  "97|§13": {
+   "h": "adctart97§13"
+  },
+  "97|§14": {
+   "h": "adctart97§14"
+  },
+  "97|§15": {
+   "h": "adctart97§15"
+  },
+  "97|§16": {
+   "h": "adctart97§16.0"
+  },
+  "97|§16-A": {
+   "h": "adctart97§16a"
+  },
+  "97|§17": {
+   "h": "adctart97§17"
+  },
+  "97|§18": {
+   "h": "adctart97§18"
+  },
+  "97|§1|I": {
+   "h": "art97§1iadct"
+  },
+  "97|§1|II": {
+   "h": "art97§1iiadct"
+  },
+  "97|§2": {
+   "h": "adctart97§2"
+  },
+  "97|§2|I": {
+   "h": "adctart97§2i"
+  },
+  "97|§2|II": {
+   "h": "adctart97§2ii"
+  },
+  "97|§2|II|a": {
+   "h": "adctart97§2iia"
+  },
+  "97|§2|II|b": {
+   "h": "adctart97§2iib"
+  },
+  "97|§2|I|a": {
+   "h": "adctart97§2ia"
+  },
+  "97|§2|I|b": {
+   "h": "adctart97§2ib"
+  },
+  "97|§3": {
+   "h": "adctart97§3"
+  },
+  "97|§3|I": {
+   "h": "adctart97§3i"
+  },
+  "97|§3|II": {
+   "h": "adctart97§3ii"
+  },
+  "97|§4": {
+   "h": "adctart97§4"
+  },
+  "97|§5": {
+   "h": "adctart97§5"
+  },
+  "97|§6": {
+   "h": "adctart97§6"
+  },
+  "97|§7": {
+   "h": "adctart97§7"
+  },
+  "97|§8": {
+   "h": "adctart97§8"
+  },
+  "97|§8|I": {
+   "h": "adctart97§8i"
+  },
+  "97|§8|II": {
+   "h": "adctart97§8ii"
+  },
+  "97|§8|III": {
+   "h": "adctart97§8iii"
+  },
+  "97|§9": {
+   "h": "adctart97§9"
+  },
+  "97|§9|I": {
+   "h": "adctart97§9i"
+  },
+  "97|§9|II": {
+   "h": "adctart97§9ii"
+  },
+  "97|§9|III": {
+   "h": "adctart97§9iii"
+  },
+  "97|§9|IV": {
+   "h": "adctart97§9iv"
+  },
+  "97|§9|IX": {
+   "h": "adctart97§9ix"
+  },
+  "97|§9|V": {
+   "h": "adctart97§9v"
+  },
+  "97|§9|VI": {
+   "h": "adctart97§9vi"
+  },
+  "97|§9|VII": {
+   "h": "adctart97§9vii"
+  },
+  "97|§9|VIII": {
+   "h": "adctart97§9viii"
+  },
+  "98": {
+   "c": "sadctart98",
+   "h": "adctart98"
+  },
+  "98|§1": {
+   "h": "adctart98§1"
+  },
+  "98|§2": {
+   "h": "adctart98§2"
+  },
+  "99": {
+   "c": "sadctart99",
+   "h": "adctart99"
+  },
+  "99|I": {
+   "h": "adctart99i"
+  },
+  "99|II": {
+   "h": "adctart99ii"
+  },
+  "99|III": {
+   "h": "adctart99iii"
+  },
+  "99|IV": {
+   "h": "adctart99iv"
+  },
+  "9|pu": {
+   "h": "adctart9p"
+  }
+ },
+ "c": "constituicao/constituicaocompilado.htm",
+ "corpo": {
+  "1": {
+   "c": "cf-88-parte-1-titulo-1-artigo-1",
+   "h": "art1"
+  },
+  "10": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-2-artigo-10",
+   "h": "art10"
+  },
+  "100": {
+   "h": "art100."
+  },
+  "100|§1": {
+   "h": "art100§1.0"
+  },
+  "100|§10": {
+   "h": "art100§10"
+  },
+  "100|§11": {
+   "h": "art100§11.0"
+  },
+  "100|§11|I": {
+   "h": "art100§11i"
+  },
+  "100|§11|II": {
+   "h": "art100§11ii"
+  },
+  "100|§11|III": {
+   "h": "art100§11iii"
+  },
+  "100|§11|IV": {
+   "h": "art100§11iv"
+  },
+  "100|§11|V": {
+   "h": "art100§11v"
+  },
+  "100|§12": {
+   "h": "art100§12"
+  },
+  "100|§13": {
+   "h": "art100§13"
+  },
+  "100|§14": {
+   "h": "art100§14.0"
+  },
+  "100|§15": {
+   "h": "art100§15"
+  },
+  "100|§16": {
+   "h": "art100§16"
+  },
+  "100|§17": {
+   "h": "art100§17"
+  },
+  "100|§18": {
+   "h": "art100§18"
+  },
+  "100|§18|I": {
+   "h": "art100§18i"
+  },
+  "100|§18|II": {
+   "h": "art100§18ii"
+  },
+  "100|§18|III": {
+   "h": "art100§18iii"
+  },
+  "100|§19": {
+   "h": "art100§19"
+  },
+  "100|§19-A": {
+   "h": "art100§19a"
+  },
+  "100|§2": {
+   "h": "art100§2..."
+  },
+  "100|§20": {
+   "h": "art100§20"
+  },
+  "100|§21": {
+   "h": "art100§21"
+  },
+  "100|§21|I": {
+   "h": "art100§21i"
+  },
+  "100|§21|II": {
+   "h": "art100§21ii"
+  },
+  "100|§21|III": {
+   "h": "art100§21iii"
+  },
+  "100|§21|IV": {
+   "h": "art100§21iv"
+  },
+  "100|§22": {
+   "h": "art100§22"
+  },
+  "100|§22|I": {
+   "h": "art100§22i"
+  },
+  "100|§22|II": {
+   "h": "art100§22ii"
+  },
+  "100|§23": {
+   "h": "art100§23"
+  },
+  "100|§24": {
+   "h": "art100§24"
+  },
+  "100|§25": {
+   "h": "art100§25"
+  },
+  "100|§26": {
+   "h": "art100§26"
+  },
+  "100|§27": {
+   "h": "art100§27"
+  },
+  "100|§28": {
+   "h": "art100§28"
+  },
+  "100|§29": {
+   "h": "art100§29"
+  },
+  "100|§3": {
+   "h": "art100§3.."
+  },
+  "100|§30": {
+   "h": "art100§30"
+  },
+  "100|§4": {
+   "h": "art100§4."
+  },
+  "100|§5": {
+   "h": "art100§5.1"
+  },
+  "100|§6": {
+   "h": "art100§6."
+  },
+  "100|§7": {
+   "h": "art100§7"
+  },
+  "100|§8": {
+   "h": "art100§8"
+  },
+  "100|§9": {
+   "h": "art100§9.0"
+  },
+  "101": {
+   "h": "art101.0"
+  },
+  "101|pu": {
+   "h": "art101p"
+  },
+  "102": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-2-artigo-102",
+   "h": "art102"
+  },
+  "102|I": {
+   "h": "art102i"
+  },
+  "102|II": {
+   "h": "art102ii."
+  },
+  "102|III": {
+   "h": "art102iii"
+  },
+  "102|III|a": {
+   "h": "art102iiia"
+  },
+  "102|III|b": {
+   "h": "art102iiib"
+  },
+  "102|III|c": {
+   "h": "art102iiic"
+  },
+  "102|III|d": {
+   "h": "art102iiid"
+  },
+  "102|II|a": {
+   "h": "art102iia"
+  },
+  "102|II|b": {
+   "h": "art102iib"
+  },
+  "102|I|a": {
+   "h": "art102ia"
+  },
+  "102|I|b": {
+   "h": "art102ib"
+  },
+  "102|I|c": {
+   "h": "art102ic"
+  },
+  "102|I|d": {
+   "h": "art102id"
+  },
+  "102|I|e": {
+   "h": "art102ie"
+  },
+  "102|I|f": {
+   "h": "art102if"
+  },
+  "102|I|g": {
+   "h": "art102ig"
+  },
+  "102|I|j": {
+   "h": "art102ij"
+  },
+  "102|I|l": {
+   "h": "art102il"
+  },
+  "102|I|m": {
+   "h": "art102im"
+  },
+  "102|I|n": {
+   "h": "art102in"
+  },
+  "102|I|o": {
+   "h": "art102io"
+  },
+  "102|I|p": {
+   "h": "art102ip"
+  },
+  "102|I|q": {
+   "h": "art102iq"
+  },
+  "102|I|r": {
+   "h": "art102ir"
+  },
+  "102|§1": {
+   "h": "art102§1"
+  },
+  "102|§2": {
+   "h": "art102§2"
+  },
+  "102|§3": {
+   "h": "art102§3"
+  },
+  "103": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-2-artigo-103",
+   "h": "art103."
+  },
+  "103-A": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-2-artigo-103-a",
+   "h": "art103a"
+  },
+  "103-A|§1": {
+   "h": "art103a§1"
+  },
+  "103-A|§2": {
+   "h": "art103a§2"
+  },
+  "103-A|§3": {
+   "h": "art103a§3"
+  },
+  "103-B": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-2-artigo-103-b",
+   "h": "art103b."
+  },
+  "103-B|I": {
+   "h": "art103bi"
+  },
+  "103-B|II": {
+   "h": "art103bii"
+  },
+  "103-B|III": {
+   "h": "art103biii"
+  },
+  "103-B|IV": {
+   "h": "art103biv"
+  },
+  "103-B|IX": {
+   "h": "art103bix"
+  },
+  "103-B|V": {
+   "h": "art103bv"
+  },
+  "103-B|VI": {
+   "h": "art103bvi"
+  },
+  "103-B|VII": {
+   "h": "art103bvii"
+  },
+  "103-B|VIII": {
+   "h": "art103bviii"
+  },
+  "103-B|X": {
+   "h": "art103bx"
+  },
+  "103-B|XII": {
+   "h": "art103bxii"
+  },
+  "103-B|XIII": {
+   "h": "art103bxiii"
+  },
+  "103-B|§1": {
+   "h": "art103b§1"
+  },
+  "103-B|§2": {
+   "h": "art103b§2"
+  },
+  "103-B|§3": {
+   "h": "art103b§3"
+  },
+  "103-B|§4": {
+   "h": "art103b§4"
+  },
+  "103-B|§4|I": {
+   "h": "art103b§4i"
+  },
+  "103-B|§4|II": {
+   "h": "art103b§4ii"
+  },
+  "103-B|§4|III": {
+   "h": "art103b§4iii.0"
+  },
+  "103-B|§4|IV": {
+   "h": "art103b§4iv"
+  },
+  "103-B|§4|V": {
+   "h": "art103b§4v"
+  },
+  "103-B|§4|VI": {
+   "h": "art103b§4vi"
+  },
+  "103-B|§4|VII": {
+   "h": "art103b§4vii"
+  },
+  "103-B|§5": {
+   "h": "art103b§5"
+  },
+  "103-B|§6": {
+   "h": "art103b§6"
+  },
+  "103-B|§7": {
+   "h": "art103b§7"
+  },
+  "103|I": {
+   "h": "art103i"
+  },
+  "103|II": {
+   "h": "art103ii"
+  },
+  "103|III": {
+   "h": "art103iii"
+  },
+  "103|IV": {
+   "h": "art103iv."
+  },
+  "103|IX": {
+   "h": "art103ix"
+  },
+  "103|V": {
+   "h": "art103v."
+  },
+  "103|VI": {
+   "h": "art103vi"
+  },
+  "103|VII": {
+   "h": "art103vii"
+  },
+  "103|VIII": {
+   "h": "art103viii"
+  },
+  "103|§1": {
+   "h": "art103§1"
+  },
+  "103|§2": {
+   "h": "art103§2"
+  },
+  "104": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-3-artigo-104",
+   "h": "art104"
+  },
+  "104|pu": {
+   "h": "art104p.0"
+  },
+  "104|pu|I": {
+   "h": "art104pi"
+  },
+  "104|pu|II": {
+   "h": "art104pii"
+  },
+  "105": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-3-artigo-105",
+   "h": "art105"
+  },
+  "105|I": {
+   "h": "art105i"
+  },
+  "105|II": {
+   "h": "art105ii"
+  },
+  "105|III": {
+   "h": "art105iii"
+  },
+  "105|III|a": {
+   "h": "art105iiia"
+  },
+  "105|III|b": {
+   "h": "art105iiib."
+  },
+  "105|III|c": {
+   "h": "art105iiic"
+  },
+  "105|II|a": {
+   "h": "art105iia"
+  },
+  "105|II|b": {
+   "h": "art105iib"
+  },
+  "105|II|c": {
+   "h": "art105iic"
+  },
+  "105|I|a": {
+   "h": "art105ia"
+  },
+  "105|I|b": {
+   "h": "art105ib"
+  },
+  "105|I|c": {
+   "h": "art105ic"
+  },
+  "105|I|d": {
+   "h": "art105id"
+  },
+  "105|I|f": {
+   "h": "art105if"
+  },
+  "105|I|g": {
+   "h": "art105ig"
+  },
+  "105|I|h": {
+   "h": "art105ih"
+  },
+  "105|I|j": {
+   "h": "art105ij"
+  },
+  "105|§1": {
+   "c": "art105§1",
+   "h": "art105§1"
+  },
+  "105|§2": {
+   "c": "art105§2",
+   "h": "art105§2"
+  },
+  "105|§3": {
+   "c": "art105§3",
+   "h": "art105§3"
+  },
+  "106": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-4-artigo-106",
+   "h": "art106"
+  },
+  "106|I": {
+   "h": "art106i"
+  },
+  "106|II": {
+   "h": "art106ii"
+  },
+  "107": {
+   "h": "art107.0"
+  },
+  "107|I": {
+   "h": "art107i"
+  },
+  "107|II": {
+   "h": "art107ii"
+  },
+  "107|§1": {
+   "h": "art107§1"
+  },
+  "107|§2": {
+   "h": "art107§2"
+  },
+  "107|§3": {
+   "h": "art107§3"
+  },
+  "108": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-4-artigo-108",
+   "h": "art108"
+  },
+  "108|I": {
+   "h": "art108i"
+  },
+  "108|II": {
+   "h": "art108ii"
+  },
+  "108|I|a": {
+   "h": "art108ia"
+  },
+  "108|I|c": {
+   "h": "art108ic"
+  },
+  "108|I|d": {
+   "h": "art108id"
+  },
+  "108|I|e": {
+   "h": "art108ie"
+  },
+  "109": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-4-artigo-109",
+   "h": "art109"
+  },
+  "109|I": {
+   "h": "art109i"
+  },
+  "109|II": {
+   "h": "art109ii"
+  },
+  "109|III": {
+   "h": "art109iii"
+  },
+  "109|IV": {
+   "h": "art109iv"
+  },
+  "109|IX": {
+   "h": "art109ix"
+  },
+  "109|VI": {
+   "h": "art109vi"
+  },
+  "109|VII": {
+   "h": "art109vii"
+  },
+  "109|VIII": {
+   "h": "art109viii"
+  },
+  "109|X": {
+   "h": "art109x"
+  },
+  "109|XI": {
+   "h": "art109xi"
+  },
+  "109|§1": {
+   "h": "art109§1"
+  },
+  "109|§2": {
+   "h": "art109§2"
+  },
+  "109|§3": {
+   "c": "art109§3.0",
+   "h": "art109§3.0"
+  },
+  "109|§4": {
+   "h": "art109§4"
+  },
+  "109|§5": {
+   "h": "art109§5"
+  },
+  "11": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-2-artigo-11",
+   "h": "art11"
+  },
+  "110": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-4-artigo-110",
+   "h": "art110"
+  },
+  "110|pu": {
+   "h": "art110p"
+  },
+  "111": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-5-artigo-111",
+   "h": "art111"
+  },
+  "111-A": {
+   "c": "art111a.0",
+   "h": "art111a.0"
+  },
+  "111-A|§1": {
+   "h": "art111a§1"
+  },
+  "111-A|§2": {
+   "h": "art111a§2"
+  },
+  "111-A|§3": {
+   "h": "art111a§3"
+  },
+  "111|I": {
+   "h": "art111i"
+  },
+  "111|II": {
+   "h": "art111ii"
+  },
+  "111|III": {
+   "h": "art111iii"
+  },
+  "112": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-5-artigo-112",
+   "h": "art112."
+  },
+  "113": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-5-artigo-113",
+   "h": "art113"
+  },
+  "114": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-5-artigo-114",
+   "h": "art114."
+  },
+  "114|§1": {
+   "h": "art114§1"
+  },
+  "114|§2": {
+   "h": "art114§2."
+  },
+  "114|§3": {
+   "h": "art114§3."
+  },
+  "115": {
+   "c": "art115.0",
+   "h": "art115.0"
+  },
+  "115|pu|III": {
+   "h": "art115piii"
+  },
+  "115|§1": {
+   "h": "art115§1"
+  },
+  "115|§2": {
+   "h": "art115§2"
+  },
+  "116": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-5-artigo-116",
+   "h": "art116"
+  },
+  "117": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-5-artigo-117"
+  },
+  "118": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-6-artigo-118",
+   "h": "art118"
+  },
+  "118|I": {
+   "h": "art118i"
+  },
+  "118|II": {
+   "h": "art118ii"
+  },
+  "118|III": {
+   "h": "art118iii"
+  },
+  "118|IV": {
+   "h": "art118iv"
+  },
+  "119": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-6-artigo-119",
+   "h": "art119"
+  },
+  "119|I": {
+   "h": "art119i"
+  },
+  "119|II": {
+   "h": "art119ii"
+  },
+  "119|I|a": {
+   "h": "art119ia"
+  },
+  "119|I|b": {
+   "h": "art119ib"
+  },
+  "119|pu": {
+   "h": "art119p"
+  },
+  "12": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-3-artigo-12",
+   "h": "art12"
+  },
+  "120": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-6-artigo-120",
+   "h": "art120"
+  },
+  "120|§1": {
+   "h": "art120§1"
+  },
+  "120|§1|I": {
+   "h": "art120§1i"
+  },
+  "120|§1|II": {
+   "h": "art120§1ii"
+  },
+  "120|§1|III": {
+   "h": "art120§1iii"
+  },
+  "120|§1|I|a": {
+   "h": "art120§1ia"
+  },
+  "120|§1|I|b": {
+   "h": "art120§1ib"
+  },
+  "121": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-6-artigo-121",
+   "h": "art121"
+  },
+  "121|§1": {
+   "h": "art121§1"
+  },
+  "121|§2": {
+   "h": "art121§2"
+  },
+  "121|§3": {
+   "h": "art121§3"
+  },
+  "121|§4": {
+   "h": "art121§4"
+  },
+  "121|§4|I": {
+   "h": "art121§4i"
+  },
+  "121|§4|II": {
+   "h": "art121§4ii"
+  },
+  "121|§4|III": {
+   "h": "art121§4iii"
+  },
+  "121|§4|IV": {
+   "h": "art121§4iv"
+  },
+  "121|§4|V": {
+   "h": "art121§4v"
+  },
+  "122": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-7-artigo-122",
+   "h": "art122"
+  },
+  "122|I": {
+   "h": "art122i"
+  },
+  "122|II": {
+   "h": "art122ii"
+  },
+  "123": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-7-artigo-123",
+   "h": "art123"
+  },
+  "123|pu": {
+   "h": "art123p.0"
+  },
+  "123|pu|I": {
+   "h": "art123pi"
+  },
+  "123|pu|II": {
+   "h": "art123pii"
+  },
+  "124": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-7-artigo-124",
+   "h": "art124"
+  },
+  "124|pu": {
+   "h": "art124p"
+  },
+  "125": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-8-artigo-125",
+   "h": "art125"
+  },
+  "125|§1": {
+   "h": "art125§1"
+  },
+  "125|§2": {
+   "h": "art125§2"
+  },
+  "125|§3": {
+   "h": "art125§3."
+  },
+  "125|§4": {
+   "h": "art125§4."
+  },
+  "125|§5": {
+   "h": "art125§5"
+  },
+  "125|§6": {
+   "h": "art125§6"
+  },
+  "125|§7": {
+   "h": "art125§7"
+  },
+  "126": {
+   "h": "art126."
+  },
+  "126|pu": {
+   "h": "art126p"
+  },
+  "127": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-4-secao-1-artigo-127",
+   "h": "art127"
+  },
+  "127|§1": {
+   "h": "art127§1"
+  },
+  "127|§2": {
+   "h": "art127§2"
+  },
+  "127|§3": {
+   "h": "art127§3"
+  },
+  "127|§4": {
+   "h": "art127§4"
+  },
+  "127|§5": {
+   "h": "art127§5"
+  },
+  "127|§6": {
+   "h": "art127§6"
+  },
+  "128": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-4-secao-1-artigo-128",
+   "h": "art128"
+  },
+  "128|I": {
+   "h": "art128i"
+  },
+  "128|II": {
+   "h": "art128ii"
+  },
+  "128|I|a": {
+   "h": "art128ia"
+  },
+  "128|I|b": {
+   "h": "art128ib"
+  },
+  "128|I|c": {
+   "h": "art128ic"
+  },
+  "128|I|d": {
+   "h": "art128id"
+  },
+  "128|§1": {
+   "h": "art128§1"
+  },
+  "128|§2": {
+   "h": "art128§2"
+  },
+  "128|§3": {
+   "h": "art128§3"
+  },
+  "128|§4": {
+   "h": "art128§4"
+  },
+  "128|§5": {
+   "h": "art128§5"
+  },
+  "128|§5|I": {
+   "h": "art128§5i"
+  },
+  "128|§5|II": {
+   "h": "art128§5ii"
+  },
+  "128|§5|II|a": {
+   "h": "art128§5iia"
+  },
+  "128|§5|II|b": {
+   "h": "art128§5iib"
+  },
+  "128|§5|II|c": {
+   "h": "art128§5iic"
+  },
+  "128|§5|II|d": {
+   "h": "art128§5iid"
+  },
+  "128|§5|II|e": {
+   "h": "art128§5iie."
+  },
+  "128|§5|II|f": {
+   "h": "art128§5iif"
+  },
+  "128|§5|I|a": {
+   "h": "art128§5ia"
+  },
+  "128|§5|I|b": {
+   "h": "art128§5ib."
+  },
+  "128|§5|I|c": {
+   "h": "art128§5ic"
+  },
+  "128|§5|c": {
+   "h": "art128§5c"
+  },
+  "128|§6": {
+   "h": "art128§6"
+  },
+  "129": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-4-secao-1-artigo-129",
+   "h": "art129"
+  },
+  "129|II": {
+   "h": "art129ii"
+  },
+  "129|III": {
+   "h": "art129iii"
+  },
+  "129|IV": {
+   "h": "art129iv"
+  },
+  "129|IX": {
+   "h": "art129ix"
+  },
+  "129|V": {
+   "h": "art129v"
+  },
+  "129|VI": {
+   "h": "art129vi"
+  },
+  "129|VII": {
+   "h": "art129vii"
+  },
+  "129|VIII": {
+   "h": "art129viii"
+  },
+  "129|§2": {
+   "h": "art129§2."
+  },
+  "129|§3": {
+   "h": "art129§3."
+  },
+  "129|§4": {
+   "h": "art129§4."
+  },
+  "129|§5": {
+   "h": "art129§5."
+  },
+  "12|II|b": {
+   "h": "art12iib"
+  },
+  "12|I|c": {
+   "h": "art12ic.."
+  },
+  "12|§1": {
+   "h": "art12§1"
+  },
+  "12|§2": {
+   "h": "art12§2"
+  },
+  "12|§3": {
+   "h": "art12§3"
+  },
+  "12|§3|VII": {
+   "h": "art12§3vii"
+  },
+  "12|§4": {
+   "h": "art12§4"
+  },
+  "12|§5": {
+   "h": "art12§5"
+  },
+  "13": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-3-artigo-13",
+   "h": "art13"
+  },
+  "130": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-4-secao-1-artigo-130",
+   "h": "art130"
+  },
+  "130-A": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-4-secao-1-artigo-130-a",
+   "h": "art130a"
+  },
+  "130-A|§1": {
+   "h": "art130a§1"
+  },
+  "130-A|§2": {
+   "h": "art130a§2"
+  },
+  "130-A|§2|III": {
+   "h": "art130a§2iii.0"
+  },
+  "130-A|§3": {
+   "h": "art130a§3"
+  },
+  "130-A|§4": {
+   "h": "art130a§4"
+  },
+  "130-A|§5": {
+   "h": "art130a§5"
+  },
+  "131": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-4-secao-2-artigo-131",
+   "h": "art131"
+  },
+  "132": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-4-secao-2-artigo-132",
+   "h": "art132"
+  },
+  "132|pu": {
+   "h": "art132p"
+  },
+  "133": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-4-secao-3-artigo-133",
+   "h": "art133"
+  },
+  "134": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-4-secao-4-artigo-134",
+   "h": "art134."
+  },
+  "134|§1": {
+   "h": "art134§1"
+  },
+  "134|§2": {
+   "h": "art134§2"
+  },
+  "134|§3": {
+   "h": "art134§3"
+  },
+  "134|§4": {
+   "h": "art134§4"
+  },
+  "135": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-4-secao-4-artigo-135",
+   "h": "art135"
+  },
+  "136": {
+   "c": "cf-88-parte-1-titulo-5-capitulo-1-secao-1-artigo-136",
+   "h": "art136"
+  },
+  "136|§1": {
+   "h": "art136§1"
+  },
+  "136|§1|I": {
+   "h": "art136§1i"
+  },
+  "136|§1|I|a": {
+   "h": "art136§1ia"
+  },
+  "136|§1|c": {
+   "h": "art136§1c"
+  },
+  "136|§2": {
+   "h": "art136§2"
+  },
+  "136|§3": {
+   "h": "art136§3"
+  },
+  "136|§3|I": {
+   "h": "art136§3i"
+  },
+  "136|§3|II": {
+   "h": "art136§3ii"
+  },
+  "136|§3|III": {
+   "h": "art136§3iii"
+  },
+  "136|§3|IV": {
+   "h": "art136§3iv"
+  },
+  "136|§4": {
+   "h": "art136§4"
+  },
+  "136|§5": {
+   "h": "art136§5"
+  },
+  "136|§6": {
+   "h": "art136§6"
+  },
+  "136|§7": {
+   "h": "art136§7"
+  },
+  "137": {
+   "c": "cf-88-parte-1-titulo-5-capitulo-1-secao-2-artigo-137",
+   "h": "art137"
+  },
+  "137|I": {
+   "h": "art137i"
+  },
+  "137|II": {
+   "h": "art137ii"
+  },
+  "137|pu": {
+   "h": "art137p"
+  },
+  "138": {
+   "c": "cf-88-parte-1-titulo-5-capitulo-1-secao-2-artigo-138",
+   "h": "art138"
+  },
+  "138|§1": {
+   "h": "art138§1"
+  },
+  "138|§2": {
+   "h": "art138§2"
+  },
+  "138|§3": {
+   "h": "art138§3"
+  },
+  "139": {
+   "c": "cf-88-parte-1-titulo-5-capitulo-1-secao-2-artigo-139",
+   "h": "art139"
+  },
+  "139|I": {
+   "h": "art139i"
+  },
+  "139|II": {
+   "h": "art139ii"
+  },
+  "139|IV": {
+   "h": "art139iv"
+  },
+  "139|V": {
+   "h": "art139v"
+  },
+  "139|VI": {
+   "h": "art139vi"
+  },
+  "139|pu": {
+   "h": "art139p"
+  },
+  "14": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-4-artigo-14",
+   "h": "art14"
+  },
+  "140": {
+   "c": "cf-88-parte-1-titulo-5-capitulo-1-secao-3-artigo-140",
+   "h": "art140"
+  },
+  "141": {
+   "c": "cf-88-parte-1-titulo-5-capitulo-1-secao-3-artigo-141",
+   "h": "art141"
+  },
+  "141|pu": {
+   "h": "art141p"
+  },
+  "142": {
+   "c": "cf-88-parte-1-titulo-5-capitulo-2-artigo-142",
+   "h": "art142"
+  },
+  "142|§1": {
+   "h": "art142§1"
+  },
+  "142|§2": {
+   "h": "art142§2"
+  },
+  "142|§3": {
+   "h": "art142§3"
+  },
+  "142|§3|I": {
+   "h": "art142§3i"
+  },
+  "142|§3|II": {
+   "h": "art142§3ii."
+  },
+  "142|§3|III": {
+   "h": "art142§3iii."
+  },
+  "142|§3|IV": {
+   "h": "art142§3iv"
+  },
+  "142|§3|V": {
+   "h": "art142§3v"
+  },
+  "142|§3|VI": {
+   "h": "art142§3vi"
+  },
+  "142|§3|VII": {
+   "h": "art142§3vii"
+  },
+  "142|§3|VIII": {
+   "h": "art142§3viii."
+  },
+  "142|§3|X": {
+   "h": "art142§3x"
+  },
+  "143": {
+   "c": "cf-88-parte-1-titulo-5-capitulo-2-artigo-143",
+   "h": "art143"
+  },
+  "143|§1": {
+   "h": "art143§1"
+  },
+  "143|§2": {
+   "h": "art143§2"
+  },
+  "144": {
+   "c": "cf-88-parte-1-titulo-5-capitulo-3-artigo-144",
+   "h": "art144"
+  },
+  "144|I": {
+   "h": "art144i"
+  },
+  "144|II": {
+   "h": "art144ii"
+  },
+  "144|III": {
+   "h": "art144iii"
+  },
+  "144|IV": {
+   "h": "art144iv"
+  },
+  "144|V": {
+   "h": "art144v"
+  },
+  "144|VI": {
+   "h": "art144vi"
+  },
+  "144|§1": {
+   "h": "art144§1"
+  },
+  "144|§10": {
+   "h": "art144§10"
+  },
+  "144|§10|I": {
+   "h": "art144§10i"
+  },
+  "144|§10|II": {
+   "h": "art144§10ii"
+  },
+  "144|§1|I": {
+   "h": "art144§1i"
+  },
+  "144|§1|III": {
+   "h": "art144§1iii"
+  },
+  "144|§1|IV": {
+   "h": "art144§1iv"
+  },
+  "144|§2": {
+   "h": "art144§2"
+  },
+  "144|§3": {
+   "h": "art144§3"
+  },
+  "144|§4": {
+   "h": "art144§4"
+  },
+  "144|§5": {
+   "h": "art144§5"
+  },
+  "144|§5-A": {
+   "h": "art144§5a"
+  },
+  "144|§6": {
+   "h": "art144§6.0"
+  },
+  "144|§7": {
+   "h": "art144§7"
+  },
+  "144|§8": {
+   "h": "art144§8"
+  },
+  "144|§9": {
+   "h": "art144§9"
+  },
+  "145": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-1-artigo-145",
+   "h": "art145"
+  },
+  "145|I": {
+   "h": "art145i"
+  },
+  "145|III": {
+   "h": "art145iii"
+  },
+  "145|§1": {
+   "h": "art145§1"
+  },
+  "145|§2": {
+   "h": "art145§2"
+  },
+  "145|§3": {
+   "h": "art145§3"
+  },
+  "145|§4": {
+   "h": "art145§4"
+  },
+  "146": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-1-artigo-146",
+   "h": "art146"
+  },
+  "146-A": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-1-artigo-146-a",
+   "h": "art146a"
+  },
+  "146|I": {
+   "h": "art146i"
+  },
+  "146|II": {
+   "h": "art146ii"
+  },
+  "146|III": {
+   "h": "art146iii"
+  },
+  "146|III|a": {
+   "h": "art146iiia"
+  },
+  "146|III|b": {
+   "h": "art146iiib"
+  },
+  "146|§1": {
+   "h": "art146§1"
+  },
+  "146|§1|IV": {
+   "h": "art146§1iv"
+  },
+  "147": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-1-artigo-147",
+   "h": "art147"
+  },
+  "148": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-1-artigo-148",
+   "h": "art148"
+  },
+  "148|II": {
+   "h": "art148ii"
+  },
+  "148|pu": {
+   "h": "art148p"
+  },
+  "149": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-1-artigo-149",
+   "h": "art149"
+  },
+  "149-A": {
+   "h": "art149a.0"
+  },
+  "149-A|pu": {
+   "h": "art149ap"
+  },
+  "149-B": {
+   "h": "art149b"
+  },
+  "149-C": {
+   "h": "art149c"
+  },
+  "149|§1": {
+   "c": "art149§1..",
+   "h": "art149§1.."
+  },
+  "149|§1-A": {
+   "h": "art149§1a"
+  },
+  "149|§1-B": {
+   "h": "art149§1b"
+  },
+  "149|§1-C": {
+   "h": "art149§1c"
+  },
+  "149|§2": {
+   "h": "art149§2"
+  },
+  "149|§2|I": {
+   "h": "art149§2i"
+  },
+  "149|§2|II": {
+   "h": "art149§2ii."
+  },
+  "149|§2|III": {
+   "h": "art149§2iii"
+  },
+  "149|§2|III|a": {
+   "h": "art149§2iiia"
+  },
+  "149|§2|III|b": {
+   "h": "art149§2iiib"
+  },
+  "149|§3": {
+   "h": "art149§3"
+  },
+  "149|§4": {
+   "h": "art149§4"
+  },
+  "14|§12": {
+   "h": "art14§12"
+  },
+  "14|§13": {
+   "h": "art14§13"
+  },
+  "14|§1|II|a": {
+   "h": "art14§1iia"
+  },
+  "14|§3|V": {
+   "h": "art14§3v"
+  },
+  "14|§5": {
+   "h": "art14§5"
+  },
+  "14|§8": {
+   "h": "art14§8"
+  },
+  "14|§9": {
+   "h": "art14§9"
+  },
+  "15": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-4-artigo-15",
+   "h": "art15"
+  },
+  "150": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-2-artigo-150",
+   "h": "art150"
+  },
+  "150|I": {
+   "h": "art150i"
+  },
+  "150|II": {
+   "h": "art150ii"
+  },
+  "150|III": {
+   "h": "art150iii"
+  },
+  "150|III|a": {
+   "h": "art150iiia"
+  },
+  "150|III|b": {
+   "h": "art150iiib"
+  },
+  "150|III|c": {
+   "h": "art150iiic"
+  },
+  "150|IV": {
+   "h": "art150iv"
+  },
+  "150|VI": {
+   "h": "art150vi"
+  },
+  "150|VI|a": {
+   "h": "art150via"
+  },
+  "150|VI|c": {
+   "h": "art150vic"
+  },
+  "150|VI|d": {
+   "h": "art150vid"
+  },
+  "150|VI|e": {
+   "h": "art150vie"
+  },
+  "150|§1": {
+   "h": "art150§1."
+  },
+  "150|§2": {
+   "h": "art150§2.0"
+  },
+  "150|§3": {
+   "h": "art150§3"
+  },
+  "150|§4": {
+   "h": "art150§4"
+  },
+  "150|§6": {
+   "h": "art150§6"
+  },
+  "150|§7": {
+   "h": "art150§7"
+  },
+  "151": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-2-artigo-151",
+   "h": "art151"
+  },
+  "151|I": {
+   "h": "art151i"
+  },
+  "151|II": {
+   "h": "art151ii"
+  },
+  "151|III": {
+   "h": "art151iii"
+  },
+  "152": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-2-artigo-152",
+   "h": "art152"
+  },
+  "153": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-3-artigo-153",
+   "h": "art153"
+  },
+  "153|I": {
+   "h": "art153i"
+  },
+  "153|II": {
+   "h": "art153ii"
+  },
+  "153|III": {
+   "h": "art153iii"
+  },
+  "153|IV": {
+   "h": "art153iv"
+  },
+  "153|V": {
+   "h": "art153v"
+  },
+  "153|VI": {
+   "h": "art153vi"
+  },
+  "153|VII": {
+   "h": "art153vii"
+  },
+  "153|§1": {
+   "h": "art153§1"
+  },
+  "153|§2": {
+   "h": "art153§2"
+  },
+  "153|§2|I": {
+   "h": "art153§2i"
+  },
+  "153|§3": {
+   "h": "art153§3"
+  },
+  "153|§3|I": {
+   "h": "art153§3i"
+  },
+  "153|§3|II": {
+   "h": "art153§3ii"
+  },
+  "153|§3|III": {
+   "h": "art153§3iii"
+  },
+  "153|§3|IV": {
+   "h": "art153§3iv"
+  },
+  "153|§4": {
+   "h": "art153§4"
+  },
+  "153|§4|I": {
+   "h": "art153§4i"
+  },
+  "153|§4|II": {
+   "h": "art153§4ii"
+  },
+  "153|§4|III": {
+   "h": "art153§4iii"
+  },
+  "153|§5": {
+   "h": "art153§5"
+  },
+  "153|§5|I": {
+   "h": "art153§5i"
+  },
+  "153|§5|II": {
+   "h": "art153§5ii"
+  },
+  "153|§6": {
+   "h": "art153§6"
+  },
+  "154": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-3-artigo-154",
+   "h": "art154"
+  },
+  "154|I": {
+   "h": "art154i"
+  },
+  "154|II": {
+   "h": "art154ii"
+  },
+  "155": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-4-artigo-155",
+   "h": "art155"
+  },
+  "155|I": {
+   "h": "art155i"
+  },
+  "155|II": {
+   "h": "art155ii"
+  },
+  "155|III": {
+   "h": "art155iii"
+  },
+  "155|IV": {
+   "h": "art155iv"
+  },
+  "155|I|a": {
+   "h": "art155ia"
+  },
+  "155|I|b": {
+   "h": "art155ib"
+  },
+  "155|I|c": {
+   "h": "art155ic"
+  },
+  "155|§1": {
+   "h": "art155§1"
+  },
+  "155|§1|I": {
+   "h": "art155§1i"
+  },
+  "155|§1|III": {
+   "h": "art155§1iii"
+  },
+  "155|§1|III|a": {
+   "h": "art155§1iiia"
+  },
+  "155|§1|III|b": {
+   "h": "art155§1iiib"
+  },
+  "155|§1|V": {
+   "h": "art155§1v"
+  },
+  "155|§2": {
+   "h": "art155§2"
+  },
+  "155|§2|I": {
+   "h": "art155§2i"
+  },
+  "155|§2|II": {
+   "h": "art155§2ii"
+  },
+  "155|§2|III": {
+   "h": "art155§2iii"
+  },
+  "155|§2|II|a": {
+   "h": "art155§2iia"
+  },
+  "155|§2|II|b": {
+   "h": "art155§2iib"
+  },
+  "155|§2|IV": {
+   "h": "art155§2iv"
+  },
+  "155|§2|IX": {
+   "h": "art155§2ix"
+  },
+  "155|§2|IX|a": {
+   "h": "art155§2ixa"
+  },
+  "155|§2|IX|b": {
+   "h": "art155§2ixb"
+  },
+  "155|§2|V": {
+   "h": "art155§2v"
+  },
+  "155|§2|VI": {
+   "h": "art155§2vi"
+  },
+  "155|§2|VII": {
+   "h": "art155§2vii."
+  },
+  "155|§2|VIII": {
+   "h": "art155§2viii."
+  },
+  "155|§2|VIII|a": {
+   "h": "art155§2viiia"
+  },
+  "155|§2|VIII|b": {
+   "h": "art155§2viiib"
+  },
+  "155|§2|VII|a": {
+   "h": "art155§2viia."
+  },
+  "155|§2|VII|b": {
+   "h": "art155§2viib."
+  },
+  "155|§2|V|a": {
+   "h": "art155§2va"
+  },
+  "155|§2|V|b": {
+   "h": "art155§2vb"
+  },
+  "155|§2|X": {
+   "h": "art155§2x"
+  },
+  "155|§2|XI": {
+   "h": "art155§2xi"
+  },
+  "155|§2|XII": {
+   "h": "art155§2xii"
+  },
+  "155|§2|XII|a": {
+   "h": "art155§2xiia"
+  },
+  "155|§2|XII|b": {
+   "h": "art155§2xiib"
+  },
+  "155|§2|XII|c": {
+   "h": "art155§2xiic"
+  },
+  "155|§2|XII|d": {
+   "h": "art155§2xiid"
+  },
+  "155|§2|XII|e": {
+   "h": "art155§2xiie"
+  },
+  "155|§2|XII|f": {
+   "h": "art155§2xiif"
+  },
+  "155|§2|XII|g": {
+   "h": "art155§2xiig"
+  },
+  "155|§2|XII|h": {
+   "h": "art155§2xiih"
+  },
+  "155|§2|X|a": {
+   "h": "art155§2xa"
+  },
+  "155|§2|X|b": {
+   "h": "art155§2xb"
+  },
+  "155|§2|X|c": {
+   "h": "art155§2xc"
+  },
+  "155|§2|X|d": {
+   "h": "art155§2xd"
+  },
+  "155|§3": {
+   "h": "art155§3.0"
+  },
+  "155|§4": {
+   "h": "art155§4"
+  },
+  "155|§4|I": {
+   "h": "art155§4i"
+  },
+  "155|§4|II": {
+   "h": "art155§4ii"
+  },
+  "155|§4|III": {
+   "h": "art155§4iii"
+  },
+  "155|§4|IV": {
+   "h": "art155§4iv"
+  },
+  "155|§4|IV|a": {
+   "h": "art155§4iva"
+  },
+  "155|§4|IV|b": {
+   "h": "art155§4ivb"
+  },
+  "155|§4|IV|c": {
+   "h": "art155§4ivc"
+  },
+  "155|§5": {
+   "h": "art155§5"
+  },
+  "155|§6": {
+   "h": "art155§6"
+  },
+  "155|§6|I": {
+   "h": "art155§6i"
+  },
+  "156": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-5-artigo-156",
+   "h": "art156"
+  },
+  "156-A": {
+   "h": "art156a"
+  },
+  "156-A|§1": {
+   "h": "art156a§1"
+  },
+  "156-A|§10": {
+   "h": "art156a§10"
+  },
+  "156-A|§11": {
+   "h": "art156a§11"
+  },
+  "156-A|§12": {
+   "h": "art156a§12"
+  },
+  "156-A|§13": {
+   "h": "art156a§13"
+  },
+  "156-A|§2": {
+   "h": "art156a§2"
+  },
+  "156-A|§3": {
+   "h": "art156a§3"
+  },
+  "156-A|§4": {
+   "h": "art156a§4"
+  },
+  "156-A|§4|I": {
+   "h": "art156a§4i"
+  },
+  "156-A|§5": {
+   "h": "art156a§5"
+  },
+  "156-A|§6": {
+   "h": "art156a§6"
+  },
+  "156-A|§7": {
+   "h": "art156a§7"
+  },
+  "156-A|§8": {
+   "h": "art156a§8"
+  },
+  "156-A|§9": {
+   "h": "art156a§9"
+  },
+  "156-B": {
+   "h": "art156b"
+  },
+  "156|I": {
+   "h": "art156i"
+  },
+  "156|II": {
+   "h": "art156ii"
+  },
+  "156|III": {
+   "h": "art156iii"
+  },
+  "156|§1": {
+   "h": "art156§1"
+  },
+  "156|§1-A": {
+   "h": "art156§1a"
+  },
+  "156|§1|I": {
+   "h": "art156§1i"
+  },
+  "156|§1|II": {
+   "h": "art156§1ii"
+  },
+  "156|§2|I": {
+   "h": "art156§2i"
+  },
+  "156|§2|II": {
+   "h": "art156§2ii"
+  },
+  "156|§3": {
+   "h": "art156§3"
+  },
+  "156|§3|I": {
+   "h": "art156§3i."
+  },
+  "156|§3|II": {
+   "h": "art156§3ii"
+  },
+  "156|§3|III": {
+   "h": "art156§3iii"
+  },
+  "157": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-6-artigo-157",
+   "h": "art157"
+  },
+  "157|I": {
+   "h": "art157i"
+  },
+  "157|II": {
+   "h": "art157ii"
+  },
+  "158": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-6-artigo-158",
+   "h": "art158"
+  },
+  "158|I": {
+   "h": "art158i"
+  },
+  "158|II": {
+   "h": "art158ii"
+  },
+  "158|pu|I": {
+   "h": "art158pi.0"
+  },
+  "158|pu|II": {
+   "h": "art158pii."
+  },
+  "158|§1": {
+   "h": "art158§1"
+  },
+  "158|§2": {
+   "h": "art158§2"
+  },
+  "159": {
+   "h": "art159"
+  },
+  "159-A": {
+   "h": "art159a"
+  },
+  "159|I|a": {
+   "h": "art159ia"
+  },
+  "159|I|b": {
+   "h": "art159ib"
+  },
+  "159|I|c": {
+   "h": "art159ic"
+  },
+  "159|I|d": {
+   "h": "art159id"
+  },
+  "159|I|e": {
+   "h": "art159ie"
+  },
+  "159|I|f": {
+   "h": "art159if"
+  },
+  "159|§1": {
+   "h": "art159§1"
+  },
+  "159|§2": {
+   "h": "art159§2"
+  },
+  "159|§3": {
+   "h": "art159§3.0"
+  },
+  "159|§4": {
+   "h": "art159§4"
+  },
+  "16": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-4-artigo-16",
+   "h": "art16"
+  },
+  "160": {
+   "h": "art160"
+  },
+  "160|pu|I": {
+   "h": "art160pi"
+  },
+  "160|pu|II": {
+   "h": "art160pii"
+  },
+  "160|§1": {
+   "h": "art160§1"
+  },
+  "160|§2": {
+   "h": "art160§2"
+  },
+  "161": {
+   "h": "art161"
+  },
+  "161|II": {
+   "h": "art161ii"
+  },
+  "161|III": {
+   "h": "art161iii"
+  },
+  "161|pu": {
+   "h": "art161p"
+  },
+  "162": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-1-secao-6-artigo-162",
+   "h": "art162"
+  },
+  "162|pu": {
+   "h": "art162p"
+  },
+  "163": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-2-secao-1-artigo-163",
+   "h": "art163"
+  },
+  "163-A": {
+   "h": "art163a"
+  },
+  "163|I": {
+   "h": "art163i"
+  },
+  "163|II": {
+   "h": "art163ii"
+  },
+  "163|IV": {
+   "h": "art163iv"
+  },
+  "163|V": {
+   "h": "art163v"
+  },
+  "163|VI": {
+   "h": "art163vi"
+  },
+  "163|VII": {
+   "h": "art163vii"
+  },
+  "163|VIII": {
+   "h": "art163viii"
+  },
+  "163|VIII|a": {
+   "h": "art163viiia"
+  },
+  "163|VIII|b": {
+   "h": "art163viiib"
+  },
+  "163|VIII|c": {
+   "h": "art163viiic"
+  },
+  "163|VIII|d": {
+   "h": "art163viiid"
+  },
+  "163|VIII|e": {
+   "h": "art163viiie"
+  },
+  "163|pu": {
+   "h": "art163p"
+  },
+  "164": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-2-secao-1-artigo-164",
+   "h": "cf-88-parte-1-titulo-6-capitulo-2-secao-1-artigo-164"
+  },
+  "164-A": {
+   "h": "art164a"
+  },
+  "164-A|pu": {
+   "h": "art164ap"
+  },
+  "164|§3": {
+   "h": "art164§3"
+  },
+  "165": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-2-secao-2-artigo-165",
+   "h": "art165"
+  },
+  "165|I": {
+   "h": "art165i"
+  },
+  "165|II": {
+   "h": "art165ii"
+  },
+  "165|III": {
+   "h": "art165iii"
+  },
+  "165|§1": {
+   "h": "art165§1"
+  },
+  "165|§10": {
+   "h": "art165§10"
+  },
+  "165|§11": {
+   "c": "art165§11",
+   "h": "art165§11"
+  },
+  "165|§11|I": {
+   "h": "art165§11i"
+  },
+  "165|§11|II": {
+   "h": "art165§11ii"
+  },
+  "165|§11|III": {
+   "h": "art165§11iii"
+  },
+  "165|§12": {
+   "c": "art165§12",
+   "h": "art165§12"
+  },
+  "165|§13": {
+   "c": "art165§13",
+   "h": "art165§13"
+  },
+  "165|§14": {
+   "c": "art165§14",
+   "h": "art165§14"
+  },
+  "165|§14|I": {
+   "h": "art165§14i.0"
+  },
+  "165|§14|II": {
+   "h": "art165§14ii.0"
+  },
+  "165|§14|III": {
+   "h": "art165§14iii.0"
+  },
+  "165|§14|IV": {
+   "h": "art165§14iv.0"
+  },
+  "165|§15": {
+   "c": "art165§15",
+   "h": "art165§15"
+  },
+  "165|§16": {
+   "h": "art165§16"
+  },
+  "165|§17": {
+   "h": "art165§17"
+  },
+  "165|§18": {
+   "h": "art165§18"
+  },
+  "165|§19": {
+   "h": "art165§19"
+  },
+  "165|§2": {
+   "h": "art165§2.0"
+  },
+  "165|§20": {
+   "h": "art165§20"
+  },
+  "165|§21": {
+   "h": "art165§21"
+  },
+  "165|§22": {
+   "h": "art165§22"
+  },
+  "165|§3": {
+   "h": "art165§3"
+  },
+  "165|§4": {
+   "h": "art165§4"
+  },
+  "165|§5": {
+   "h": "art165§5"
+  },
+  "165|§5|I": {
+   "h": "art165§5i"
+  },
+  "165|§5|II": {
+   "h": "art165§5ii"
+  },
+  "165|§5|III": {
+   "h": "art165§5iii"
+  },
+  "165|§6": {
+   "h": "art165§6"
+  },
+  "165|§7": {
+   "h": "art165§7"
+  },
+  "165|§8": {
+   "h": "art165§8"
+  },
+  "165|§9": {
+   "h": "art165§9"
+  },
+  "165|§9|I": {
+   "h": "art165§9i"
+  },
+  "165|§9|III": {
+   "h": "art165§9iii.0"
+  },
+  "166": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-2-secao-2-artigo-166",
+   "h": "art166"
+  },
+  "166-A": {
+   "h": "art166a"
+  },
+  "166-A|I": {
+   "h": "art166ai"
+  },
+  "166-A|II": {
+   "h": "art166aii"
+  },
+  "166-A|§1": {
+   "h": "art166a§1"
+  },
+  "166-A|§1|I": {
+   "h": "art166a§1i"
+  },
+  "166-A|§1|II": {
+   "h": "art166a§1ii"
+  },
+  "166-A|§2": {
+   "h": "art166a§2"
+  },
+  "166-A|§2|I": {
+   "h": "art166a§2i"
+  },
+  "166-A|§2|II": {
+   "h": "art166a§2ii"
+  },
+  "166-A|§2|III": {
+   "h": "art166a§2iii"
+  },
+  "166-A|§3": {
+   "h": "art166a§3"
+  },
+  "166-A|§4": {
+   "h": "art166a§4"
+  },
+  "166-A|§4|I": {
+   "h": "art166a§4i"
+  },
+  "166-A|§4|II": {
+   "h": "art166a§4ii"
+  },
+  "166-A|§5": {
+   "h": "art166a§5"
+  },
+  "166|§1": {
+   "h": "art166§1"
+  },
+  "166|§10": {
+   "h": "art166§10"
+  },
+  "166|§11": {
+   "h": "art166§11.0"
+  },
+  "166|§12": {
+   "h": "art166§12.0"
+  },
+  "166|§13": {
+   "h": "art166§13.0"
+  },
+  "166|§14": {
+   "h": "art166§14.0"
+  },
+  "166|§15": {
+   "h": "art166§15.0"
+  },
+  "166|§16": {
+   "h": "art166§16.0"
+  },
+  "166|§17": {
+   "h": "art166§17.1"
+  },
+  "166|§18": {
+   "h": "art166§18.0"
+  },
+  "166|§19": {
+   "h": "art166§19.0"
+  },
+  "166|§1|I": {
+   "h": "art166§1i"
+  },
+  "166|§1|II": {
+   "h": "art166§1ii"
+  },
+  "166|§2": {
+   "h": "art166§2"
+  },
+  "166|§20": {
+   "h": "art166§20"
+  },
+  "166|§3": {
+   "h": "art166§3"
+  },
+  "166|§3|I": {
+   "h": "art166§3i"
+  },
+  "166|§3|II": {
+   "h": "art166§3ii"
+  },
+  "166|§3|III": {
+   "h": "art166§3iii"
+  },
+  "166|§3|III|a": {
+   "h": "art166§3iiia"
+  },
+  "166|§3|III|b": {
+   "h": "art166§3iiib"
+  },
+  "166|§3|II|a": {
+   "h": "art166§3iia"
+  },
+  "166|§3|II|b": {
+   "h": "art166§3iib"
+  },
+  "166|§3|II|c": {
+   "h": "art166§3iic"
+  },
+  "166|§4": {
+   "h": "art166§4"
+  },
+  "166|§5": {
+   "h": "ART166§5"
+  },
+  "166|§6": {
+   "h": "art166§6"
+  },
+  "166|§7": {
+   "h": "art166§7"
+  },
+  "166|§8": {
+   "h": "art166§8"
+  },
+  "166|§9": {
+   "h": "art166§9.0"
+  },
+  "167": {
+   "c": "cf-88-parte-1-titulo-6-capitulo-2-secao-2-artigo-167",
+   "h": "art167"
+  },
+  "167-A": {
+   "h": "art167a"
+  },
+  "167-A|I": {
+   "h": "art167ai"
+  },
+  "167-A|II": {
+   "h": "art167aii"
+  },
+  "167-A|III": {
+   "h": "art167aiii"
+  },
+  "167-A|IV": {
+   "h": "art167aiv"
+  },
+  "167-A|IV|a": {
+   "h": "art167aiva"
+  },
+  "167-A|IV|b": {
+   "h": "art167aivb"
+  },
+  "167-A|IV|c": {
+   "h": "art167aivc"
+  },
+  "167-A|IV|d": {
+   "h": "art167aivd"
+  },
+  "167-A|IX": {
+   "h": "art167aix"
+  },
+  "167-A|V": {
+   "h": "art167av"
+  },
+  "167-A|VI": {
+   "h": "art167avi"
+  },
+  "167-A|VII": {
+   "h": "art167avii"
+  },
+  "167-A|VIII": {
+   "h": "art167aviii"
+  },
+  "167-A|X": {
+   "h": "art167ax"
+  },
+  "167-A|§1": {
+   "h": "art167a§1"
+  },
+  "167-A|§2": {
+   "h": "art167a§2"
+  },
+  "167-A|§3": {
+   "h": "art167a§3"
+  },
+  "167-A|§3|I": {
+   "h": "art167a§3i"
+  },
+  "167-A|§3|II": {
+   "h": "art167a§3ii"
+  },
+  "167-A|§3|III": {
+   "h": "art167a§3iii"
+  },
+  "167-A|§4": {
+   "h": "art167a§4"
+  },
+  "167-A|§5": {
+   "h": "art167a§5"
+  },
+  "167-A|§5|I": {
+   "h": "art167a§5i"
+  },
+  "167-A|§5|II": {
+   "h": "art167a§5ii"
+  },
+  "167-A|§6": {
+   "h": "art167a§6"
+  },
+  "167-A|§6|I": {
+   "h": "art167a§6i"
+  },
+  "167-A|§6|II": {
+   "h": "art167a§6ii"
+  },
+  "167-B": {
+   "h": "art167b"
+  },
+  "167-C": {
+   "h": "art167c"
+  },
+  "167-D": {
+   "h": "art167d"
+  },
+  "167-D|pu": {
+   "h": "art167dp"
+  },
+  "167-E": {
+   "h": "art167e"
+  },
+  "167-F": {
+   "h": "art167f"
+  },
+  "167-F|I": {
+   "h": "art167fi"
+  },
+  "167-F|II": {
+   "h": "art167fii"
+  },
+  "167-F|§1": {
+   "h": "art167f§1"
+  },
+  "167-F|§2": {
+   "h": "art167f§2"
+  },
+  "167-F|§2|I": {
+   "h": "art167f§2i"
+  },
+  "167-F|§2|II": {
+   "h": "art167f§2ii"
+  },
+  "167-F|§2|III": {
+   "h": "art167f§2iii"
+  },
+  "167-G": {
+   "h": "art167g"
+  },
+  "167-G|§1": {
+   "h": "art167g§1"
+  },
+  "167-G|§2": {
+   "h": "art167g§2"
+  },
+  "167-G|§3": {
+   "h": "art167g§3"
+  },
+  "167|I": {
+   "h": "art167i"
+  },
+  "167|II": {
+   "h": "art167ii"
+  },
+  "167|III": {
+   "h": "art167iii"
+  },
+  "167|IV": {
+   "h": "art167iv"
+  },
+  "167|IX": {
+   "h": "art167ix"
+  },
+  "167|V": {
+   "h": "art167v"
+  },
+  "167|VI": {
+   "h": "art167vi"
+  },
+  "167|VII": {
+   "h": "art167vii"
+  },
+  "167|X": {
+   "h": "art167x"
+  },
+  "167|XI": {
+   "h": "art167xi"
+  },
+  "167|XII": {
+   "h": "art167xii"
+  },
+  "167|XIII": {
+   "h": "art167xiii"
+  },
+  "167|XIV": {
+   "h": "art167xiv"
+  },
+  "167|§1": {
+   "h": "art167§1"
+  },
+  "167|§2": {
+   "h": "art167§2"
+  },
+  "167|§3": {
+   "h": "art167§3"
+  },
+  "167|§4": {
+   "c": "art167§4.1",
+   "h": "art167§4.1"
+  },
+  "167|§5": {
+   "h": "art167§5"
+  },
+  "167|§6": {
+   "h": "art167§6"
+  },
+  "167|§7": {
+   "h": "art167§7"
+  },
+  "168": {
+   "h": "art168."
+  },
+  "168|§1": {
+   "h": "art168§1"
+  },
+  "168|§2": {
+   "h": "art168§2"
+  },
+  "169": {
+   "h": "art169.1"
+  },
+  "169|II": {
+   "h": "art169ii"
+  },
+  "169|§1": {
+   "h": "art169§1"
+  },
+  "169|§1|I": {
+   "h": "art169§1i"
+  },
+  "169|§1|II": {
+   "h": "art169§1ii"
+  },
+  "169|§2": {
+   "h": "art169§2"
+  },
+  "169|§3": {
+   "h": "art169§3"
+  },
+  "169|§3|I": {
+   "h": "art169§3i"
+  },
+  "169|§3|II": {
+   "h": "art169§3ii"
+  },
+  "169|§4": {
+   "h": "art169§4"
+  },
+  "169|§5": {
+   "h": "art169§5"
+  },
+  "169|§6": {
+   "h": "art169§6"
+  },
+  "169|§7": {
+   "h": "art169§7"
+  },
+  "17": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-5-artigo-17",
+   "h": "art17"
+  },
+  "170": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-170",
+   "h": "art170"
+  },
+  "170|I": {
+   "h": "art170i"
+  },
+  "170|II": {
+   "h": "art170ii"
+  },
+  "170|III": {
+   "h": "art170iii"
+  },
+  "170|IV": {
+   "h": "art170iv"
+  },
+  "170|IX": {
+   "h": "art170ix"
+  },
+  "170|V": {
+   "h": "art170v"
+  },
+  "170|VI": {
+   "h": "art170vi."
+  },
+  "170|VII": {
+   "h": "art170vii"
+  },
+  "170|VIII": {
+   "h": "art170viii"
+  },
+  "170|pu": {
+   "h": "art170p"
+  },
+  "171": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-171"
+  },
+  "172": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-172",
+   "h": "art172"
+  },
+  "173": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-173",
+   "h": "art173"
+  },
+  "173|§1": {
+   "h": "art173§1."
+  },
+  "173|§1|I": {
+   "h": "art173§1i"
+  },
+  "173|§1|II": {
+   "h": "art173§1ii"
+  },
+  "173|§1|III": {
+   "h": "art173§1iii"
+  },
+  "173|§1|IV": {
+   "h": "art173§1iv"
+  },
+  "173|§1|V": {
+   "h": "art173§1v"
+  },
+  "173|§2": {
+   "h": "art173§2"
+  },
+  "173|§3": {
+   "h": "art173§3"
+  },
+  "173|§5": {
+   "h": "art173§5"
+  },
+  "174": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-174",
+   "h": "art174"
+  },
+  "174|§1": {
+   "h": "art174§1"
+  },
+  "174|§4": {
+   "h": "art174§4"
+  },
+  "175": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-175",
+   "h": "art175"
+  },
+  "175|pu": {
+   "h": "art175p"
+  },
+  "175|pu|I": {
+   "h": "art175pi"
+  },
+  "175|pu|II": {
+   "h": "art175pii"
+  },
+  "175|pu|III": {
+   "h": "art175piii"
+  },
+  "175|pu|IV": {
+   "h": "art175piv"
+  },
+  "176": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-176",
+   "h": "art176"
+  },
+  "176|§1": {
+   "h": "art176§1"
+  },
+  "176|§2": {
+   "h": "art176§2"
+  },
+  "176|§3": {
+   "h": "art176§3"
+  },
+  "176|§4": {
+   "h": "art176§4"
+  },
+  "177": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-177",
+   "h": "art177"
+  },
+  "177|I": {
+   "h": "art177i"
+  },
+  "177|II": {
+   "h": "art177ii"
+  },
+  "177|IV": {
+   "h": "art177iv"
+  },
+  "177|V": {
+   "h": "art177v"
+  },
+  "177|§1": {
+   "h": "art177§1"
+  },
+  "177|§2": {
+   "h": "art177§2"
+  },
+  "177|§2|I": {
+   "h": "art177§2i"
+  },
+  "177|§2|II": {
+   "h": "art177§2ii"
+  },
+  "177|§2|III": {
+   "h": "art177§2iii"
+  },
+  "177|§3": {
+   "h": "art177§3"
+  },
+  "177|§4": {
+   "h": "art177§4"
+  },
+  "177|§4|I": {
+   "h": "art177§4i"
+  },
+  "177|§4|II": {
+   "h": "art177§4ii"
+  },
+  "177|§4|II|a": {
+   "h": "art177§4iia"
+  },
+  "177|§4|II|b": {
+   "h": "art177§4iib"
+  },
+  "177|§4|II|c": {
+   "h": "art177§4iic"
+  },
+  "177|§4|I|a": {
+   "h": "art177§4ia"
+  },
+  "177|§4|I|b": {
+   "h": "art177§4ib"
+  },
+  "178": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-178",
+   "h": "art178"
+  },
+  "178|pu": {
+   "h": "art178p"
+  },
+  "178|§3": {
+   "h": "art178§3"
+  },
+  "179": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-179",
+   "h": "art179"
+  },
+  "17|§1": {
+   "h": "art17§1."
+  },
+  "17|§3": {
+   "h": "art17§3"
+  },
+  "17|§3|I": {
+   "h": "art17§3i"
+  },
+  "17|§3|II": {
+   "h": "art17§3ii"
+  },
+  "17|§5": {
+   "h": "art17§5"
+  },
+  "17|§6": {
+   "h": "art17§6"
+  },
+  "17|§7": {
+   "h": "art17§7"
+  },
+  "17|§8": {
+   "h": "art17§8"
+  },
+  "17|§9": {
+   "h": "art17§9"
+  },
+  "18": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-1-artigo-18",
+   "h": "art18"
+  },
+  "180": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-180",
+   "h": "art180"
+  },
+  "181": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-1-artigo-181",
+   "h": "art181"
+  },
+  "182": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-2-artigo-182",
+   "h": "art182"
+  },
+  "182|I": {
+   "h": "art182i"
+  },
+  "182|II": {
+   "h": "art182ii"
+  },
+  "182|§1": {
+   "h": "art182§1"
+  },
+  "182|§2": {
+   "h": "art182§2"
+  },
+  "182|§3": {
+   "h": "art182§3"
+  },
+  "182|§4": {
+   "h": "art182§4"
+  },
+  "182|§4|III": {
+   "h": "art182§4iii"
+  },
+  "183": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-2-artigo-183",
+   "h": "art183"
+  },
+  "183|§1": {
+   "h": "art183§1"
+  },
+  "183|§2": {
+   "h": "art183§2"
+  },
+  "183|§3": {
+   "h": "art183§3"
+  },
+  "184": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-3-artigo-184",
+   "h": "art184"
+  },
+  "184|§1": {
+   "h": "art184§1"
+  },
+  "184|§2": {
+   "h": "art184§2"
+  },
+  "184|§3": {
+   "h": "art184§3"
+  },
+  "184|§4": {
+   "h": "art184§4"
+  },
+  "184|§5": {
+   "h": "art184§5"
+  },
+  "185": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-3-artigo-185",
+   "h": "art185"
+  },
+  "185|I": {
+   "h": "art185i"
+  },
+  "185|II": {
+   "h": "art185ii"
+  },
+  "185|pu": {
+   "h": "art185p"
+  },
+  "186": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-3-artigo-186",
+   "h": "art186"
+  },
+  "186|I": {
+   "h": "art186i"
+  },
+  "186|II": {
+   "h": "art186ii"
+  },
+  "186|III": {
+   "h": "art186iii"
+  },
+  "186|IV": {
+   "h": "art186iv"
+  },
+  "187": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-3-artigo-187",
+   "h": "art187"
+  },
+  "187|I": {
+   "h": "art187i"
+  },
+  "187|IV": {
+   "h": "art187iv"
+  },
+  "187|V": {
+   "h": "art187v"
+  },
+  "187|VI": {
+   "h": "art187vi"
+  },
+  "187|VII": {
+   "h": "art187vii"
+  },
+  "187|VIII": {
+   "h": "art187viii"
+  },
+  "187|§1": {
+   "h": "art187§1"
+  },
+  "187|§2": {
+   "h": "art187§2"
+  },
+  "188": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-3-artigo-188",
+   "h": "art188"
+  },
+  "188|§1": {
+   "h": "art188§1"
+  },
+  "188|§2": {
+   "h": "art188§2"
+  },
+  "189": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-3-artigo-189",
+   "h": "art189"
+  },
+  "189|pu": {
+   "h": "art189p"
+  },
+  "18|§1": {
+   "h": "art18§1"
+  },
+  "18|§2": {
+   "h": "art18§2"
+  },
+  "18|§3": {
+   "h": "art18§3"
+  },
+  "18|§4": {
+   "h": "art18§4"
+  },
+  "19": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-1-artigo-19",
+   "h": "art19"
+  },
+  "190": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-3-artigo-190",
+   "h": "art190"
+  },
+  "191": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-3-artigo-191",
+   "h": "art191"
+  },
+  "191|pu": {
+   "h": "art191p"
+  },
+  "192": {
+   "c": "cf-88-parte-1-titulo-7-capitulo-4-artigo-192",
+   "h": "art192"
+  },
+  "192|I": {
+   "h": "art192i."
+  },
+  "192|II": {
+   "h": "art192ii.."
+  },
+  "192|III": {
+   "h": "art192iii."
+  },
+  "192|III|a": {
+   "h": "art192iiia."
+  },
+  "192|III|b": {
+   "h": "art192iiib."
+  },
+  "192|IV": {
+   "h": "art192iv."
+  },
+  "192|V": {
+   "h": "art192v."
+  },
+  "192|VI": {
+   "h": "art192vi."
+  },
+  "192|VII": {
+   "h": "art192vii."
+  },
+  "192|VIII": {
+   "h": "art192viii."
+  },
+  "192|§1": {
+   "h": "art192§1."
+  },
+  "192|§2": {
+   "h": "art192§2."
+  },
+  "192|§3": {
+   "h": "art192§3."
+  },
+  "193": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-1-artigo-193",
+   "h": "art193"
+  },
+  "193|pu": {
+   "h": "art193p"
+  },
+  "194": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-2-secao-1-artigo-194",
+   "h": "art194"
+  },
+  "194|pu": {
+   "h": "art194p"
+  },
+  "194|pu|I": {
+   "h": "art194pi"
+  },
+  "194|pu|II": {
+   "h": "art194pii"
+  },
+  "194|pu|III": {
+   "h": "art194piii"
+  },
+  "194|pu|IV": {
+   "h": "art194piv"
+  },
+  "194|pu|V": {
+   "h": "art194pv"
+  },
+  "194|pu|VI": {
+   "h": "art194pvi.0"
+  },
+  "194|pu|VII": {
+   "h": "art194pvii"
+  },
+  "195": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-2-secao-1-artigo-195",
+   "h": "art195"
+  },
+  "195|I": {
+   "h": "art195i"
+  },
+  "195|II": {
+   "h": "art195ii.0"
+  },
+  "195|III": {
+   "h": "art195iii"
+  },
+  "195|IV": {
+   "h": "art195iv"
+  },
+  "195|I|a": {
+   "h": "art195ia"
+  },
+  "195|I|b": {
+   "h": "art195ib"
+  },
+  "195|I|c": {
+   "h": "art195ic"
+  },
+  "195|§1": {
+   "h": "art195§1"
+  },
+  "195|§10": {
+   "h": "art195§10"
+  },
+  "195|§11": {
+   "h": "art195§11.0"
+  },
+  "195|§12": {
+   "h": "art195§12"
+  },
+  "195|§13": {
+   "h": "art195§13.0"
+  },
+  "195|§14": {
+   "h": "art195§14"
+  },
+  "195|§15": {
+   "h": "art195§15"
+  },
+  "195|§16": {
+   "h": "art195§16"
+  },
+  "195|§17": {
+   "h": "art195§17"
+  },
+  "195|§18": {
+   "h": "art195§18"
+  },
+  "195|§19": {
+   "h": "art195§19"
+  },
+  "195|§2": {
+   "h": "art195§2"
+  },
+  "195|§3": {
+   "h": "art195§3"
+  },
+  "195|§4": {
+   "h": "art195§4"
+  },
+  "195|§5": {
+   "h": "art195§5"
+  },
+  "195|§6": {
+   "h": "art195§6"
+  },
+  "195|§7": {
+   "h": "art195§7"
+  },
+  "195|§8": {
+   "h": "art195§8"
+  },
+  "195|§9": {
+   "h": "art195§9.0"
+  },
+  "196": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-2-secao-2-artigo-196",
+   "h": "art196"
+  },
+  "197": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-2-secao-2-artigo-197",
+   "h": "art197"
+  },
+  "198": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-2-secao-2-artigo-198",
+   "h": "art198"
+  },
+  "198|I": {
+   "h": "art198i"
+  },
+  "198|II": {
+   "h": "art198ii"
+  },
+  "198|III": {
+   "h": "art198iii"
+  },
+  "198|IV": {
+   "h": "art198iv"
+  },
+  "198|§1": {
+   "h": "art198§1"
+  },
+  "198|§10": {
+   "h": "art198§10.0"
+  },
+  "198|§11": {
+   "h": "art198§11"
+  },
+  "198|§12": {
+   "h": "art198§12"
+  },
+  "198|§13": {
+   "h": "art198§13"
+  },
+  "198|§14": {
+   "h": "art198§14"
+  },
+  "198|§15": {
+   "h": "art198§15"
+  },
+  "198|§2": {
+   "h": "art198§2"
+  },
+  "198|§2|I": {
+   "h": "art198§2i."
+  },
+  "198|§3": {
+   "h": "art198§3"
+  },
+  "198|§3|II": {
+   "h": "art198§3ii"
+  },
+  "198|§3|III": {
+   "h": "art198§3iii"
+  },
+  "198|§4": {
+   "h": "art198§4"
+  },
+  "198|§5": {
+   "h": "art198§5."
+  },
+  "198|§6": {
+   "h": "art198§6"
+  },
+  "198|§7": {
+   "h": "art198§7"
+  },
+  "198|§8": {
+   "h": "art198§8"
+  },
+  "198|§9": {
+   "h": "art198§9"
+  },
+  "199": {
+   "h": "art199"
+  },
+  "199|§1": {
+   "h": "art199§1"
+  },
+  "199|§2": {
+   "h": "art199§2"
+  },
+  "199|§3": {
+   "h": "art199§3"
+  },
+  "199|§4": {
+   "h": "art199§4"
+  },
+  "19|I": {
+   "h": "art19i"
+  },
+  "1|I": {
+   "h": "art1i"
+  },
+  "1|II": {
+   "h": "art1ii"
+  },
+  "1|III": {
+   "h": "art1iii"
+  },
+  "1|IV": {
+   "h": "art1iv"
+  },
+  "1|V": {
+   "h": "art1v"
+  },
+  "1|pu": {
+   "h": "art1p"
+  },
+  "2": {
+   "c": "cf-88-parte-1-titulo-1-artigo-2",
+   "h": "art2"
+  },
+  "20": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-2-artigo-20",
+   "h": "art20"
+  },
+  "200": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-2-secao-2-artigo-200",
+   "h": "art200"
+  },
+  "200|I": {
+   "h": "art200i"
+  },
+  "200|II": {
+   "h": "art200ii"
+  },
+  "200|IV": {
+   "h": "art200iv"
+  },
+  "200|V": {
+   "h": "art200v."
+  },
+  "200|VI": {
+   "h": "art200vi"
+  },
+  "200|VII": {
+   "h": "art200vii"
+  },
+  "200|VIII": {
+   "h": "art200viii"
+  },
+  "201": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-2-secao-3-artigo-201",
+   "h": "art201.0"
+  },
+  "201|I": {
+   "h": "art201i.0"
+  },
+  "201|II": {
+   "h": "art201ii."
+  },
+  "201|III": {
+   "h": "art201iii."
+  },
+  "201|IV": {
+   "h": "art201iv."
+  },
+  "201|V": {
+   "h": "art201v."
+  },
+  "201|§1": {
+   "h": "art201§1.0"
+  },
+  "201|§10": {
+   "h": "art201§10.0"
+  },
+  "201|§11": {
+   "h": "art201§11"
+  },
+  "201|§12": {
+   "h": "art201§12.0"
+  },
+  "201|§13": {
+   "h": "art201§13.0"
+  },
+  "201|§14": {
+   "h": "art201§14"
+  },
+  "201|§15": {
+   "h": "art201§15"
+  },
+  "201|§16": {
+   "h": "art201§16"
+  },
+  "201|§1|I": {
+   "h": "art201§1i"
+  },
+  "201|§1|II": {
+   "h": "art201§1ii"
+  },
+  "201|§2": {
+   "h": "art201§2"
+  },
+  "201|§3": {
+   "h": "art201§3"
+  },
+  "201|§4": {
+   "h": "art201§4"
+  },
+  "201|§5": {
+   "h": "art201§5"
+  },
+  "201|§7": {
+   "h": "art201§7"
+  },
+  "201|§7|I": {
+   "h": "art201§7i.0"
+  },
+  "201|§7|II": {
+   "h": "art201§7ii.0"
+  },
+  "201|§8": {
+   "h": "art201§8.0"
+  },
+  "201|§8-A": {
+   "h": "art201§8a"
+  },
+  "201|§9": {
+   "h": "art201§9.0"
+  },
+  "201|§9-A": {
+   "c": "art201§9a",
+   "h": "art201§9a"
+  },
+  "202": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-2-secao-3-artigo-202",
+   "h": "art202"
+  },
+  "202|§1": {
+   "h": "art202§1"
+  },
+  "202|§2": {
+   "h": "art202§2"
+  },
+  "202|§3": {
+   "h": "art202§3"
+  },
+  "202|§4": {
+   "h": "art202§4.0"
+  },
+  "202|§5": {
+   "h": "art202§5.0"
+  },
+  "202|§6": {
+   "h": "art202§6.0"
+  },
+  "203": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-2-secao-4-artigo-203",
+   "h": "art203"
+  },
+  "203|I": {
+   "h": "art203i"
+  },
+  "203|II": {
+   "h": "art203ii"
+  },
+  "203|III": {
+   "h": "art203iii"
+  },
+  "203|IV": {
+   "h": "art203iv"
+  },
+  "203|V": {
+   "h": "art203v"
+  },
+  "203|VI": {
+   "h": "art203vi"
+  },
+  "204": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-2-secao-4-artigo-204",
+   "h": "art204"
+  },
+  "204|I": {
+   "h": "art204i"
+  },
+  "204|II": {
+   "h": "art204ii"
+  },
+  "204|pu": {
+   "h": "art204p"
+  },
+  "204|pu|I": {
+   "h": "art204pi"
+  },
+  "204|pu|II": {
+   "h": "art204pii"
+  },
+  "204|pu|III": {
+   "h": "art204piii"
+  },
+  "205": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-1-artigo-205",
+   "h": "art205"
+  },
+  "206": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-1-artigo-206",
+   "h": "art206"
+  },
+  "206|I": {
+   "h": "art206i"
+  },
+  "206|II": {
+   "h": "art206ii"
+  },
+  "206|III": {
+   "h": "art206iii"
+  },
+  "206|IV": {
+   "h": "art206iv"
+  },
+  "206|IX": {
+   "h": "art206ix"
+  },
+  "206|V": {
+   "h": "art206v."
+  },
+  "206|VI": {
+   "h": "art206vi"
+  },
+  "206|VII": {
+   "h": "art206vii"
+  },
+  "206|VIII": {
+   "h": "art206viii"
+  },
+  "206|pu": {
+   "h": "art206p"
+  },
+  "207": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-1-artigo-207",
+   "h": "art207"
+  },
+  "207|§1": {
+   "h": "art207§1"
+  },
+  "207|§2": {
+   "h": "art207§2"
+  },
+  "208": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-1-artigo-208",
+   "h": "art208"
+  },
+  "208|I": {
+   "h": "art208i."
+  },
+  "208|II": {
+   "h": "art208ii"
+  },
+  "208|III": {
+   "h": "art208iii"
+  },
+  "208|V": {
+   "h": "art208v"
+  },
+  "208|VI": {
+   "h": "art208vi"
+  },
+  "208|VII": {
+   "h": "art208vii."
+  },
+  "208|§1": {
+   "h": "art208§1"
+  },
+  "208|§2": {
+   "h": "art208§2"
+  },
+  "208|§3": {
+   "h": "art208§3"
+  },
+  "209": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-1-artigo-209",
+   "h": "art209"
+  },
+  "209|I": {
+   "h": "art209i"
+  },
+  "209|II": {
+   "h": "art209ii"
+  },
+  "20|III": {
+   "h": "art20iii"
+  },
+  "20|IX": {
+   "h": "art20ix"
+  },
+  "20|V": {
+   "h": "art20V"
+  },
+  "20|VI": {
+   "h": "art20VI"
+  },
+  "20|§1": {
+   "h": "art20§1.0"
+  },
+  "20|§2": {
+   "h": "art20§2"
+  },
+  "21": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-2-artigo-21",
+   "h": "art21"
+  },
+  "210": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-1-artigo-210",
+   "h": "art210"
+  },
+  "210|§1": {
+   "h": "art210§1"
+  },
+  "210|§2": {
+   "h": "art210§2"
+  },
+  "211": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-1-artigo-211",
+   "h": "art211"
+  },
+  "211|§1": {
+   "h": "art211§1"
+  },
+  "211|§2": {
+   "h": "art211§2"
+  },
+  "211|§3": {
+   "h": "art211§3"
+  },
+  "211|§4": {
+   "h": "art211§4.0"
+  },
+  "211|§7": {
+   "h": "art211§7"
+  },
+  "212": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-1-artigo-212",
+   "h": "art212"
+  },
+  "212-A": {
+   "h": "art212a"
+  },
+  "212-A|I": {
+   "h": "art212ai"
+  },
+  "212-A|III": {
+   "h": "art212aiii"
+  },
+  "212-A|IV": {
+   "h": "art212aiv"
+  },
+  "212-A|IX": {
+   "h": "art212aix"
+  },
+  "212-A|V": {
+   "h": "art212av"
+  },
+  "212-A|VI": {
+   "h": "art212avi"
+  },
+  "212-A|VII": {
+   "h": "art212avii"
+  },
+  "212-A|VIII": {
+   "h": "art212aviii"
+  },
+  "212-A|V|a": {
+   "h": "art212ava"
+  },
+  "212-A|V|b": {
+   "h": "art212avb"
+  },
+  "212-A|V|c": {
+   "h": "art212avc"
+  },
+  "212-A|X": {
+   "h": "art212ax"
+  },
+  "212-A|XI": {
+   "h": "art212axi"
+  },
+  "212-A|XII": {
+   "h": "art212axii"
+  },
+  "212-A|XIII": {
+   "h": "art212axiii"
+  },
+  "212-A|X|a": {
+   "h": "art212axa"
+  },
+  "212-A|X|b": {
+   "h": "art212axb"
+  },
+  "212-A|X|c": {
+   "h": "art212axc"
+  },
+  "212-A|X|d": {
+   "h": "art212axd"
+  },
+  "212-A|X|e": {
+   "h": "art212axe"
+  },
+  "212-A|§1": {
+   "h": "art212a§1"
+  },
+  "212-A|§1|I": {
+   "h": "art212a§1i"
+  },
+  "212-A|§1|II": {
+   "h": "art212a§1ii"
+  },
+  "212-A|§1|III": {
+   "h": "art212a§1iii"
+  },
+  "212-A|§2": {
+   "h": "art212a§2"
+  },
+  "212-A|§3": {
+   "h": "art212a§3"
+  },
+  "212|§1": {
+   "h": "art212§1"
+  },
+  "212|§2": {
+   "h": "art212§2"
+  },
+  "212|§3": {
+   "h": "art212§3"
+  },
+  "212|§4": {
+   "h": "art212§4"
+  },
+  "212|§5": {
+   "h": "art212§5."
+  },
+  "212|§6": {
+   "h": "art212§6"
+  },
+  "212|§7": {
+   "h": "art212§7"
+  },
+  "212|§8": {
+   "h": "art212§8"
+  },
+  "212|§9": {
+   "h": "art212§9"
+  },
+  "213": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-1-artigo-213",
+   "h": "art213"
+  },
+  "213|I": {
+   "h": "art213i"
+  },
+  "213|II": {
+   "h": "art213ii"
+  },
+  "213|§1": {
+   "h": "art213§1"
+  },
+  "213|§2": {
+   "h": "art213§2."
+  },
+  "214": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-1-artigo-214",
+   "h": "art214."
+  },
+  "214|I": {
+   "h": "art214i"
+  },
+  "214|II": {
+   "h": "art214ii"
+  },
+  "214|III": {
+   "h": "art214iii"
+  },
+  "214|IV": {
+   "h": "art214iv"
+  },
+  "214|V": {
+   "h": "art214v"
+  },
+  "214|VI": {
+   "h": "art214vi"
+  },
+  "215": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-2-artigo-215",
+   "h": "art215"
+  },
+  "215|§1": {
+   "h": "art215§1"
+  },
+  "215|§2": {
+   "h": "art215§2"
+  },
+  "215|§3": {
+   "h": "art215§3"
+  },
+  "216": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-2-artigo-216",
+   "h": "art216"
+  },
+  "216-A": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-2-artigo-216-a",
+   "h": "art216a"
+  },
+  "216-A|§1": {
+   "h": "art216a§1"
+  },
+  "216-A|§1|I": {
+   "h": "art216a§1i"
+  },
+  "216-A|§1|II": {
+   "h": "art216a§1ii"
+  },
+  "216-A|§1|III": {
+   "h": "art216a§1iii"
+  },
+  "216-A|§1|IV": {
+   "h": "art216a§1iv"
+  },
+  "216-A|§1|IX": {
+   "h": "art216a§1ix"
+  },
+  "216-A|§1|V": {
+   "h": "art216a§1v"
+  },
+  "216-A|§1|VI": {
+   "h": "art216a§1vi"
+  },
+  "216-A|§1|VII": {
+   "h": "art216a§1vii"
+  },
+  "216-A|§1|VIII": {
+   "h": "art216a§1viii"
+  },
+  "216-A|§1|X": {
+   "h": "art216a§1x"
+  },
+  "216-A|§1|XI": {
+   "h": "art216a§1xi"
+  },
+  "216-A|§1|XII": {
+   "h": "art216a§1xii"
+  },
+  "216-A|§2": {
+   "h": "art216a§2"
+  },
+  "216-A|§2|I": {
+   "h": "art216a§2i"
+  },
+  "216-A|§2|II": {
+   "h": "art216a§2ii"
+  },
+  "216-A|§2|III": {
+   "h": "art216a§2iii"
+  },
+  "216-A|§2|IV": {
+   "h": "art216a§2iv"
+  },
+  "216-A|§2|IX": {
+   "h": "art216a§2ix"
+  },
+  "216-A|§2|V": {
+   "h": "art216a§2v"
+  },
+  "216-A|§2|VI": {
+   "h": "art216a§2vi"
+  },
+  "216-A|§2|VII": {
+   "h": "art216a§2vii"
+  },
+  "216-A|§2|VIII": {
+   "h": "art216a§2viii"
+  },
+  "216-A|§3": {
+   "h": "art216a§3"
+  },
+  "216-A|§4": {
+   "h": "art216a§4"
+  },
+  "216|II": {
+   "h": "art216ii"
+  },
+  "216|IV": {
+   "h": "art216iv"
+  },
+  "216|V": {
+   "h": "art216v"
+  },
+  "216|§1": {
+   "h": "art216§1"
+  },
+  "216|§2": {
+   "h": "art216§2"
+  },
+  "216|§3": {
+   "h": "art216§3"
+  },
+  "216|§4": {
+   "h": "art216§4"
+  },
+  "216|§5": {
+   "h": "art216§5"
+  },
+  "216|§6": {
+   "h": "art216§6"
+  },
+  "216|§6|I": {
+   "h": "art216§6i"
+  },
+  "216|§6|II": {
+   "h": "art216§6ii"
+  },
+  "216|§6|III": {
+   "h": "art216§6iii"
+  },
+  "217": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-3-secao-3-artigo-217",
+   "h": "art217"
+  },
+  "217|II": {
+   "h": "art217ii"
+  },
+  "217|III": {
+   "h": "art217iii"
+  },
+  "217|IV": {
+   "h": "art217iv"
+  },
+  "217|§1": {
+   "h": "art217§1"
+  },
+  "217|§2": {
+   "h": "art217§2"
+  },
+  "217|§3": {
+   "h": "art217§3"
+  },
+  "218": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-4-artigo-218",
+   "h": "art218."
+  },
+  "218|§2": {
+   "h": "art218§2"
+  },
+  "218|§6": {
+   "h": "art218§6"
+  },
+  "218|§7": {
+   "h": "art218§7"
+  },
+  "219": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-4-artigo-219",
+   "h": "art219"
+  },
+  "219-A": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-4-artigo-219-a",
+   "h": "art219a"
+  },
+  "219-B": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-4-artigo-219-b",
+   "h": "art219b"
+  },
+  "219-B|§1": {
+   "h": "art219b§1"
+  },
+  "219-B|§2": {
+   "h": "art219b§2"
+  },
+  "219|pu": {
+   "h": "art219p"
+  },
+  "21|IX": {
+   "h": "art21ix"
+  },
+  "21|VIII": {
+   "h": "art21viii"
+  },
+  "21|X": {
+   "h": "art21x"
+  },
+  "21|XI": {
+   "h": "art21xi"
+  },
+  "21|XII": {
+   "h": "art21xii"
+  },
+  "21|XIII": {
+   "h": "art21xiii."
+  },
+  "21|XII|a": {
+   "h": "art21xiia"
+  },
+  "21|XII|c": {
+   "h": "art21xiic"
+  },
+  "21|XII|d": {
+   "h": "art21xiid"
+  },
+  "21|XII|f": {
+   "h": "art21xiif"
+  },
+  "21|XIV": {
+   "h": "art21xiv."
+  },
+  "21|XX": {
+   "h": "art21xx"
+  },
+  "21|XXI": {
+   "h": "art21xxi"
+  },
+  "21|XXII": {
+   "h": "art21xxii"
+  },
+  "21|XXIII": {
+   "h": "art21xxiii"
+  },
+  "21|XXIII|b": {
+   "h": "art21xxiiib.0"
+  },
+  "21|XXIII|c": {
+   "h": "art21xxiiic.0"
+  },
+  "21|XXIII|d": {
+   "h": "art21xxiiid"
+  },
+  "21|XXVI": {
+   "h": "art21xxvi"
+  },
+  "22": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-2-artigo-22",
+   "h": "art22"
+  },
+  "220": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-5-artigo-220",
+   "h": "art220"
+  },
+  "220|§1": {
+   "h": "art220§1"
+  },
+  "220|§3": {
+   "h": "art220§3"
+  },
+  "220|§3|I": {
+   "h": "art220§3i"
+  },
+  "220|§3|II": {
+   "h": "art220§3ii"
+  },
+  "221": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-5-artigo-221",
+   "h": "art221"
+  },
+  "221|I": {
+   "h": "art221i"
+  },
+  "221|II": {
+   "h": "art221ii"
+  },
+  "221|III": {
+   "h": "art221iii"
+  },
+  "221|IV": {
+   "h": "art221iv"
+  },
+  "222": {
+   "h": "art222"
+  },
+  "222|§1": {
+   "h": "art222§1"
+  },
+  "222|§2": {
+   "h": "art222§2"
+  },
+  "222|§3": {
+   "h": "art222§3"
+  },
+  "222|§4": {
+   "h": "art222§4"
+  },
+  "222|§5": {
+   "h": "art222§5"
+  },
+  "223": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-5-artigo-223",
+   "h": "art223"
+  },
+  "223|§1": {
+   "h": "art223§1"
+  },
+  "223|§2": {
+   "h": "art223§2"
+  },
+  "223|§3": {
+   "h": "art223§3"
+  },
+  "223|§4": {
+   "h": "art223§4"
+  },
+  "223|§5": {
+   "h": "art223§5"
+  },
+  "224": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-5-artigo-224",
+   "h": "art224"
+  },
+  "225": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-6-artigo-225",
+   "h": "art225"
+  },
+  "225|§1": {
+   "h": "art225§1"
+  },
+  "225|§1|I": {
+   "h": "art225§1i"
+  },
+  "225|§1|II": {
+   "h": "art225§1ii"
+  },
+  "225|§1|III": {
+   "h": "art225§1iii"
+  },
+  "225|§1|IV": {
+   "h": "art225§1iv"
+  },
+  "225|§1|V": {
+   "h": "art225§1v"
+  },
+  "225|§1|VI": {
+   "h": "art225§1vi"
+  },
+  "225|§1|VII": {
+   "h": "art225§1vii"
+  },
+  "225|§1|VIII": {
+   "h": "art225§1viii.0"
+  },
+  "225|§2": {
+   "h": "art225§2"
+  },
+  "225|§3": {
+   "h": "art225§3"
+  },
+  "225|§4": {
+   "h": "art225§4"
+  },
+  "225|§5": {
+   "h": "art225§5"
+  },
+  "225|§6": {
+   "h": "art225§6"
+  },
+  "225|§7": {
+   "h": "art225§7"
+  },
+  "226": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-7-artigo-226",
+   "h": "art226"
+  },
+  "226|§4": {
+   "h": "art226§4"
+  },
+  "226|§5": {
+   "h": "art226§5"
+  },
+  "226|§6": {
+   "h": "art226§6."
+  },
+  "226|§7": {
+   "h": "art226§7"
+  },
+  "226|§8": {
+   "h": "art226§8"
+  },
+  "227": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-7-artigo-227",
+   "h": "art227."
+  },
+  "227|§1": {
+   "h": "art227§1"
+  },
+  "227|§1|I": {
+   "h": "art227§1i"
+  },
+  "227|§1|II": {
+   "h": "art227§1ii"
+  },
+  "227|§2": {
+   "h": "art227§2"
+  },
+  "227|§3": {
+   "h": "art227§3"
+  },
+  "227|§3|I": {
+   "h": "art227§3i"
+  },
+  "227|§3|II": {
+   "h": "art227§3ii"
+  },
+  "227|§3|III": {
+   "h": "art227§3iii"
+  },
+  "227|§3|IV": {
+   "h": "art227§3iv"
+  },
+  "227|§3|V": {
+   "h": "art227§3v"
+  },
+  "227|§3|VII": {
+   "h": "art227§3vii"
+  },
+  "227|§4": {
+   "h": "art227§4"
+  },
+  "227|§6": {
+   "h": "art227§6"
+  },
+  "227|§7": {
+   "h": "art227§7"
+  },
+  "227|§8": {
+   "h": "art227§8"
+  },
+  "227|§8|I": {
+   "h": "art227§8i"
+  },
+  "227|§8|II": {
+   "h": "art227§8ii"
+  },
+  "228": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-7-artigo-228",
+   "h": "art228"
+  },
+  "229": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-7-artigo-229",
+   "h": "art229"
+  },
+  "22|XVII": {
+   "h": "art22xvii"
+  },
+  "22|XXVII": {
+   "h": "art22xxvii"
+  },
+  "22|XXX": {
+   "h": "art22xxx"
+  },
+  "23": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-2-artigo-23",
+   "h": "art23"
+  },
+  "230": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-7-artigo-230",
+   "h": "art230"
+  },
+  "230|§1": {
+   "h": "art230§1"
+  },
+  "230|§2": {
+   "h": "art230§2"
+  },
+  "231": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-8-artigo-231",
+   "h": "art231"
+  },
+  "231|§1": {
+   "h": "art231§1"
+  },
+  "231|§2": {
+   "h": "art231§2"
+  },
+  "231|§3": {
+   "h": "art231§3"
+  },
+  "231|§4": {
+   "h": "art231§4"
+  },
+  "231|§5": {
+   "h": "art231§5"
+  },
+  "231|§6": {
+   "h": "art231§6"
+  },
+  "232": {
+   "c": "cf-88-parte-1-titulo-8-capitulo-8-artigo-232",
+   "h": "art232"
+  },
+  "233": {
+   "c": "cf-88-parte-1-titulo-9-artigo-233"
+  },
+  "234": {
+   "c": "cf-88-parte-1-titulo-9-artigo-234",
+   "h": "art234"
+  },
+  "235": {
+   "c": "cf-88-parte-1-titulo-9-artigo-235",
+   "h": "art235"
+  },
+  "235|I": {
+   "h": "art235i"
+  },
+  "235|II": {
+   "h": "art235ii"
+  },
+  "235|III": {
+   "h": "art235iii"
+  },
+  "235|IV": {
+   "h": "art235iv"
+  },
+  "235|IX": {
+   "h": "art235ix"
+  },
+  "235|IX|a": {
+   "h": "art235ixa"
+  },
+  "235|IX|b": {
+   "h": "art235ixb"
+  },
+  "235|V": {
+   "h": "art235v"
+  },
+  "235|VI": {
+   "h": "art235vi"
+  },
+  "235|VII": {
+   "h": "art235vii"
+  },
+  "235|VIII": {
+   "h": "art235viii"
+  },
+  "235|V|a": {
+   "h": "art235va"
+  },
+  "235|V|b": {
+   "h": "art235vb"
+  },
+  "235|X": {
+   "h": "art235x"
+  },
+  "235|XI": {
+   "h": "art235xi"
+  },
+  "236": {
+   "c": "cf-88-parte-1-titulo-9-artigo-236",
+   "h": "art236"
+  },
+  "236|§1": {
+   "h": "art236§1"
+  },
+  "236|§2": {
+   "h": "art236§2"
+  },
+  "237": {
+   "c": "cf-88-parte-1-titulo-9-artigo-237",
+   "h": "art237"
+  },
+  "238": {
+   "c": "cf-88-parte-1-titulo-9-artigo-238",
+   "h": "art238"
+  },
+  "239": {
+   "c": "cf-88-parte-1-titulo-9-artigo-239",
+   "h": "art239.0"
+  },
+  "239|§1": {
+   "h": "art239§1.0"
+  },
+  "239|§2": {
+   "h": "art239§2"
+  },
+  "239|§3": {
+   "h": "art239§3.0"
+  },
+  "239|§3-A": {
+   "h": "art239§3a"
+  },
+  "239|§4": {
+   "h": "art239§4"
+  },
+  "239|§5": {
+   "h": "art239§5"
+  },
+  "23|II": {
+   "h": "art23ii"
+  },
+  "23|III": {
+   "h": "art23iii"
+  },
+  "23|IX": {
+   "h": "art23ix"
+  },
+  "23|V": {
+   "h": "art23v."
+  },
+  "23|VI": {
+   "h": "art23vi"
+  },
+  "23|VII": {
+   "h": "art23vii"
+  },
+  "23|XI": {
+   "h": "art23xi"
+  },
+  "23|pu": {
+   "h": "art23p"
+  },
+  "24": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-2-artigo-24",
+   "h": "art24"
+  },
+  "240": {
+   "c": "cf-88-parte-1-titulo-9-artigo-240",
+   "h": "art240"
+  },
+  "241": {
+   "c": "cf-88-parte-1-titulo-9-artigo-241",
+   "h": "art241"
+  },
+  "242": {
+   "c": "cf-88-parte-1-titulo-9-artigo-242",
+   "h": "art242"
+  },
+  "242|§1": {
+   "h": "art242§1"
+  },
+  "242|§2": {
+   "h": "art242§2"
+  },
+  "243": {
+   "c": "cf-88-parte-1-titulo-9-artigo-243",
+   "h": "art243."
+  },
+  "243|pu": {
+   "h": "art243p."
+  },
+  "244": {
+   "c": "cf-88-parte-1-titulo-9-artigo-244",
+   "h": "art244"
+  },
+  "245": {
+   "c": "cf-88-parte-1-titulo-9-artigo-245",
+   "h": "art245"
+  },
+  "246": {
+   "c": "cf-88-parte-1-titulo-9-artigo-246",
+   "h": "art246"
+  },
+  "247": {
+   "c": "cf-88-parte-1-titulo-9-artigo-247",
+   "h": "art247"
+  },
+  "247|pu": {
+   "h": "art247p"
+  },
+  "248": {
+   "c": "cf-88-parte-1-titulo-9-artigo-248",
+   "h": "art248"
+  },
+  "249": {
+   "c": "cf-88-parte-1-titulo-9-artigo-249",
+   "h": "art249"
+  },
+  "24|I": {
+   "h": "art24i"
+  },
+  "24|IX": {
+   "h": "art24ix"
+  },
+  "25": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-3-artigo-25",
+   "h": "art25"
+  },
+  "250": {
+   "c": "cf-88-parte-1-titulo-9-artigo-250",
+   "h": "art250"
+  },
+  "25|§1": {
+   "h": "art25§1"
+  },
+  "25|§2": {
+   "h": "art25§2"
+  },
+  "25|§3": {
+   "h": "art25§3"
+  },
+  "26": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-3-artigo-26",
+   "h": "art26"
+  },
+  "27": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-3-artigo-27",
+   "h": "art27"
+  },
+  "27|§2": {
+   "h": "art27§2."
+  },
+  "27|§3": {
+   "h": "art27§3"
+  },
+  "28": {
+   "c": "art28.1",
+   "h": "art28.1"
+  },
+  "28|§1": {
+   "h": "art28§1"
+  },
+  "28|§2": {
+   "h": "art28§2"
+  },
+  "29": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-4-artigo-29",
+   "h": "art29"
+  },
+  "29-A": {
+   "h": "art29a.0"
+  },
+  "29-A|I": {
+   "h": "art29ai."
+  },
+  "29-A|II": {
+   "h": "art29aii."
+  },
+  "29-A|III": {
+   "h": "art29aiii."
+  },
+  "29-A|IV": {
+   "h": "art29aiv."
+  },
+  "29-A|V": {
+   "h": "art29av"
+  },
+  "29-A|VI": {
+   "h": "art29avi"
+  },
+  "29-A|§1": {
+   "h": "art29a§1"
+  },
+  "29-A|§2": {
+   "h": "art29a§2"
+  },
+  "29-A|§2|II": {
+   "h": "art29a§2ii"
+  },
+  "29-A|§2|III": {
+   "h": "art29a§2iii"
+  },
+  "29-A|§3": {
+   "h": "art29a§3"
+  },
+  "29|II": {
+   "h": "art29ii"
+  },
+  "29|IV": {
+   "h": "art29iv"
+  },
+  "29|IV|a": {
+   "h": "art29iva"
+  },
+  "29|IV|b": {
+   "h": "art29ivb"
+  },
+  "29|IV|c": {
+   "h": "art29ivc"
+  },
+  "29|IV|d": {
+   "h": "art29ivd"
+  },
+  "29|IV|e": {
+   "h": "art29ive"
+  },
+  "29|IV|f": {
+   "h": "art29ivf"
+  },
+  "29|IV|g": {
+   "h": "art29ivg"
+  },
+  "29|IV|h": {
+   "h": "art29ivh"
+  },
+  "29|IV|j": {
+   "h": "art29ivj"
+  },
+  "29|IV|k": {
+   "h": "art29ivk"
+  },
+  "29|IV|l": {
+   "h": "art29ivl"
+  },
+  "29|IV|m": {
+   "h": "art29ivm"
+  },
+  "29|IV|n": {
+   "h": "art29ivn"
+  },
+  "29|IV|o": {
+   "h": "art29ivo"
+  },
+  "29|IV|p": {
+   "h": "art29ivp"
+  },
+  "29|IV|q": {
+   "h": "art29ivq"
+  },
+  "29|IV|r": {
+   "h": "art29ivr"
+  },
+  "29|IV|s": {
+   "h": "art29ivs"
+  },
+  "29|IV|t": {
+   "h": "art29ivt"
+  },
+  "29|IV|u": {
+   "h": "art29ivu"
+  },
+  "29|IV|w": {
+   "h": "art29ivw"
+  },
+  "29|IX": {
+   "h": "art29ix"
+  },
+  "29|V": {
+   "h": "art29v"
+  },
+  "29|VI": {
+   "h": "art29vi"
+  },
+  "29|VII": {
+   "h": "art29vii"
+  },
+  "29|VIII": {
+   "h": "art29viii"
+  },
+  "29|VI|a": {
+   "h": "art29via"
+  },
+  "29|VI|b": {
+   "h": "art29vib"
+  },
+  "29|VI|c": {
+   "h": "art29vic"
+  },
+  "29|VI|d": {
+   "h": "art29vid"
+  },
+  "29|VI|e": {
+   "h": "art29vie"
+  },
+  "29|VI|f": {
+   "h": "art29vif"
+  },
+  "29|X": {
+   "h": "art29x"
+  },
+  "29|XI": {
+   "h": "art29xi"
+  },
+  "29|XII": {
+   "h": "art29xii"
+  },
+  "29|XIII": {
+   "h": "art29xiii"
+  },
+  "29|XIV": {
+   "h": "art29xiv"
+  },
+  "3": {
+   "c": "cf-88-parte-1-titulo-1-artigo-3",
+   "h": "art3"
+  },
+  "30": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-4-artigo-30",
+   "h": "art30"
+  },
+  "30|I": {
+   "h": "art30i"
+  },
+  "30|II": {
+   "h": "art30ii"
+  },
+  "30|III": {
+   "h": "art30iii"
+  },
+  "30|IV": {
+   "h": "art30iv"
+  },
+  "30|IX": {
+   "h": "art30ix"
+  },
+  "30|V": {
+   "h": "art30v"
+  },
+  "30|VI": {
+   "h": "art30vi."
+  },
+  "30|VII": {
+   "h": "art30vii"
+  },
+  "30|VIII": {
+   "h": "art30viii"
+  },
+  "31": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-4-artigo-31",
+   "h": "art31"
+  },
+  "31|§1": {
+   "h": "art31§1.0"
+  },
+  "31|§2": {
+   "h": "art31§2"
+  },
+  "31|§3": {
+   "h": "art31§3"
+  },
+  "31|§4": {
+   "h": "art31§4"
+  },
+  "32": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-5-secao-1-artigo-32",
+   "h": "art32.0"
+  },
+  "326|§3": {
+   "h": "art326§3"
+  },
+  "32|§1": {
+   "h": "art32§1"
+  },
+  "32|§2": {
+   "h": "art32§2"
+  },
+  "32|§4": {
+   "h": "art32§4."
+  },
+  "33": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-5-secao-2-artigo-33",
+   "h": "art33"
+  },
+  "33|§1": {
+   "h": "art33§1"
+  },
+  "33|§2": {
+   "h": "art33§2"
+  },
+  "33|§3": {
+   "h": "art33§3"
+  },
+  "34": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-6-artigo-34",
+   "h": "art34"
+  },
+  "34|I": {
+   "h": "art34i"
+  },
+  "34|II": {
+   "h": "art34ii"
+  },
+  "34|III": {
+   "h": "art34iii"
+  },
+  "34|IV": {
+   "h": "art34iv"
+  },
+  "34|V": {
+   "h": "art34v"
+  },
+  "34|VI": {
+   "h": "art34vi"
+  },
+  "34|VII": {
+   "h": "art34vii"
+  },
+  "34|VII|a": {
+   "h": "art34viia"
+  },
+  "34|VII|b": {
+   "h": "art34viib"
+  },
+  "34|VII|c": {
+   "h": "art34viic"
+  },
+  "34|VII|d": {
+   "h": "art34viid"
+  },
+  "34|VII|e": {
+   "h": "art34viie."
+  },
+  "34|V|a": {
+   "h": "art34va"
+  },
+  "34|V|b": {
+   "h": "art34vb"
+  },
+  "35": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-6-artigo-35",
+   "h": "art35"
+  },
+  "35|I": {
+   "h": "art35i"
+  },
+  "35|II": {
+   "h": "art35ii"
+  },
+  "35|III": {
+   "h": "art35iii"
+  },
+  "35|IV": {
+   "h": "art35iv"
+  },
+  "36": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-6-artigo-36",
+   "h": "art36"
+  },
+  "36|I": {
+   "h": "art36i"
+  },
+  "36|II": {
+   "h": "art36ii"
+  },
+  "36|III": {
+   "h": "art36iii."
+  },
+  "36|§2": {
+   "h": "art36§2"
+  },
+  "36|§3": {
+   "h": "art36§3"
+  },
+  "36|§4": {
+   "h": "art36§4"
+  },
+  "37": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-7-secao-1-artigo-37",
+   "h": "art37"
+  },
+  "37|I": {
+   "h": "art37i"
+  },
+  "37|II": {
+   "h": "art37ii"
+  },
+  "37|III": {
+   "h": "art37iii"
+  },
+  "37|IV": {
+   "h": "art37iv"
+  },
+  "37|IX": {
+   "h": "art37ix"
+  },
+  "37|V": {
+   "h": "art37v"
+  },
+  "37|VII": {
+   "h": "art37vii"
+  },
+  "37|X": {
+   "h": "art37x"
+  },
+  "37|XI": {
+   "h": "art37xi."
+  },
+  "37|XII": {
+   "h": "art37xii"
+  },
+  "37|XIII": {
+   "h": "art37xiii"
+  },
+  "37|XIV": {
+   "h": "art37xiv"
+  },
+  "37|XIX": {
+   "h": "art37xix"
+  },
+  "37|XV": {
+   "h": "art37xv"
+  },
+  "37|XVI": {
+   "h": "art37xvi"
+  },
+  "37|XVII": {
+   "h": "art37xvii"
+  },
+  "37|XVI|a": {
+   "h": "art37xvia"
+  },
+  "37|XVI|b": {
+   "h": "art37xvib.0"
+  },
+  "37|XVI|c": {
+   "h": "art37xvic"
+  },
+  "37|XX": {
+   "h": "art37xx"
+  },
+  "37|XXI": {
+   "h": "art37xxi"
+  },
+  "37|XXII": {
+   "h": "art37xxii"
+  },
+  "37|§1": {
+   "h": "art37§1"
+  },
+  "37|§10": {
+   "h": "art37§10"
+  },
+  "37|§11": {
+   "h": "art37§11.0"
+  },
+  "37|§12": {
+   "h": "art37§12"
+  },
+  "37|§13": {
+   "h": "art37§13"
+  },
+  "37|§14": {
+   "h": "art37§14"
+  },
+  "37|§15": {
+   "h": "art37§15"
+  },
+  "37|§16": {
+   "h": "art37§16"
+  },
+  "37|§3": {
+   "h": "art37§3"
+  },
+  "37|§3|I": {
+   "h": "art37§3i"
+  },
+  "37|§3|II": {
+   "h": "art37§3ii"
+  },
+  "37|§3|III": {
+   "h": "art37§3iii"
+  },
+  "37|§4": {
+   "h": "art37§4"
+  },
+  "37|§6": {
+   "h": "art37§6"
+  },
+  "37|§7": {
+   "h": "art37§7"
+  },
+  "37|§8": {
+   "h": "art37§8"
+  },
+  "37|§8|I": {
+   "h": "art37§8i"
+  },
+  "37|§8|II": {
+   "h": "art37§8ii"
+  },
+  "37|§8|III": {
+   "h": "art37§8iii"
+  },
+  "37|§9": {
+   "h": "art37§9"
+  },
+  "38": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-7-secao-1-artigo-38",
+   "h": "art38"
+  },
+  "38|I": {
+   "h": "art38i"
+  },
+  "38|II": {
+   "h": "art38ii"
+  },
+  "38|III": {
+   "h": "art38iii"
+  },
+  "38|IV": {
+   "h": "art38iv"
+  },
+  "38|V": {
+   "h": "art38v.0"
+  },
+  "39": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-7-secao-2-artigo-39.1",
+   "h": "art39"
+  },
+  "39|§1": {
+   "h": "art39§1"
+  },
+  "39|§1|I": {
+   "h": "art39§1i"
+  },
+  "39|§1|II": {
+   "h": "art39§1ii"
+  },
+  "39|§1|III": {
+   "h": "art39§1iii"
+  },
+  "39|§2": {
+   "h": "art39§2"
+  },
+  "39|§3": {
+   "h": "art39§3"
+  },
+  "39|§4": {
+   "h": "art39§4"
+  },
+  "39|§5": {
+   "h": "art39§5"
+  },
+  "39|§6": {
+   "h": "art39§6"
+  },
+  "39|§7": {
+   "h": "art39§7"
+  },
+  "39|§8": {
+   "h": "art39§8"
+  },
+  "39|§9": {
+   "h": "art39§9"
+  },
+  "3|I": {
+   "h": "art3i"
+  },
+  "3|II": {
+   "h": "art3ii"
+  },
+  "3|III": {
+   "h": "art3iii"
+  },
+  "3|IV": {
+   "h": "art3iv"
+  },
+  "4": {
+   "c": "cf-88-parte-1-titulo-1-artigo-4",
+   "h": "art4"
+  },
+  "40": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-7-secao-2-artigo-40",
+   "h": "art40.0"
+  },
+  "40|§1": {
+   "h": "art40§1.0"
+  },
+  "40|§11": {
+   "h": "art40§11"
+  },
+  "40|§12": {
+   "h": "art40§12.0"
+  },
+  "40|§13": {
+   "h": "art40§13.0"
+  },
+  "40|§14": {
+   "h": "art40§14.0"
+  },
+  "40|§15": {
+   "h": "art40§15.0"
+  },
+  "40|§16": {
+   "h": "art40§16"
+  },
+  "40|§17": {
+   "h": "art40§17"
+  },
+  "40|§18": {
+   "h": "art40§18"
+  },
+  "40|§19": {
+   "h": "art40§19.0"
+  },
+  "40|§1|I": {
+   "h": "art40§1i.0"
+  },
+  "40|§1|II": {
+   "h": "art40§1ii."
+  },
+  "40|§1|III": {
+   "h": "art40§1iii.0"
+  },
+  "40|§2": {
+   "h": "art40§2.0"
+  },
+  "40|§20": {
+   "h": "art40§20.0"
+  },
+  "40|§21": {
+   "h": "art40§21.0"
+  },
+  "40|§22": {
+   "h": "art40§22"
+  },
+  "40|§22|I": {
+   "h": "art40§22i"
+  },
+  "40|§22|II": {
+   "h": "art40§22ii"
+  },
+  "40|§22|III": {
+   "h": "art40§22iii"
+  },
+  "40|§22|IV": {
+   "h": "art40§22iv"
+  },
+  "40|§22|IX": {
+   "h": "art40§22ix"
+  },
+  "40|§22|V": {
+   "h": "art40§22v"
+  },
+  "40|§22|VI": {
+   "h": "art40§22vi"
+  },
+  "40|§22|VII": {
+   "h": "art40§22vii"
+  },
+  "40|§22|VIII": {
+   "h": "art40§22viii"
+  },
+  "40|§22|X": {
+   "h": "art40§22x"
+  },
+  "40|§3": {
+   "h": "art40§3.0"
+  },
+  "40|§4": {
+   "h": "art40§4.1"
+  },
+  "40|§4-A": {
+   "h": "art40§4a"
+  },
+  "40|§4-B": {
+   "h": "art40§4b"
+  },
+  "40|§4-C": {
+   "h": "art40§4c"
+  },
+  "40|§5": {
+   "h": "art40§5.0"
+  },
+  "40|§5-A": {
+   "h": "art40§5a"
+  },
+  "40|§6": {
+   "h": "art40§6.0"
+  },
+  "40|§7": {
+   "h": "art40§7.0"
+  },
+  "40|§8": {
+   "h": "art40§8."
+  },
+  "40|§9": {
+   "h": "art40§9.0"
+  },
+  "41": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-7-secao-2-artigo-41",
+   "h": "art41"
+  },
+  "41|§1": {
+   "h": "art41§1"
+  },
+  "41|§1|I": {
+   "h": "art41§1i"
+  },
+  "41|§1|II": {
+   "h": "art41§1ii"
+  },
+  "41|§1|III": {
+   "h": "art41§1iii"
+  },
+  "41|§2": {
+   "h": "art41§2"
+  },
+  "41|§3": {
+   "h": "art41§3"
+  },
+  "41|§4": {
+   "h": "art41§4"
+  },
+  "42": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-7-secao-3-artigo-42",
+   "h": "art42"
+  },
+  "42|§1": {
+   "h": "art42§1"
+  },
+  "42|§2": {
+   "h": "art42§2."
+  },
+  "42|§3": {
+   "h": "art42§3"
+  },
+  "43": {
+   "c": "cf-88-parte-1-titulo-3-capitulo-7-secao-4-artigo-43",
+   "h": "art43"
+  },
+  "43|§1": {
+   "h": "art43§1"
+  },
+  "43|§1|I": {
+   "h": "art43§1i"
+  },
+  "43|§1|II": {
+   "h": "art43§1ii"
+  },
+  "43|§2": {
+   "h": "art43§2"
+  },
+  "43|§2|I": {
+   "h": "art43§2i"
+  },
+  "43|§2|II": {
+   "h": "art43§2ii"
+  },
+  "43|§2|III": {
+   "h": "art43§2iii"
+  },
+  "43|§2|IV": {
+   "h": "art43§2iv"
+  },
+  "43|§3": {
+   "h": "art43§3"
+  },
+  "43|§4": {
+   "h": "art43§4"
+  },
+  "44": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-1-artigo-44",
+   "h": "art44"
+  },
+  "44|pu": {
+   "h": "art44p"
+  },
+  "45": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-1-artigo-45",
+   "h": "art45"
+  },
+  "45|§1": {
+   "h": "art45§1"
+  },
+  "45|§2": {
+   "h": "art45§2"
+  },
+  "46": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-1-artigo-46",
+   "h": "art46"
+  },
+  "46|§1": {
+   "h": "art46§1"
+  },
+  "46|§2": {
+   "h": "art46§2"
+  },
+  "46|§3": {
+   "h": "art46§3"
+  },
+  "47": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-1-artigo-47",
+   "h": "art47"
+  },
+  "48": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-2-artigo-48",
+   "h": "art48"
+  },
+  "48|I": {
+   "h": "art48i"
+  },
+  "48|II": {
+   "h": "art48ii"
+  },
+  "48|III": {
+   "h": "art48iii"
+  },
+  "48|IV": {
+   "h": "art48iv"
+  },
+  "48|IX": {
+   "h": "art48ix"
+  },
+  "48|VII": {
+   "h": "art48vii"
+  },
+  "48|X": {
+   "h": "art48x"
+  },
+  "48|XI": {
+   "h": "art48xi"
+  },
+  "48|XII": {
+   "h": "art48xii"
+  },
+  "48|XIV": {
+   "h": "art48xiv"
+  },
+  "48|XV": {
+   "h": "art48xv."
+  },
+  "49": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-2-artigo-49",
+   "h": "art49"
+  },
+  "49|I": {
+   "h": "art49i"
+  },
+  "49|II": {
+   "h": "art49ii"
+  },
+  "49|III": {
+   "h": "art49iii"
+  },
+  "49|IV": {
+   "h": "art49iv"
+  },
+  "49|IX": {
+   "h": "art49ix"
+  },
+  "49|V": {
+   "h": "art49v"
+  },
+  "49|VI": {
+   "h": "art49vi"
+  },
+  "49|VII": {
+   "h": "art49vii"
+  },
+  "49|VIII": {
+   "h": "art49viii"
+  },
+  "49|XI": {
+   "h": "art49xi"
+  },
+  "49|XII": {
+   "h": "art49xii"
+  },
+  "49|XIII": {
+   "h": "art49xiii"
+  },
+  "49|XIV": {
+   "h": "art49xiv"
+  },
+  "49|XV": {
+   "h": "art49xv"
+  },
+  "49|XVI": {
+   "h": "art49xvi"
+  },
+  "49|XVII": {
+   "h": "art49xvii"
+  },
+  "49|XVIII": {
+   "h": "art49xviii"
+  },
+  "4|I": {
+   "h": "art4i"
+  },
+  "4|II": {
+   "h": "art4ii"
+  },
+  "4|III": {
+   "h": "art4iii"
+  },
+  "4|IV": {
+   "h": "art4iv"
+  },
+  "4|IX": {
+   "h": "art4ix"
+  },
+  "4|V": {
+   "h": "art4v"
+  },
+  "4|VI": {
+   "h": "art4vi"
+  },
+  "4|VII": {
+   "h": "art4vii"
+  },
+  "4|VIII": {
+   "h": "art4viii"
+  },
+  "4|X": {
+   "h": "art4x"
+  },
+  "4|pu": {
+   "h": "art4p"
+  },
+  "5": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-1-artigo-5",
+   "h": "art5"
+  },
+  "50": {
+   "h": "art50.0"
+  },
+  "50|§2": {
+   "h": "art50§2"
+  },
+  "51": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-3-artigo-51",
+   "h": "art51"
+  },
+  "51|I": {
+   "h": "art51i"
+  },
+  "51|II": {
+   "h": "art51ii"
+  },
+  "51|IV": {
+   "h": "art51iv"
+  },
+  "51|V": {
+   "h": "art51v"
+  },
+  "52": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-4-artigo-52",
+   "h": "art52"
+  },
+  "52|I": {
+   "h": "art52i"
+  },
+  "52|III": {
+   "h": "art52iii"
+  },
+  "52|III|a": {
+   "h": "art52iiia"
+  },
+  "52|III|b": {
+   "h": "art52iiib"
+  },
+  "52|III|c": {
+   "h": "art52iiic"
+  },
+  "52|III|e": {
+   "h": "art52iiie"
+  },
+  "52|III|f": {
+   "h": "art52iiif"
+  },
+  "52|IV": {
+   "h": "art52iv"
+  },
+  "52|IX": {
+   "h": "art52ix"
+  },
+  "52|V": {
+   "h": "art52v"
+  },
+  "52|VI": {
+   "h": "art52vi"
+  },
+  "52|VII": {
+   "h": "art52vii"
+  },
+  "52|VIII": {
+   "h": "art52viii"
+  },
+  "52|X": {
+   "h": "art52x"
+  },
+  "52|XI": {
+   "h": "art52xi"
+  },
+  "52|XII": {
+   "h": "art52xii"
+  },
+  "52|XIII": {
+   "h": "art52xiii"
+  },
+  "52|XIV": {
+   "h": "art52xiv"
+  },
+  "52|XV": {
+   "h": "art52xv"
+  },
+  "53": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-5-artigo-53",
+   "h": "art53"
+  },
+  "53|§1": {
+   "h": "art53§1"
+  },
+  "53|§2": {
+   "h": "art53§2"
+  },
+  "53|§3": {
+   "h": "art53§3"
+  },
+  "53|§4": {
+   "h": "art53§4"
+  },
+  "53|§5": {
+   "h": "art53§5"
+  },
+  "53|§6": {
+   "h": "art53§6"
+  },
+  "53|§7": {
+   "h": "art53§7"
+  },
+  "53|§8": {
+   "h": "art53§8"
+  },
+  "54": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-5-artigo-54",
+   "h": "art54"
+  },
+  "54|I": {
+   "h": "art54i"
+  },
+  "54|II": {
+   "h": "art54ii"
+  },
+  "54|II|a": {
+   "h": "art54iia"
+  },
+  "54|II|b": {
+   "h": "art54iib"
+  },
+  "54|II|c": {
+   "h": "art54iic"
+  },
+  "54|II|d": {
+   "h": "art54iid"
+  },
+  "54|I|a": {
+   "h": "art54ia"
+  },
+  "54|I|b": {
+   "h": "art54ib"
+  },
+  "55": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-5-artigo-55",
+   "h": "art55"
+  },
+  "55|I": {
+   "h": "art55i"
+  },
+  "55|II": {
+   "h": "art55ii"
+  },
+  "55|III": {
+   "h": "art55iii"
+  },
+  "55|IV": {
+   "h": "art55iv"
+  },
+  "55|V": {
+   "h": "art55v"
+  },
+  "55|VI": {
+   "h": "art55vi"
+  },
+  "55|§1": {
+   "h": "art55§1"
+  },
+  "55|§2": {
+   "h": "art55§2."
+  },
+  "55|§3": {
+   "h": "art55§3"
+  },
+  "55|§4": {
+   "h": "art55§4"
+  },
+  "56": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-5-artigo-56",
+   "h": "art56"
+  },
+  "56|I": {
+   "h": "art56i"
+  },
+  "56|II": {
+   "h": "art56ii"
+  },
+  "56|§1": {
+   "h": "art56§1"
+  },
+  "56|§2": {
+   "h": "art56§2"
+  },
+  "56|§3": {
+   "h": "art56§3"
+  },
+  "57": {
+   "h": "art57."
+  },
+  "57|II": {
+   "h": "art57ii."
+  },
+  "57|§1": {
+   "h": "art57§1"
+  },
+  "57|§2": {
+   "h": "art57§2"
+  },
+  "57|§3|I": {
+   "h": "art57§3i"
+  },
+  "57|§3|II": {
+   "h": "art57§3ii"
+  },
+  "57|§3|III": {
+   "h": "art57§3iii"
+  },
+  "57|§3|IV": {
+   "h": "art57§3iv"
+  },
+  "57|§4": {
+   "h": "art57§4."
+  },
+  "57|§5": {
+   "h": "art57§5"
+  },
+  "57|§6": {
+   "h": "art57§6."
+  },
+  "57|§6|I": {
+   "h": "art57§6i"
+  },
+  "57|§6|II": {
+   "h": "art57§6ii."
+  },
+  "57|§7": {
+   "h": "art57§7..."
+  },
+  "57|§8": {
+   "h": "art57§8"
+  },
+  "58": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-7-artigo-58",
+   "h": "art58"
+  },
+  "58|§1": {
+   "h": "art58§1"
+  },
+  "58|§2": {
+   "h": "art58§2"
+  },
+  "58|§2|I": {
+   "h": "art58§2i"
+  },
+  "58|§2|II": {
+   "h": "art58§2ii"
+  },
+  "58|§2|III": {
+   "h": "art58§2iii"
+  },
+  "58|§2|IV": {
+   "h": "art58§2iv"
+  },
+  "58|§2|V": {
+   "h": "art58§2v"
+  },
+  "58|§2|VI": {
+   "h": "art58§2vi"
+  },
+  "59": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-8-subsecao-1-artigo-59",
+   "h": "art59"
+  },
+  "59|I": {
+   "h": "art59i"
+  },
+  "59|II": {
+   "h": "art59ii"
+  },
+  "59|III": {
+   "h": "art59iii"
+  },
+  "59|IV": {
+   "h": "art59iv"
+  },
+  "59|V": {
+   "h": "art59v"
+  },
+  "59|VI": {
+   "h": "art59vi"
+  },
+  "59|VII": {
+   "h": "art59vii"
+  },
+  "59|pu": {
+   "h": "art59p"
+  },
+  "5|I": {
+   "h": "art5i"
+  },
+  "5|II": {
+   "h": "art5ii"
+  },
+  "5|III": {
+   "h": "art5iii"
+  },
+  "5|IV": {
+   "h": "art5iv"
+  },
+  "5|IX": {
+   "h": "art5ix"
+  },
+  "5|L": {
+   "h": "art5l"
+  },
+  "5|LI": {
+   "h": "art5li"
+  },
+  "5|LII": {
+   "h": "art5lii"
+  },
+  "5|LIII": {
+   "h": "art5liii"
+  },
+  "5|LIV": {
+   "h": "art5liv"
+  },
+  "5|LIX": {
+   "h": "art5lix"
+  },
+  "5|LV": {
+   "h": "art5lv"
+  },
+  "5|LVI": {
+   "h": "art5lvi"
+  },
+  "5|LVII": {
+   "h": "art5lvii"
+  },
+  "5|LVIII": {
+   "h": "art5lviii"
+  },
+  "5|LX": {
+   "h": "art5lx"
+  },
+  "5|LXI": {
+   "h": "art5lxi"
+  },
+  "5|LXII": {
+   "h": "art5lxii"
+  },
+  "5|LXIII": {
+   "h": "art5lxiii"
+  },
+  "5|LXIV": {
+   "h": "art5lxiv"
+  },
+  "5|LXIX": {
+   "h": "art5lxix"
+  },
+  "5|LXV": {
+   "h": "art5lxv"
+  },
+  "5|LXVI": {
+   "h": "art5lxvi"
+  },
+  "5|LXVII": {
+   "h": "art5lxvii"
+  },
+  "5|LXVIII": {
+   "h": "art5lxviii"
+  },
+  "5|LXX": {
+   "h": "art5lxx"
+  },
+  "5|LXXI": {
+   "h": "art5lxxi"
+  },
+  "5|LXXII": {
+   "h": "art5lxxii"
+  },
+  "5|LXXIII": {
+   "h": "art5lxxiii"
+  },
+  "5|LXXII|a": {
+   "h": "art5lxxiia"
+  },
+  "5|LXXII|b": {
+   "h": "art5lxxiib"
+  },
+  "5|LXXIV": {
+   "h": "art5lxxiv"
+  },
+  "5|LXXIX": {
+   "h": "art5lxxix"
+  },
+  "5|LXXV": {
+   "h": "art5lxxv"
+  },
+  "5|LXXVI": {
+   "h": "art5lxxvi"
+  },
+  "5|LXXVII": {
+   "h": "art5lxxvii"
+  },
+  "5|LXXVIII": {
+   "h": "art5lxxviii"
+  },
+  "5|LXXVI|a": {
+   "h": "art5lxxvia"
+  },
+  "5|LXXVI|b": {
+   "h": "art5lxxvib"
+  },
+  "5|LXX|a": {
+   "h": "art5lxxa"
+  },
+  "5|LXX|b": {
+   "h": "art5lxxb"
+  },
+  "5|V": {
+   "h": "art5v"
+  },
+  "5|VI": {
+   "h": "art5vi"
+  },
+  "5|VII": {
+   "h": "art5vii"
+  },
+  "5|VIII": {
+   "h": "art5viii"
+  },
+  "5|X": {
+   "h": "art5x"
+  },
+  "5|XI": {
+   "h": "art5xi"
+  },
+  "5|XII": {
+   "h": "art5xii"
+  },
+  "5|XIII": {
+   "h": "art5xiii"
+  },
+  "5|XIV": {
+   "h": "art5xiv"
+  },
+  "5|XIX": {
+   "h": "art5xix"
+  },
+  "5|XL": {
+   "h": "art5xl"
+  },
+  "5|XLI": {
+   "h": "art5xli"
+  },
+  "5|XLII": {
+   "h": "art5xlii"
+  },
+  "5|XLIII": {
+   "h": "art5xliii"
+  },
+  "5|XLIV": {
+   "h": "art5xliv"
+  },
+  "5|XLIX": {
+   "h": "art5xlix"
+  },
+  "5|XLV": {
+   "h": "art5xlv"
+  },
+  "5|XLVI": {
+   "h": "art5xlvi"
+  },
+  "5|XLVII": {
+   "h": "art5xlvii"
+  },
+  "5|XLVIII": {
+   "h": "art5xlviii"
+  },
+  "5|XLVII|a": {
+   "h": "art5xlviia"
+  },
+  "5|XLVII|b": {
+   "h": "art5xlviib"
+  },
+  "5|XLVII|c": {
+   "h": "art5xlviic"
+  },
+  "5|XLVII|d": {
+   "h": "art5xlviid"
+  },
+  "5|XLVII|e": {
+   "h": "art5xlviie"
+  },
+  "5|XLVI|a": {
+   "h": "art5xlvia"
+  },
+  "5|XLVI|b": {
+   "h": "art5xlvib"
+  },
+  "5|XLVI|c": {
+   "h": "art5xlvic"
+  },
+  "5|XLVI|d": {
+   "h": "art5xlvid"
+  },
+  "5|XLVI|e": {
+   "h": "art5xlvie"
+  },
+  "5|XV": {
+   "h": "art5xv"
+  },
+  "5|XVI": {
+   "h": "art5xvi"
+  },
+  "5|XVII": {
+   "h": "art5xvii"
+  },
+  "5|XVIII": {
+   "h": "art5xviii"
+  },
+  "5|XX": {
+   "h": "art5xx"
+  },
+  "5|XXI": {
+   "h": "art5xxi"
+  },
+  "5|XXII": {
+   "h": "art5xxii"
+  },
+  "5|XXIII": {
+   "h": "art5xxiii"
+  },
+  "5|XXIV": {
+   "h": "art5xxiv"
+  },
+  "5|XXIX": {
+   "h": "art5xxix"
+  },
+  "5|XXV": {
+   "h": "art5xxv"
+  },
+  "5|XXVI": {
+   "h": "art5xxvi"
+  },
+  "5|XXVII": {
+   "h": "art5xxvii"
+  },
+  "5|XXVIII": {
+   "h": "art5xxviii"
+  },
+  "5|XXVIII|a": {
+   "h": "art5xxviiia"
+  },
+  "5|XXVIII|b": {
+   "h": "art5xxviiib"
+  },
+  "5|XXX": {
+   "h": "art5xxx"
+  },
+  "5|XXXI": {
+   "h": "art5xxxi"
+  },
+  "5|XXXII": {
+   "h": "art5xxxii"
+  },
+  "5|XXXIII": {
+   "h": "art5xxxiii"
+  },
+  "5|XXXIV": {
+   "h": "art5xxxiv"
+  },
+  "5|XXXIV|a": {
+   "h": "art5xxxiva"
+  },
+  "5|XXXIV|b": {
+   "h": "art5xxxivb"
+  },
+  "5|XXXIX": {
+   "h": "art5xxxix"
+  },
+  "5|XXXV": {
+   "h": "art5xxxv"
+  },
+  "5|XXXVI": {
+   "h": "art5xxxvi"
+  },
+  "5|XXXVII": {
+   "h": "art5xxxvii"
+  },
+  "5|XXXVIII": {
+   "h": "art5xxxviii"
+  },
+  "5|XXXVIII|a": {
+   "h": "art5xxxviiia"
+  },
+  "5|XXXVIII|b": {
+   "h": "art5xxxviiib"
+  },
+  "5|XXXVIII|c": {
+   "h": "art5xxxviiic"
+  },
+  "5|XXXVIII|d": {
+   "h": "art5xxxviiid"
+  },
+  "5|§1": {
+   "h": "art5§1"
+  },
+  "5|§2": {
+   "h": "art5§2"
+  },
+  "5|§3": {
+   "h": "art5§3"
+  },
+  "5|§4": {
+   "h": "art5§4"
+  },
+  "6": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-2-artigo-6",
+   "h": "art6..."
+  },
+  "60": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-8-subsecao-2-artigo-60",
+   "h": "art60"
+  },
+  "60-A": {
+   "h": "art60a"
+  },
+  "60|I": {
+   "h": "art60i"
+  },
+  "60|II": {
+   "h": "art60ii"
+  },
+  "60|III": {
+   "h": "art60iii"
+  },
+  "60|§1": {
+   "h": "art60§1"
+  },
+  "60|§2": {
+   "h": "art60§2"
+  },
+  "60|§3": {
+   "h": "art60§3"
+  },
+  "60|§4": {
+   "h": "art60§4"
+  },
+  "60|§4|I": {
+   "h": "art60§4i"
+  },
+  "60|§4|II": {
+   "h": "art60§4ii"
+  },
+  "60|§4|III": {
+   "h": "art60§4iii"
+  },
+  "60|§4|IV": {
+   "h": "art60§4iv"
+  },
+  "60|§5": {
+   "h": "art60§5"
+  },
+  "61": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-8-subsecao-3-artigo-61",
+   "h": "art61"
+  },
+  "61|§1": {
+   "h": "art61§1"
+  },
+  "61|§1|I": {
+   "h": "art61§1i"
+  },
+  "61|§1|II|b": {
+   "h": "art61§1iib"
+  },
+  "61|§1|II|c": {
+   "h": "art61§1iic"
+  },
+  "61|§1|II|d": {
+   "h": "art61§1iid"
+  },
+  "61|§1|II|e": {
+   "h": "art61§1iie"
+  },
+  "61|§1|II|f": {
+   "h": "art61§1iif"
+  },
+  "61|§2": {
+   "h": "art61§2"
+  },
+  "62": {
+   "h": "art62"
+  },
+  "62|§1": {
+   "h": "art62§1"
+  },
+  "62|§10": {
+   "h": "art62§10"
+  },
+  "62|§11": {
+   "h": "art62§11"
+  },
+  "62|§12": {
+   "h": "art62§12"
+  },
+  "62|§1|I": {
+   "h": "art62§1i"
+  },
+  "62|§1|II": {
+   "h": "art62§1ii"
+  },
+  "62|§1|III": {
+   "h": "art62§1iii"
+  },
+  "62|§1|IV": {
+   "h": "art62§1iv"
+  },
+  "62|§1|I|a": {
+   "h": "art62§1ia"
+  },
+  "62|§1|I|b": {
+   "h": "art62§1ib"
+  },
+  "62|§1|I|c": {
+   "h": "art62§1ic"
+  },
+  "62|§1|I|d": {
+   "h": "art62§1id"
+  },
+  "62|§2": {
+   "h": "art62§2"
+  },
+  "62|§3": {
+   "h": "art62§3"
+  },
+  "62|§4": {
+   "h": "art62§4"
+  },
+  "62|§5": {
+   "h": "art62§5"
+  },
+  "62|§6": {
+   "h": "art62§6"
+  },
+  "62|§7": {
+   "h": "art62§7"
+  },
+  "62|§8": {
+   "h": "art62§8"
+  },
+  "62|§9": {
+   "h": "art62§9"
+  },
+  "63": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-8-subsecao-3-artigo-63",
+   "h": "art63"
+  },
+  "64": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-8-subsecao-3-artigo-64",
+   "h": "art64"
+  },
+  "64|§2": {
+   "h": "art64§2"
+  },
+  "64|§3": {
+   "h": "art64§3"
+  },
+  "64|§4": {
+   "h": "art64§4"
+  },
+  "65": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-8-subsecao-3-artigo-65",
+   "h": "art65"
+  },
+  "65|pu": {
+   "h": "art65p"
+  },
+  "66": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-8-subsecao-3-artigo-66",
+   "h": "art66"
+  },
+  "66|§1": {
+   "h": "art66§1"
+  },
+  "66|§2": {
+   "h": "art66§2"
+  },
+  "66|§3": {
+   "h": "art66§3"
+  },
+  "66|§4": {
+   "h": "art66§4"
+  },
+  "66|§5": {
+   "h": "art66§5"
+  },
+  "66|§6": {
+   "h": "art66§6"
+  },
+  "66|§7": {
+   "h": "art66§7"
+  },
+  "67": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-8-subsecao-3-artigo-67",
+   "h": "art67"
+  },
+  "68": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-8-subsecao-3-artigo-68",
+   "h": "art68"
+  },
+  "68|§1|I": {
+   "h": "art68§1i"
+  },
+  "68|§1|III": {
+   "h": "art68§1iii"
+  },
+  "68|§2": {
+   "h": "art68§2"
+  },
+  "68|§3": {
+   "h": "art68§3"
+  },
+  "69": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-8-subsecao-3-artigo-69",
+   "h": "art69"
+  },
+  "6|pu": {
+   "h": "art6p"
+  },
+  "7": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-2-artigo-7",
+   "h": "art7"
+  },
+  "70": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-9-artigo-70",
+   "h": "art70"
+  },
+  "70|pu": {
+   "h": "art70p"
+  },
+  "71": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-9-artigo-71",
+   "h": "art71"
+  },
+  "71|I": {
+   "h": "art71i"
+  },
+  "71|II": {
+   "h": "art71ii"
+  },
+  "71|IX": {
+   "h": "art71ix"
+  },
+  "71|V": {
+   "h": "art71v"
+  },
+  "71|VI": {
+   "h": "art71vi"
+  },
+  "71|X": {
+   "h": "art71x"
+  },
+  "71|XI": {
+   "h": "art71xi"
+  },
+  "71|§1": {
+   "h": "art71§1"
+  },
+  "71|§2": {
+   "h": "art71§2"
+  },
+  "71|§3": {
+   "h": "art71§3"
+  },
+  "71|§4": {
+   "h": "art71§4"
+  },
+  "72": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-9-artigo-72",
+   "h": "art72"
+  },
+  "72|§1": {
+   "h": "art72§1"
+  },
+  "72|§2": {
+   "h": "art72§2"
+  },
+  "73": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-9-artigo-73",
+   "h": "art73"
+  },
+  "73|§1": {
+   "h": "art73§1"
+  },
+  "73|§1|I": {
+   "h": "art73§1i.0"
+  },
+  "73|§1|II": {
+   "h": "art73§1ii"
+  },
+  "73|§1|III": {
+   "h": "art73§1iii"
+  },
+  "73|§1|IV": {
+   "h": "art73§1iv"
+  },
+  "73|§2": {
+   "h": "art73§2"
+  },
+  "73|§2|I": {
+   "h": "art73§2i"
+  },
+  "73|§2|II": {
+   "h": "art73§2ii"
+  },
+  "73|§3": {
+   "h": "art73§3"
+  },
+  "73|§4": {
+   "h": "art73§4"
+  },
+  "74": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-9-artigo-74",
+   "h": "art74"
+  },
+  "74|I": {
+   "h": "art74i"
+  },
+  "74|II": {
+   "h": "art74ii"
+  },
+  "74|III": {
+   "h": "art74iii"
+  },
+  "74|IV": {
+   "h": "art74iv"
+  },
+  "74|§1": {
+   "h": "art74§1"
+  },
+  "74|§2": {
+   "h": "art74§2"
+  },
+  "75": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-1-secao-9-artigo-75",
+   "h": "art75.0"
+  },
+  "75|pu": {
+   "h": "art75p"
+  },
+  "76": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-1-artigo-76",
+   "h": "art76"
+  },
+  "77": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-1-artigo-77",
+   "h": "art77"
+  },
+  "77|§1": {
+   "h": "art77§1"
+  },
+  "77|§2": {
+   "h": "art77§2"
+  },
+  "77|§3": {
+   "h": "art77§3"
+  },
+  "77|§4": {
+   "h": "art77§4"
+  },
+  "77|§5": {
+   "h": "art77§5"
+  },
+  "78": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-1-artigo-78",
+   "h": "art78"
+  },
+  "78|pu": {
+   "h": "art78p"
+  },
+  "79": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-1-artigo-79",
+   "h": "art79"
+  },
+  "79|pu": {
+   "h": "art79p"
+  },
+  "7|I": {
+   "h": "art7i"
+  },
+  "7|II": {
+   "h": "art7ii"
+  },
+  "7|III": {
+   "h": "art7iii"
+  },
+  "7|IV": {
+   "h": "art7iv"
+  },
+  "7|IX": {
+   "h": "art7ix"
+  },
+  "7|V": {
+   "h": "art7v"
+  },
+  "7|VI": {
+   "h": "art7vi"
+  },
+  "7|VII": {
+   "h": "art7vii"
+  },
+  "7|VIII": {
+   "h": "art7viii"
+  },
+  "7|X": {
+   "h": "art7x"
+  },
+  "7|XI": {
+   "h": "art7xi"
+  },
+  "7|XII": {
+   "h": "art7xii"
+  },
+  "7|XIV": {
+   "h": "art7xiv"
+  },
+  "7|XIX": {
+   "h": "art7xix"
+  },
+  "7|XV": {
+   "h": "art7xv"
+  },
+  "7|XVI": {
+   "h": "art7xvi"
+  },
+  "7|XVII": {
+   "h": "art7xvii"
+  },
+  "7|XVIII": {
+   "h": "art7xviii"
+  },
+  "7|XX": {
+   "h": "art7xx"
+  },
+  "7|XXI": {
+   "h": "art7xxi"
+  },
+  "7|XXII": {
+   "h": "art7xxii"
+  },
+  "7|XXIII": {
+   "h": "art7xxiii"
+  },
+  "7|XXIV": {
+   "h": "art7xxiv"
+  },
+  "7|XXIX": {
+   "h": "art7xxix"
+  },
+  "7|XXIX|a": {
+   "h": "art7xxixa"
+  },
+  "7|XXIX|b": {
+   "h": "art7xxixb"
+  },
+  "7|XXV": {
+   "h": "art7xxv"
+  },
+  "7|XXVI": {
+   "h": "art7xxvi"
+  },
+  "7|XXVII": {
+   "h": "art7xxvii"
+  },
+  "7|XXVIII": {
+   "h": "art7xxviii"
+  },
+  "7|XXX": {
+   "h": "art7xxx"
+  },
+  "7|XXXI": {
+   "h": "art7xxxi"
+  },
+  "7|XXXII": {
+   "h": "art7xxxii"
+  },
+  "7|XXXIII": {
+   "h": "art7xxxiii"
+  },
+  "7|XXXIV": {
+   "h": "art7xxxiv"
+  },
+  "7|§1": {
+   "h": "art7§1"
+  },
+  "7|§2": {
+   "h": "art7§2"
+  },
+  "7|§3": {
+   "h": "art7§3"
+  },
+  "8": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-2-artigo-8",
+   "h": "art8"
+  },
+  "80": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-1-artigo-80",
+   "h": "art80"
+  },
+  "81": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-1-artigo-81",
+   "h": "art81"
+  },
+  "81|§1": {
+   "h": "art81§1"
+  },
+  "81|§2": {
+   "h": "art81§2"
+  },
+  "82": {
+   "c": "art82.0",
+   "h": "art82.0"
+  },
+  "83": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-1-artigo-83",
+   "h": "art83"
+  },
+  "84": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-2-artigo-84",
+   "h": "art84"
+  },
+  "84|I": {
+   "h": "art84i"
+  },
+  "84|II": {
+   "h": "art84ii"
+  },
+  "84|III": {
+   "h": "art84iii"
+  },
+  "84|IV": {
+   "h": "art84iv"
+  },
+  "84|IX": {
+   "h": "art84ix"
+  },
+  "84|V": {
+   "h": "art84v"
+  },
+  "84|VI": {
+   "h": "art84vi"
+  },
+  "84|VII": {
+   "h": "art84vii"
+  },
+  "84|VI|a": {
+   "h": "art84via"
+  },
+  "84|VI|b": {
+   "h": "art84vib"
+  },
+  "84|X": {
+   "h": "art84x"
+  },
+  "84|XI": {
+   "h": "art84xi"
+  },
+  "84|XII": {
+   "h": "art84xii"
+  },
+  "84|XIII": {
+   "h": "art84xiii"
+  },
+  "84|XIX": {
+   "h": "art84xix"
+  },
+  "84|XV": {
+   "h": "art84xv"
+  },
+  "84|XVII": {
+   "h": "art84xvii"
+  },
+  "84|XVIII": {
+   "h": "art84xviii"
+  },
+  "84|XX": {
+   "h": "art84xx"
+  },
+  "84|XXIII": {
+   "h": "art84xxiii"
+  },
+  "84|XXIV": {
+   "h": "art84xxiv"
+  },
+  "84|XXVI": {
+   "h": "art84xxvi"
+  },
+  "84|XXVII": {
+   "h": "art84xxvii"
+  },
+  "84|XXVIII": {
+   "h": "art84xxviii"
+  },
+  "84|pu": {
+   "h": "art84p"
+  },
+  "85": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-3-artigo-85",
+   "h": "art85"
+  },
+  "85|I": {
+   "h": "art85i"
+  },
+  "85|II": {
+   "h": "art85ii"
+  },
+  "85|III": {
+   "h": "art85iii"
+  },
+  "85|IV": {
+   "h": "art85iv"
+  },
+  "85|V": {
+   "h": "art85v"
+  },
+  "85|VI": {
+   "h": "art85vi"
+  },
+  "85|VII": {
+   "h": "art85vii"
+  },
+  "85|pu": {
+   "h": "art85p"
+  },
+  "86": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-3-artigo-86",
+   "h": "art86"
+  },
+  "86|§1": {
+   "h": "art86§1"
+  },
+  "86|§1|I": {
+   "c": "art86§1i",
+   "h": "art86§1i"
+  },
+  "86|§1|II": {
+   "h": "art86§1ii"
+  },
+  "86|§2": {
+   "h": "art86§2"
+  },
+  "86|§3": {
+   "h": "art86§3"
+  },
+  "86|§4": {
+   "h": "art86§4"
+  },
+  "87": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-4-artigo-87",
+   "h": "art87"
+  },
+  "87|pu": {
+   "h": "art87p"
+  },
+  "87|pu|II": {
+   "h": "art87pii"
+  },
+  "87|pu|III": {
+   "h": "art87piii"
+  },
+  "87|pu|IV": {
+   "h": "art87piv"
+  },
+  "88": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-4-artigo-88",
+   "h": "art88"
+  },
+  "89": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-5-subsecao-1-artigo-89",
+   "h": "art89"
+  },
+  "89|I": {
+   "h": "art89i"
+  },
+  "89|III": {
+   "h": "art89iii"
+  },
+  "89|V": {
+   "h": "art89v"
+  },
+  "89|VI": {
+   "h": "art89vi"
+  },
+  "8|I": {
+   "h": "art8i"
+  },
+  "8|II": {
+   "h": "art8ii"
+  },
+  "8|III": {
+   "h": "art8iii"
+  },
+  "8|IV": {
+   "h": "art8iv"
+  },
+  "8|V": {
+   "h": "art8v"
+  },
+  "8|VI": {
+   "h": "art8vi"
+  },
+  "8|VII": {
+   "h": "art8vii"
+  },
+  "8|VIII": {
+   "h": "art8viii"
+  },
+  "8|pu": {
+   "h": "art8p"
+  },
+  "9": {
+   "c": "cf-88-parte-1-titulo-2-capitulo-2-artigo-9",
+   "h": "art9"
+  },
+  "90": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-5-subsecao-1-artigo-90",
+   "h": "art90"
+  },
+  "90|I": {
+   "h": "art90i"
+  },
+  "90|II": {
+   "h": "art90ii"
+  },
+  "90|§1": {
+   "h": "art90§1"
+  },
+  "91": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-2-secao-5-subsecao-2-artigo-91",
+   "h": "art91"
+  },
+  "91|I": {
+   "h": "art91i"
+  },
+  "91|II": {
+   "h": "art91ii"
+  },
+  "91|III": {
+   "h": "art91iii"
+  },
+  "91|IV": {
+   "h": "art91iv"
+  },
+  "91|V": {
+   "h": "art91v"
+  },
+  "91|VI": {
+   "h": "art91vi"
+  },
+  "91|VII": {
+   "h": "art91vii"
+  },
+  "91|VIII": {
+   "h": "art91viii"
+  },
+  "91|§1": {
+   "h": "art91§1"
+  },
+  "91|§1|I": {
+   "h": "art91§1i"
+  },
+  "91|§1|II": {
+   "h": "art91§1ii"
+  },
+  "91|§1|III": {
+   "h": "art91§1iii"
+  },
+  "91|§1|IV": {
+   "h": "art91§1iv"
+  },
+  "91|§2": {
+   "h": "art91§2"
+  },
+  "92": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-1-artigo-92",
+   "h": "art92"
+  },
+  "92|I": {
+   "h": "art92i"
+  },
+  "92|II": {
+   "h": "art92ii"
+  },
+  "92|III": {
+   "h": "art92iii"
+  },
+  "92|IV": {
+   "h": "art92iv"
+  },
+  "92|V": {
+   "h": "art92v"
+  },
+  "92|VI": {
+   "h": "art92vi"
+  },
+  "92|VII": {
+   "h": "art92vii"
+  },
+  "92|§1": {
+   "h": "art92§1"
+  },
+  "92|§2": {
+   "h": "art92§2"
+  },
+  "93": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-1-artigo-93",
+   "h": "art93"
+  },
+  "93|I": {
+   "h": "art93i."
+  },
+  "93|II": {
+   "h": "art93ii"
+  },
+  "93|II|a": {
+   "h": "art93iia"
+  },
+  "93|II|b": {
+   "h": "art93iib"
+  },
+  "93|II|c": {
+   "h": "art93iic."
+  },
+  "93|II|d": {
+   "h": "art93iid."
+  },
+  "93|II|e": {
+   "h": "art93iie"
+  },
+  "93|V": {
+   "h": "art93v"
+  },
+  "93|VI": {
+   "h": "art93vi"
+  },
+  "93|VIII": {
+   "h": "art93viii.0"
+  },
+  "94": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-1-artigo-94",
+   "h": "art94"
+  },
+  "94|pu": {
+   "h": "art94p"
+  },
+  "95": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-1-artigo-95",
+   "h": "art95"
+  },
+  "95|I": {
+   "h": "art95i"
+  },
+  "95|II": {
+   "h": "art95ii"
+  },
+  "95|III": {
+   "h": "art95iii"
+  },
+  "95|pu": {
+   "h": "art95p"
+  },
+  "95|pu|I": {
+   "h": "art95pi"
+  },
+  "95|pu|II": {
+   "h": "art95pii"
+  },
+  "95|pu|III": {
+   "h": "art95piii"
+  },
+  "95|pu|IV": {
+   "h": "art95piv"
+  },
+  "95|pu|V": {
+   "h": "art95pv"
+  },
+  "96": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-1-artigo-96",
+   "h": "art96"
+  },
+  "96|I": {
+   "h": "art96i"
+  },
+  "96|II": {
+   "h": "art96ii"
+  },
+  "96|III": {
+   "h": "art96iii"
+  },
+  "96|II|a": {
+   "h": "art96iia"
+  },
+  "96|II|b": {
+   "h": "art96iib."
+  },
+  "96|II|c": {
+   "h": "art96iic"
+  },
+  "96|II|d": {
+   "h": "art96iid"
+  },
+  "96|I|a": {
+   "h": "art96ia"
+  },
+  "96|I|b": {
+   "h": "art96ib"
+  },
+  "96|I|d": {
+   "h": "art96id"
+  },
+  "96|I|f": {
+   "h": "art96if"
+  },
+  "96|pu": {
+   "h": "art96p"
+  },
+  "97": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-1-artigo-97",
+   "h": "art97"
+  },
+  "98": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-1-artigo-98",
+   "h": "art98"
+  },
+  "98|I": {
+   "h": "art98i"
+  },
+  "98|II": {
+   "h": "art98ii"
+  },
+  "98|§1": {
+   "h": "art98§1"
+  },
+  "98|§2": {
+   "h": "art98§2"
+  },
+  "99": {
+   "c": "cf-88-parte-1-titulo-4-capitulo-3-secao-1-artigo-99",
+   "h": "art99"
+  },
+  "99|§1": {
+   "h": "art99§1"
+  },
+  "99|§2": {
+   "h": "art99§2"
+  },
+  "99|§2|I": {
+   "h": "art99§2i"
+  },
+  "99|§2|II": {
+   "h": "art99§2ii"
+  },
+  "99|§3": {
+   "h": "art99§3"
+  },
+  "99|§4": {
+   "h": "art99§4"
+  },
+  "99|§5": {
+   "h": "art99§5"
+  },
+  "9|§1": {
+   "h": "art9§1"
+  },
+  "9|§2": {
+   "h": "art9§2"
+  }
+ },
+ "h": "constituicao/constituicao.htm",
+ "k": "cf-1988"
+}

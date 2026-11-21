@@ -1,0 +1,330 @@
+{
+ "indices": {
+  "Codigos/quadro_cod.htm": {
+   "bytes": 19350,
+   "quando": "2026-11-21",
+   "sha256": "673d7749010105693b2ba2c2ae0c5ae772dab50220a392c6f106dffe10c1877f"
+  },
+  "Constituicao/Emendas/ECR/quadro_ecr.htm": {
+   "bytes": 5619,
+   "quando": "2026-11-21",
+   "sha256": "6392d586d04a1c4ecb4df6c0522c26dda8cf67117b7cc75c4e2ed797ed5cbcb3"
+  },
+  "Constituicao/Emendas/Emc/quadro_emc.htm": {
+   "bytes": 85485,
+   "quando": "2026-11-21",
+   "sha256": "3a2c90481dc06d2a31ea914c50ba9d8366701a60f4709b3685f764f3cba32662"
+  },
+  "Decreto-Lei/1937-1946/_quadro.htm": {
+   "bytes": 721130,
+   "quando": "2026-11-21",
+   "sha256": "e7584cbb7ec6eacaff144c31a73fae2bf2088937f51cb84aa709c0e081654a08"
+  },
+  "Decreto-Lei/1965-1988/_quadro.htm": {
+   "bytes": 1141920,
+   "quando": "2026-11-21",
+   "sha256": "ea138b7f3f5ed71a2131a2c3e97b0023597eb721e1c128a7d5d915d4659a6d45"
+  },
+  "Decreto-Lei/principal_ano.htm": {
+   "bytes": 9760,
+   "quando": "2026-11-21",
+   "sha256": "587cf62502c2a476056094213a55101e510e900986dd1366af7203c2c31f6971"
+  },
+  "LEIS/LCP/Quadro_Lcp.htm": {
+   "bytes": 237646,
+   "quando": "2026-11-21",
+   "sha256": "fccedc8539619be6a6e2855c99a673d81dc3398b6558000410789d4bff586c99"
+  },
+  "LEIS/LIM/_Quadro-LIM.htm": {
+   "bytes": 70097,
+   "quando": "2026-11-21",
+   "sha256": "fe639a6d4808a275f7522ff7284ee85fc13cd37f52de2d4f74a84567446428b3"
+  },
+  "LEIS/Ldl/Quadro_LDL.htm": {
+   "bytes": 12074,
+   "quando": "2026-11-21",
+   "sha256": "0f44923b1ae8b97609be16d1be3ee1b9c2a502efef7bdd207b5347e0650a162f"
+  },
+  "LEIS/_Lei-principal.htm": {
+   "bytes": 10280,
+   "quando": "2026-11-21",
+   "sha256": "5b72b6539b3b87917f7111eebe45e95bcde810324525c2256711e8fcfa1ed793"
+  },
+  "MPV/Principal.htm": {
+   "bytes": 11709,
+   "quando": "2026-11-21",
+   "sha256": "ba65284703aabbdc056a4cab1263a1192422194bf08b7ac6a95960238cf36400"
+  },
+  "MPV/Quadro/QuadroANT1988-1991.htm": {
+   "bytes": 147638,
+   "quando": "2026-11-21",
+   "sha256": "9d7e008fda4b122a130975c87198bdda7464f984f99eee2fe119feffe3b3b91d"
+  },
+  "MPV/Quadro/QuadroANT1992-1995.htm": {
+   "bytes": 119668,
+   "quando": "2026-11-21",
+   "sha256": "6ae47c430255e2562b421b5890557d70af0fe5f0c62265c4822d478fa7ebac24"
+  },
+  "MPV/Quadro/QuadroANT1996-1999.htm": {
+   "bytes": 186752,
+   "quando": "2026-11-21",
+   "sha256": "89e8974d1fec06529e7281871ceaa6a47a8854ca79ef0fdfe9a964f50c283ecf"
+  },
+  "MPV/Quadro/QuadroANT2000-2001.htm": {
+   "bytes": 261511,
+   "quando": "2026-11-21",
+   "sha256": "1ce67a377081eb3ceef01d8ee9990d3b04de2932c2d7554392a142ad6d7c6bed"
+  },
+  "MPV/Quadro/_Quadro2001-2002.htm": {
+   "bytes": 87462,
+   "quando": "2026-11-21",
+   "sha256": "b148d047cd752a2f525c10cd101e7d3e1aec9f3417905c905f161d4dd99c52bc"
+  },
+  "MPV/Quadro/_Quadro2003-2006.htm": {
+   "bytes": 257457,
+   "quando": "2026-11-21",
+   "sha256": "f68ceb5e23c69e196cecb4979a041846dff29326cea8dbc873e91331702ef903"
+  },
+  "MPV/Quadro/_Quadro2007-2010.htm": {
+   "bytes": 242395,
+   "quando": "2026-11-21",
+   "sha256": "996ce04244406317e6e48d77cf883992d95ff843d92ab359712ffcc837c3cbe4"
+  },
+  "MPV/Quadro/_Quadro2011-2014.htm": {
+   "bytes": 198250,
+   "quando": "2026-11-21",
+   "sha256": "c9c22a22d3ff5a228e82f2cbab838086a8fb150687f91c1d2bbe9cd3c78203c3"
+  },
+  "MPV/Quadro/_Quadro2015-2018.htm": {
+   "bytes": 259171,
+   "quando": "2026-11-21",
+   "sha256": "fdfde21215f3d15be655b9a7a4ed3c08e408fd201ddc4158558b1d1195cdfa97"
+  },
+  "MPV/Quadro/_Quadro2019-2022.htm": {
+   "bytes": 342844,
+   "quando": "2026-11-21",
+   "sha256": "92bc21ce0bfb7c7f700e1b6837e1dd706f5bcfdbf00bca38d362760bf769dae5"
+  },
+  "MPV/Quadro/_Quadro2023-2026.htm": {
+   "bytes": 301566,
+   "quando": "2026-11-21",
+   "sha256": "97c8f6c804f3f46483405a5339bff9e7068198b5c44b81f74311967c6cbb1390"
+  },
+  "_Ato2004-2006/2004/Lei/_quadro.htm": {
+   "bytes": 156345,
+   "quando": "2026-11-21",
+   "sha256": "efcaf39701f8bf110dd643f90625e1fdc6f410c74b5f0224b52cc2fb35a84d2a"
+  },
+  "_Ato2004-2006/2005/Lei/_quadro.htm": {
+   "bytes": 164924,
+   "quando": "2026-11-21",
+   "sha256": "f04e77399f70e4b4dd123d84cea95d079e08e4a0f0cee916cd3332e87073e90d"
+  },
+  "_Ato2004-2006/2006/Lei/_quadro2006.htm": {
+   "bytes": 171082,
+   "quando": "2026-11-21",
+   "sha256": "a1b7c226937910f950a2bde47561a89779b5dddcb46fcf55cc6c3f91abafe1b7"
+  },
+  "_Ato2007-2010/2007/Lei/_leis2007.htm": {
+   "bytes": 180958,
+   "quando": "2026-11-21",
+   "sha256": "861274521096a3879d12d2a28ba3d633f79228fb41c142551c4808b14b2a11f1"
+  },
+  "_Ato2007-2010/2008/Lei/_leis2008.htm": {
+   "bytes": 286116,
+   "quando": "2026-11-21",
+   "sha256": "802bd3cd2fda0bab407a5885608451d4d7ab7329e24e953b818470720e9d9848"
+  },
+  "_Ato2007-2010/2009/Lei/_leis2009.htm": {
+   "bytes": 293902,
+   "quando": "2026-11-21",
+   "sha256": "2b914e4dba04f50421325996a9b7eb63965e980ea9ad4c6d27ec5ea901ecae97"
+  },
+  "_Ato2007-2010/2010/Lei/_leis2010.htm": {
+   "bytes": 190652,
+   "quando": "2026-11-21",
+   "sha256": "49338d6f7f1a44416de87775f2d05f5d3dba62ca0c78497b1a31b08558dfa538"
+  },
+  "_Ato2011-2014/2011/Lei/_leis2011.htm": {
+   "bytes": 196700,
+   "quando": "2026-11-21",
+   "sha256": "3ee5c594ce5da08b06e0f2004b67667736f090e64db0dcdfa97785c41dfda8e8"
+  },
+  "_Ato2011-2014/2012/Lei/_leis2012.htm": {
+   "bytes": 193360,
+   "quando": "2026-11-21",
+   "sha256": "e4f9d3395969bcd36296c3a070a2a3389474ea49bb470dacee92eae75a8963e6"
+  },
+  "_Ato2011-2014/2013/Lei/_leis2013.htm": {
+   "bytes": 180249,
+   "quando": "2026-11-21",
+   "sha256": "3cb87df2d4e3a7e6151bf7712bb8b13a9d3af22cd7f71ad1e4eb9eaeb9493c46"
+  },
+  "_Ato2011-2014/2014/Lei/_leis2014.htm": {
+   "bytes": 138859,
+   "quando": "2026-11-21",
+   "sha256": "46f2a5ea8ecd070bcaaf078c426036edc15aaf025bc0ca35bc8b9b1903e7eea6"
+  },
+  "_Ato2015-2018/2015/Lei/_leis2015.htm": {
+   "bytes": 181176,
+   "quando": "2026-11-21",
+   "sha256": "5183d4a1d72f7e7f5fd65f2541026c760803f4dab16b732a02052f7d8c8acaaf"
+  },
+  "_Ato2015-2018/2016/Lei/_leis2016.htm": {
+   "bytes": 187415,
+   "quando": "2026-11-21",
+   "sha256": "5742b61c248a25a327d847c2c3449aa996004b9adb4d8f9cd4680bf629835a86"
+  },
+  "_Ato2015-2018/2017/Lei/_leis2017.htm": {
+   "bytes": 185594,
+   "quando": "2026-11-21",
+   "sha256": "9d68fc4363f30ecee636506aeb88cde5177cb07e8aa1953739441e919a1aae3f"
+  },
+  "_Ato2015-2018/2018/Lei/_leis2018.htm": {
+   "bytes": 210501,
+   "quando": "2026-11-21",
+   "sha256": "5a679d4c0cd782d14ac342f78721fd09684080c335a3e3c0abd0d10359ddac9d"
+  },
+  "_Ato2019-2022/2019/Lei/_leis2019.htm": {
+   "bytes": 162875,
+   "quando": "2026-11-21",
+   "sha256": "8836123f26cabd0e7c0ec89766d4a6a632692683f45d487efa07dffeec2eb1f3"
+  },
+  "_Ato2019-2022/2020/Lei/_leis2020.htm": {
+   "bytes": 135554,
+   "quando": "2026-11-21",
+   "sha256": "91f1b5de050ab4ed703bbbd1220d991761548c5aa438e2b05f5f102005bdff1f"
+  },
+  "_Ato2019-2022/2021/Lei/_leis2021.htm": {
+   "bytes": 160001,
+   "quando": "2026-11-21",
+   "sha256": "45c0888b64e6ba96e2c473ef8498a7e668e1c949d2713c4a462d8c85b54d35fa"
+  },
+  "_Ato2019-2022/2022/Lei/_leis2022.htm": {
+   "bytes": 239204,
+   "quando": "2026-11-21",
+   "sha256": "01ba50152d5ca7ed1837d7c1d7ecb155503653afe64a29d56ae60a21313ecb60"
+  },
+  "_Ato2023-2026/2023/Lei/_leis2023.htm": {
+   "bytes": 247576,
+   "quando": "2026-11-21",
+   "sha256": "ea431ee2d61f3863ac5a5668ce2ef01d4db9735882c73e17dfa59a90d70fe041"
+  },
+  "_Ato2023-2026/2024/Lei/_leis2024.htm": {
+   "bytes": 250102,
+   "quando": "2026-11-21",
+   "sha256": "c07c31fa27b093ef1b6b8599e9429ce147393c588cc0adc7d5cf9c0632ec5c71"
+  },
+  "_Ato2023-2026/2025/Lei/_leis2025.htm": {
+   "bytes": 206867,
+   "quando": "2026-11-21",
+   "sha256": "ff1e07c2c05f6862b91529db4f40408161d64d88ed541e56cf180edb60f98a91"
+  },
+  "_Ato2023-2026/2026/Lei/_leis2026.htm": {
+   "bytes": 189266,
+   "quando": "2026-11-21",
+   "sha256": "204ae17c7a3a7ced0c78fcaf86f534006345a165eca821937c6c19d6fe549bb1"
+  },
+  "leis/2002/_Quadro-2002.htm": {
+   "bytes": 111611,
+   "quando": "2026-11-21",
+   "sha256": "fd078fa37906ef03a585c8c823d44f3fb379c75df7ededf5b7c4ded7310c5320"
+  },
+  "leis/2003/_Quadro-2003.htm": {
+   "bytes": 119620,
+   "quando": "2026-11-21",
+   "sha256": "4bbc8d2525eb1a21173e781742ef0da5e2dae3b6551c0a795f9143abbad569be"
+  },
+  "leis/LEIS_2001/_Quadro-2001.htm": {
+   "bytes": 204648,
+   "quando": "2026-11-21",
+   "sha256": "d31d29beb1bf288240f00e1ed8581ef09d37398bb1183dcdfab909e09564ed1f"
+  },
+  "leis/QUADRO/1960-1980.htm": {
+   "bytes": 1692389,
+   "quando": "2026-11-21",
+   "sha256": "f72407b4adfe2b41cd700c4871afa249e4b6ed3ac59d2cc1be7009b0ad95d637"
+  },
+  "leis/QUADRO/1981-1987.htm": {
+   "bytes": 453290,
+   "quando": "2026-11-21",
+   "sha256": "e6a02fc060749cd5b9e2a24a4850743c385d6d71d320272482bc8331ee83becc"
+  },
+  "leis/QUADRO/1988.htm": {
+   "bytes": 59570,
+   "quando": "2026-11-21",
+   "sha256": "72dc9c5aa20d5816d870f3da83c91ea8c4fbcb7e5bd30f1dbba186219591beb0"
+  },
+  "leis/QUADRO/1989.htm": {
+   "bytes": 242063,
+   "quando": "2026-11-21",
+   "sha256": "1260eb8c80e1ec048f82e1ade4ddd4a8a43634d679d8e03619e3543451cd2f08"
+  },
+  "leis/QUADRO/1990.htm": {
+   "bytes": 92282,
+   "quando": "2026-11-21",
+   "sha256": "106de5456ff90ef603786d7df73b77c75a5ef99988599d7524ee8395dd993abe"
+  },
+  "leis/QUADRO/1991.htm": {
+   "bytes": 196480,
+   "quando": "2026-11-21",
+   "sha256": "d17748931441cc2d61f97427629b16f09450953e0c5253421ccd47bfd28017ad"
+  },
+  "leis/QUADRO/1992.htm": {
+   "bytes": 173307,
+   "quando": "2026-11-21",
+   "sha256": "854510093d4e10489ab35d4c1fba1f4ed9fd77888edbd2238d9033431ab0ae26"
+  },
+  "leis/QUADRO/1993.htm": {
+   "bytes": 181936,
+   "quando": "2026-11-21",
+   "sha256": "a4a16b4638112c2f28238c78d0b5e779b06140d1cf2ad0caaa0c388e826ba883"
+  },
+  "leis/QUADRO/1994.htm": {
+   "bytes": 109287,
+   "quando": "2026-11-21",
+   "sha256": "6847650ff106fc41123eb96d529a1f16ba70b4a0da5498f72874f7f5827a1adb"
+  },
+  "leis/QUADRO/1995.htm": {
+   "bytes": 127920,
+   "quando": "2026-11-21",
+   "sha256": "dbd0fe6128ef9cad22e13a9d45beaa07d4c05de695bb6f0b86e31b018dedf0c0"
+  },
+  "leis/QUADRO/1996.htm": {
+   "bytes": 86947,
+   "quando": "2026-11-21",
+   "sha256": "a271c151445372c0e4cc8fd45427992218d01ac32b56d8f9f382bf5912a8ce31"
+  },
+  "leis/QUADRO/1997.htm": {
+   "bytes": 78367,
+   "quando": "2026-11-21",
+   "sha256": "a51a551321677c09efee151bbfd88a2c751260cc77de4e65e8464d70fa0f6eb1"
+  },
+  "leis/QUADRO/1998.htm": {
+   "bytes": 81291,
+   "quando": "2026-11-21",
+   "sha256": "a78db481f7b91139f79ae75c2a41abb1ca6da96fad81cd3a54c4eacc6585d03c"
+  },
+  "leis/QUADRO/1999.htm": {
+   "bytes": 163800,
+   "quando": "2026-11-21",
+   "sha256": "a96ed2909198c323202821aa4f1fc85c7a8f9f65879966051bed3ab0627d6247"
+  },
+  "leis/QUADRO/2000.htm": {
+   "bytes": 153217,
+   "quando": "2026-11-21",
+   "sha256": "3a756f2a94e78d56a957e4166b02790220b561a8d645fd1ac3e78d8315487f1e"
+  },
+  "leis/QUADRO/anterior_1960.htm": {
+   "bytes": 1755250,
+   "quando": "2026-11-21",
+   "sha256": "ccfa0663a5216ca295f69b3107a0d500a5c304bf2f7f93b802e7f2e1c00b0a27"
+  },
+  "leis/_lei-ordinaria.htm": {
+   "bytes": 16896,
+   "quando": "2026-11-21",
+   "sha256": "58fd21b93211075be60118271572920ec58a525bbc53263664a79018e2d45fe4"
+  }
+ },
+ "versao": 1
+}

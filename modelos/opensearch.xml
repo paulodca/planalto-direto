@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>Planalto Direto</ShortName>
+  <Description>Atalho não oficial para leis no planalto.gov.br</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image type="image/svg+xml">${site_url}favicon.svg</Image>
+  <Url type="text/html" method="get" template="${site_url}?q={searchTerms}"/>
+</OpenSearchDescription>

@@ -1,0 +1,57 @@
+name: Publicar o site (Pages)
+# O site (docs/ gerado) não vai para o git: este workflow roda o estágio B a partir de base/,
+# fontes/ e modelos/ e publica o resultado no GitHub Pages (Settings → Pages → Source: "GitHub Actions").
+# Gatilhos:
+# - push na main que mexa no que entra no site;
+# - disparo manual;
+# - chamada pelo atualizar.yml depois do push dele. Um push feito com o GITHUB_TOKEN padrão
+#   NÃO dispara outros workflows; por isso o atualizar.yml chama este com "uses:" e passa o commit.
+# Sem agendamento.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "base/**"
+      - "fontes/**"
+      - "modelos/**"
+      - "build/**"
+      - "pd/**"
+      - "docs/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+  workflow_call:
+    inputs:
+      ref:
+        description: "Commit ou branch a publicar (o atualizar.yml passa o commit que acabou de enviar)"
+        type: string
+        required: false
+        default: ""
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ inputs.ref }}
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Gerar o site (estágio B)
+        run: PYTHONPATH=. python -P -B build/gerar_site.py --base base --fontes fontes --modelos modelos --saida docs --config docs/config.js
+      - name: Conferir o determinismo
+        run: PYTHONPATH=. python -P -B build/gerar_site.py --verificar
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4

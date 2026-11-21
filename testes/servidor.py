@@ -65,7 +65,9 @@ class Manipulador(http.server.BaseHTTPRequestHandler):
         self.send_header("Content-Length", str(len(dados)))
         self.send_header("Cache-Control", "no-store")
         for k, v in (extra or {}).items():
-            self.send_header(k, v)
+            k_limpo = str(k).replace("\r", "").replace("\n", "").replace(":", "")
+            v_limpo = str(v).replace("\r", "").replace("\n", "")
+            self.send_header(k_limpo, v_limpo)
         self.end_headers()
         if corpo:
             self.wfile.write(dados)

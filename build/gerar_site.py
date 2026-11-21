@@ -403,8 +403,10 @@ def gerar_raiz(normas, fontes, modelos, cfg) -> dict[str, bytes]:
     google = ""
     if cfg.get("GOOGLE_VERIFICACAO"):
         google = f'<meta name="google-site-verification" content="{esc(cfg["GOOGLE_VERIFICACAO"])}">'
-    s_href, s_txt = sugestao(cfg)
-    sug = f'<a class="sugestao" href="{esc(s_href)}" rel="noopener">{esc(s_txt)}</a>'
+    sug = ""
+    if cfg.get("SUGESTAO_ATIVA") == "sim":  # config.js; "nao" = sem botão de sugestão
+        s_href, s_txt = sugestao(cfg)
+        sug = f'<p><a class="sugestao" href="{esc(s_href)}" rel="noopener">{esc(s_txt)}</a></p>'
     arqs = {}
     arqs["index.html"] = _limpar_html(modelos["index.html"].substitute(
         csp=esc(CSP), site_url=esc(site_url), google_meta=google, marca_html=marca,

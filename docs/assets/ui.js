@@ -121,6 +121,7 @@
   PD.linkSugestao = linkSugestao;
 
   function blocoSugestao(consulta) {
+    if (cfg.SUGESTAO_ATIVA !== 'sim') return doc.createDocumentFragment();  // desligado no config.js
     var s = linkSugestao(consulta);
     var p = el('p', 'sugestao');
     p.appendChild(link(s.href, s.aviso));
@@ -451,7 +452,7 @@
   }
 
   function ajustarSugestaoSobre() {
-    if (!(cfg.SUGESTAO_URL && cfg.SUGESTAO_CAMPO)) return;
+    if (cfg.SUGESTAO_ATIVA !== 'sim' || !(cfg.SUGESTAO_URL && cfg.SUGESTAO_CAMPO)) return;
     var a = doc.querySelector('.sobre a.sugestao');
     if (!a) return;
     var s = linkSugestao('');

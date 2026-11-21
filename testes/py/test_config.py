@@ -17,6 +17,7 @@ window.PD_CONFIG = Object.freeze({
   SITE_URL: "https://exemplo.github.io/planalto-direto/",
   SITE_PATH: "/planalto-direto/",
   REPO_URL: "https://github.com/exemplo/planalto-direto",
+  SUGESTAO_ATIVA: "sim",
   SUGESTAO_URL: "",
   SUGESTAO_CAMPO: "",
   GOOGLE_VERIFICACAO: "",
@@ -71,6 +72,10 @@ class TestConfig(unittest.TestCase):
             self.ler(MODELO.replace('SUGESTAO_URL: ""', 'SUGESTAO_URL: "https://exemplo.org/f"'))
         cfg = self.ler(MODELO.replace('SUGESTAO_CAMPO: ""', 'SUGESTAO_CAMPO: "entry.123"'))
         self.assertEqual(cfg["SUGESTAO_CAMPO"], "entry.123")
+        with self.assertRaises(config.ErroConfig):
+            self.ler(MODELO.replace('SUGESTAO_ATIVA: "sim"', 'SUGESTAO_ATIVA: "talvez"'))
+        cfg = self.ler(MODELO.replace('SUGESTAO_ATIVA: "sim"', 'SUGESTAO_ATIVA: "nao"'))
+        self.assertEqual(cfg["SUGESTAO_ATIVA"], "nao")
 
 
 if __name__ == "__main__":

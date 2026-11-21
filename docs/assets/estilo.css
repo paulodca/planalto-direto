@@ -9,12 +9,13 @@
   --foco: #7c3aed;
   --aviso-fundo: #fff7ed;
   --aviso-borda: #c2410c;
-  --c1: #c2410c;
-  --c2: #0f766e;
-  --c3: #a16207;
-  --c4: #7c3aed;
-  --c5: #be123c;
-  --c6: #15803d;
+  /* marca: ritmo azul, vermelho, amarelo, azul, verde, vermelho (autorizado pelo dono em 21/11/2026) */
+  --c1: #4285f4;
+  --c2: #ea4335;
+  --c3: #fbbc05;
+  --c4: #4285f4;
+  --c5: #34a853;
+  --c6: #ea4335;
   color-scheme: light dark;
 }
 
@@ -29,12 +30,12 @@
     --foco: #a78bfa;
     --aviso-fundo: #1f2937;
     --aviso-borda: #fb923c;
-    --c1: #fb923c;
-    --c2: #2dd4bf;
-    --c3: #e3b341;
-    --c4: #a78bfa;
-    --c5: #fb7185;
-    --c6: #4ade80;
+    --c1: #8ab4f8;
+    --c2: #f28b82;
+    --c3: #fdd663;
+    --c4: #8ab4f8;
+    --c5: #81c995;
+    --c6: #f28b82;
   }
 }
 
@@ -70,8 +71,8 @@ h3 { font-size: 1.05rem; margin-bottom: .25rem; }
 
 code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size: .95em; }
 
-/* Marca: letras coloridas em ciclo, em fonte geometrica servida pelo proprio site.
-   marca.woff2 = Questrial (SIL OFL 1.1, ver marca-OFL.txt), cortada so com as letras da marca. */
+/* Marca: letras coloridas em ciclo, em fonte servida pelo proprio site (sem CDN).
+   marca.woff2 = fonte SIL OFL 1.1 (ver marca-OFL.txt e o README), cortada so com as letras da marca. */
 @font-face {
   font-family: "PD Marca";
   src: url("marca.woff2") format("woff2");
@@ -82,7 +83,7 @@ code { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fo
 .marca, .marca-mini {
   font-family: "PD Marca", "Century Gothic", "URW Gothic", Futura, "Avenir Next", system-ui, sans-serif;
   font-weight: 400;
-  letter-spacing: -.035em;
+  letter-spacing: -.02em;
 }
 .marca {
   font-size: clamp(2.25rem, 10vw, 3.75rem);

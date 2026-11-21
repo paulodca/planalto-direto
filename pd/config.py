@@ -4,7 +4,7 @@ from __future__ import annotations
 import pathlib
 import re
 
-CHAVES = ("PLANALTO_BASE", "SITE_URL", "SITE_PATH", "REPO_URL", "SUGESTAO_URL",
+CHAVES = ("PLANALTO_BASE", "SITE_URL", "SITE_PATH", "REPO_URL", "SUGESTAO_ATIVA", "SUGESTAO_URL",
           "SUGESTAO_CAMPO", "GOOGLE_VERIFICACAO", "ESPERA_MS", "ESPERA_DICA_MS")
 LINHA_RE = re.compile(r'^\s*([A-Z_]+)\s*:\s*"((?:[^"\\]|\\.)*)"\s*,?\s*$')
 
@@ -56,6 +56,8 @@ def validar_config(cfg: dict[str, str]) -> None:
         raise ErroConfig("config.js: SITE_PATH precisa começar e terminar com /")
     if not cfg["SITE_URL"].endswith(sp):
         raise ErroConfig("config.js: SITE_URL precisa terminar com SITE_PATH")
+    if cfg["SUGESTAO_ATIVA"] not in ("sim", "nao"):
+        raise ErroConfig('config.js: SUGESTAO_ATIVA precisa ser "sim" ou "nao"')
     campo = cfg["SUGESTAO_CAMPO"]
     if campo and not re.fullmatch(r"entry\.\d+", campo):
         raise ErroConfig("config.js: SUGESTAO_CAMPO precisa ser vazio ou entry.NNN")

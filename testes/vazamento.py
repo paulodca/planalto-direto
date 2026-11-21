@@ -92,8 +92,10 @@ ROTA_SEQ_RE = re.compile(r"^/(\w+)/(\d+[a-z]?)-(\d{4})/$")
 PLANALTO_RE = re.compile(r"(?i)^https?://(?:www\.)?planalto\.gov\.br/ccivil_03/")
 
 # ------------------------------------------------------------------ marcas (§11)
-HEX_PROIBIDOS = ("4285F4", "EA4335", "FBBC05", "34A853", "1351B4", "071D41", "2670E8")
-FONTES_PROIBIDAS = ("Product" + " Sans", "Goo" + "gle Sans", "Raw" + "line")
+# 21/11/2026: o dono autorizou as cores do logo e a fonte Google Sans (OFL, servida pelo próprio site) na marca;
+# continuam proibidas as cores do gov.br, a Product Sans (proprietária), fontes de CDN e a palavra visível.
+HEX_PROIBIDOS = ("1351B4", "071D41", "2670E8")
+FONTES_PROIBIDAS = ("Product" + " Sans", "Raw" + "line")
 HOSTS_PROIBIDOS = ("fonts.goo" + "gleapis.com", "fonts.gst" + "atic.com", "barra.sistema." + "gov.br", "gov" + ".br/ds")
 
 

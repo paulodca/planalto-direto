@@ -183,6 +183,10 @@ workflows sozinho).
 
 ### Formulário de sugestões (sem login)
 
+O botão de sugestão está **desligado** (`SUGESTAO_ATIVA: "nao"` em `docs/config.js`). Para religar,
+troque para `"sim"`, rode o estágio B e publique. Com `"sim"` e sem formulário, o link abre uma issue
+no GitHub (exige conta); com formulário, siga os passos abaixo.
+
 1. Crie um formulário em branco: "Planalto Direto — sugestões".
 2. Pergunta 1, resposta curta: "O que você buscou?" (obrigatória). Pergunta 2, parágrafo:
    "O que você esperava encontrar?" (opcional).
@@ -198,9 +202,10 @@ workflows sozinho).
 ## Licença e dados
 
 - Código: licença MIT (veja [`LICENSE`](LICENSE)).
-- Fonte do nome no topo das páginas: Questrial, licença SIL Open Font License 1.1, cortada só com
-  as letras usadas (`docs/assets/marca.woff2`; licença em
-  [`docs/assets/marca-OFL.txt`](docs/assets/marca-OFL.txt)).
+- Fonte do nome no topo das páginas: versão modificada (só as letras usadas, renomeada "PD Marca")
+  da Google Sans, licença SIL Open Font License 1.1 (`docs/assets/marca.woff2`; licença em
+  [`docs/assets/marca-OFL.txt`](docs/assets/marca-OFL.txt)). "Google" e "Google Sans" são marcas da
+  Google LLC; este projeto não tem vínculo com a Google.
 - Dados: metadados públicos (número, data, ementa, endereço das páginas e nomes das âncoras) do
   portal da legislação da Presidência da República,
   <https://www.planalto.gov.br/ccivil_03/>. O texto das leis não é copiado; a fonte é sempre o

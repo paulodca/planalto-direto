@@ -239,7 +239,10 @@ async function checarCasos(ctx) {
     const tPronto = Date.now();
     const d = await aba.avaliar(EXPR_LER);
     const erros = conferir(e, observarDom(d), cfg.PLANALTO_BASE);
-    if (e.sugestao && !d.sugestao) erros.push('bloco de sugestão ausente');
+    // o bloco de sugestão segue o config.js (SUGESTAO_ATIVA = "sim" | "nao")
+    const sugAtiva = cfg.SUGESTAO_ATIVA === 'sim';
+    if (e.sugestao && sugAtiva && !d.sugestao) erros.push('bloco de sugestão ausente');
+    if (e.sugestao && !sugAtiva && d.sugestao) erros.push('bloco de sugestão presente com SUGESTAO_ATIVA="nao"');
     if (d.tipo === 'exato') {
       const lim = (d.texto.includes('Ctrl+F') ? esperaDica : esperaMs) + 3000;
       const fim = Date.now() + lim;
@@ -368,7 +371,8 @@ const EXPR_CONTRASTE = `(() => {
     const h = rgba(getComputedStyle(document.documentElement).backgroundColor); return h && h[3] > 0.5 ? h : [255, 255, 255, 1]; };
   const pares = new Map();
   for (const el of document.querySelectorAll('body *')) {
-    if (['SCRIPT', 'STYLE', 'NOSCRIPT'].includes(el.tagName) || el.closest('.sr')) continue;
+    // .marca/.marca-mini = logotipo: isento de contraste mínimo (WCAG 2.x, 1.4.3, exceção "Logotypes")
+    if (['SCRIPT', 'STYLE', 'NOSCRIPT'].includes(el.tagName) || el.closest('.sr') || el.closest('.marca, .marca-mini')) continue;
     const temTexto = Array.from(el.childNodes).some((n) => n.nodeType === 3 && n.textContent.trim());
     if (!temTexto) continue;
     const cs = getComputedStyle(el), r = el.getBoundingClientRect();

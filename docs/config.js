@@ -4,6 +4,7 @@ window.PD_CONFIG = Object.freeze({
   SITE_URL: "https://paulodca.github.io/planalto-direto/",
   SITE_PATH: "/planalto-direto/",
   REPO_URL: "https://github.com/paulodca/planalto-direto",
+  SUGESTAO_ATIVA: "nao",
   SUGESTAO_URL: "",
   SUGESTAO_CAMPO: "",
   GOOGLE_VERIFICACAO: "",
